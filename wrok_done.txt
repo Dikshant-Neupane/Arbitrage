@@ -1,0 +1,79 @@
+# REAL_STATE – Real Estate Arbitrage Scanner
+
+## Objective
+Build an automated system that:
+- Scrapes real estate data from the web  
+- Cleans and structures the data  
+- Analyzes properties for undervaluation (arbitrage opportunities)  
+- Stores results in a database for long-term use  
+
+This project is designed to master:
+- Python programming logic  
+- Data engineering pipelines (ETL)  
+- Web scraping  
+- Data cleaning and analysis  
+- SQL as application memory  
+
+---
+
+## Project Structure
+
+REAL_STATE/
+├── main.py
+├── README.md
+├── requirements.txt
+├── config/
+│ └── db_config.py
+├── data/
+│ ├── raw/
+│ └── cleaned/
+├── logs/
+├── modules/
+│ ├── scraper.py
+│ ├── cleaner.py
+│ └── database.py
+└── scripts/
+
+
+---
+
+## Phase 1: Data Pipeline Foundation (Completed)
+
+A complete automated pipeline was built using an ETL model:
+
+Internet
+↓
+Scraper (modules/scraper.py)
+↓
+Raw CSV (data/raw/raw_properties.csv)
+↓
+Cleaner (modules/cleaner.py)
+↓
+Cleaned CSV (data/cleaned/cleaned_properties.csv)
+↓
+Database Loader (modules/database.py)
+↓
+SQLite Database (data/properties.db)
+
+
+---
+
+## Modules Description
+
+| Module | Responsibility |
+|------|---------------|
+| `scraper.py` | Scrapes data from a website and saves raw CSV |
+| `cleaner.py` | Cleans data and calculates price per square foot |
+| `database.py` | Stores cleaned data into SQLite database |
+| `main.py` | Runs the entire pipeline in one command |
+
+---
+
+## Current Capabilities
+
+- Automated scraping  
+- Automated data cleaning  
+- SQLite database storage  
+- One-command execution of full pipeline  
+
+---
