@@ -77,3 +77,9 @@ SQLite Database (data/properties.db)
 - One-command execution of full pipeline  
 
 ---
+
+
+Phase 2 :
+The system now detects undervalued real estate opportunities using market-based pricing logic and stores them as structured intelligence in the database.
+
+---

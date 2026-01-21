@@ -1,14 +1,123 @@
+# ============================================
+# Real Estate Arbitrage Scanner - Dependencies
+# ============================================
+# 
+# This file lists all Python packages required to run the
+# Real Estate Arbitrage Scanner project successfully.
+#
+# Installation: pip install -r requirements.txt
+# ============================================
+
+# --------------------------------------------
+# Core Web Scraping Libraries
+# --------------------------------------------
+
 beautifulsoup4==4.14.3
-certifi==2026.1.4
-charset-normalizer==3.4.4
-idna==3.11
-numpy==2.4.1
-pandas==2.3.3
-python-dateutil==2.9.0.post0
-pytz==2025.2
+# Beautiful Soup is a library for pulling data out of HTML and XML files.
+# Used for: Parsing real estate website HTML and extracting property data
+# Docs: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
 requests==2.32.5
-six==1.17.0
+# Requests allows you to send HTTP requests easily.
+# Used for: Fetching web pages from real estate websites
+# Docs: https://requests.readthedocs.io/
+
 soupsieve==2.8.2
-typing_extensions==4.15.0
+# CSS selector library for Beautiful Soup
+# Used for: Advanced HTML element selection using CSS selectors
+# Auto-installed with beautifulsoup4
+
+# --------------------------------------------
+# Data Analysis & Manipulation
+# --------------------------------------------
+
+pandas==2.3.3
+# Pandas provides data structures and analysis tools for Python
+# Used for: 
+#   - Loading CSV files (raw and cleaned data)
+#   - Data cleaning and transformation
+#   - Calculating price per square foot
+#   - Statistical analysis of property prices
+# Docs: https://pandas.pydata.org/docs/
+
+numpy==2.4.1
+# NumPy is the fundamental package for numerical computing
+# Used for: 
+#   - Mathematical operations on property data
+#   - Array manipulations
+#   - Statistical calculations
+# Docs: https://numpy.org/doc/
+
+# --------------------------------------------
+# Date & Time Handling
+# --------------------------------------------
+
+python-dateutil==2.9.0.post0
+# Extensions to the standard Python datetime module
+# Used for: Parsing listing dates and timestamps from websites
+# Docs: https://dateutil.readthedocs.io/
+
+pytz==2025.2
+# World timezone definitions for Python
+# Used for: Handling timezones in property listing dates
+# Docs: https://pythonhosted.org/pytz/
+
 tzdata==2025.3
+# IANA time zone database for Python
+# Used for: Timezone data support for cross-platform compatibility
+# Auto-installed with pandas
+
+# --------------------------------------------
+# HTTP & Network Dependencies
+# --------------------------------------------
+
 urllib3==2.6.3
+# HTTP library with thread-safe connection pooling
+# Used for: Low-level HTTP operations (dependency of requests)
+# Docs: https://urllib3.readthedocs.io/
+
+certifi==2026.1.4
+# Python package for providing Mozilla's CA Bundle
+# Used for: SSL certificate verification for secure HTTPS connections
+# Docs: https://github.com/certifi/python-certifi
+
+charset-normalizer==3.4.4
+# Character encoding detection library
+# Used for: Detecting encoding of scraped web pages
+# Auto-installed with requests
+
+idna==3.11
+# Internationalized Domain Names in Applications (IDNA)
+# Used for: Handling international domain names
+# Auto-installed with requests
+
+# --------------------------------------------
+# Type Checking & Utilities
+# --------------------------------------------
+
+typing_extensions==4.15.0
+# Backported and experimental type hints for Python
+# Used for: Enhanced type hints support across Python versions
+# Docs: https://typing-extensions.readthedocs.io/
+
+six==1.17.0
+# Python 2 and 3 compatibility library
+# Used for: Ensuring code compatibility across Python versions
+# Auto-installed with various dependencies
+
+# ============================================
+# Additional Notes
+# ============================================
+#
+# SQLite: No installation needed - included with Python
+# Used for: Database storage of property data
+#
+# Python Version: Requires Python 3.12 or higher
+#
+# To update all packages to latest versions:
+# pip install --upgrade -r requirements.txt
+#
+# To freeze current environment:
+# pip freeze > requirements.txt
+#
+# ============================================
