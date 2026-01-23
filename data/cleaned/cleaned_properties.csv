@@ -1,11 +1,11 @@
-title,price,area,location,price_per_sqft
-“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”,100000,500,Test City,200.0
-"“It is our choices, Harry, that show what we truly are, far more than our abilities.”",110000,520,Test City,211.53846153846155
-“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”,120000,540,Test City,222.22222222222223
-"“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”",130000,560,Test City,232.14285714285714
-"“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”",140000,580,Test City,241.3793103448276
-“Try not to become a man of success. Rather become a man of value.”,150000,600,Test City,250.0
-“It is better to be hated for what you are than to be loved for what you are not.”,160000,620,Test City,258.06451612903226
-"“I have not failed. I've just found 10,000 ways that won't work.”",170000,640,Test City,265.625
-“A woman is like a tea bag; you never know how strong it is until it's in hot water.”,180000,660,Test City,272.72727272727275
-"“A day without sunshine is like, you know, night.”",190000,680,Test City,279.4117647058824
+title,price,area,location,price_per_sqft,undervalued
+“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”,100000,500,Test City,200.0,True
+"“It is our choices, Harry, that show what we truly are, far more than our abilities.”",110000,520,Test City,211.53846153846155,True
+“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”,120000,540,Test City,222.22222222222223,True
+"“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”",130000,560,Test City,232.14285714285714,True
+"“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”",140000,580,Test City,241.3793103448276,True
+“Try not to become a man of success. Rather become a man of value.”,150000,600,Test City,250.0,False
+“It is better to be hated for what you are than to be loved for what you are not.”,160000,620,Test City,258.06451612903226,False
+"“I have not failed. I've just found 10,000 ways that won't work.”",170000,640,Test City,265.625,False
+“A woman is like a tea bag; you never know how strong it is until it's in hot water.”,180000,660,Test City,272.72727272727275,False
+"“A day without sunshine is like, you know, night.”",190000,680,Test City,279.4117647058824,False
