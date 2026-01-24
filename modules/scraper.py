@@ -1,38 +1,72 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
+import time
 import os
+import json
 
-RAW_PATH = "data/raw/raw_properties.csv"
+BASE_URL = "https://newyork.craigslist.org/search/rea"
 
-def scrape_properties():
-    url = "https://quotes.toscrape.com/"
-    response = requests.get(url)
-    soup = BeautifulSoup(response.text, "html.parser")
+# Get the project root directory
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+RAW_PATH = os.path.join(PROJECT_ROOT, "data", "raw", "raw_properties.csv")
 
-    quotes = soup.select(".quote")
+def scrape_properties(pages=3, delay=2):
+    listings = []
 
-    data = []
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
 
-    for i, q in enumerate(quotes):
-        title = q.select_one(".text").get_text(strip=True)
-        price = 100000 + i * 10000        # fake price
-        area = 500 + i * 20               # fake area
-        location = "Test City"
+    for page in range(pages):
+        start = page * 120
+        url = f"{BASE_URL}?s={start}" if start > 0 else BASE_URL
+        print(f"Scraping page {page+1}: {url}")
 
-        data.append({
-            "title": title,
-            "price": price,
-            "area": area,
-            "location": location
-        })
+        response = requests.get(url, headers=headers)
+        soup = BeautifulSoup(response.text, "html.parser")
 
-    df = pd.DataFrame(data)
+        # Craigslist now uses JSON-LD structured data
+        json_script = soup.find("script", {"id": "ld_searchpage_results"})
+        
+        if json_script:
+            try:
+                data = json.loads(json_script.string)
+                items = data.get("itemListElement", [])
+                
+                for item in items:
+                    property_data = item.get("item", {})
+                    address = property_data.get("address", {})
+                    
+                    title = property_data.get("name", "")
+                    location = f"{address.get('addressLocality', '')}, {address.get('addressRegion', '')}"
+                    property_type = property_data.get("@type", "")
+                    
+                    # Try to get price and area if available
+                    price = property_data.get("price", None)
+                    area = property_data.get("floorSize", {}).get("value", None) if isinstance(property_data.get("floorSize"), dict) else None
+                    bedrooms = property_data.get("numberOfBedrooms", None)
+                    bathrooms = property_data.get("numberOfBathroomsTotal", None)
+                    
+                    listings.append({
+                        "title": title,
+                        "price": price,
+                        "area": area,
+                        "location": location.strip(", "),
+                        "property_type": property_type,
+                        "bedrooms": bedrooms,
+                        "bathrooms": bathrooms
+                    })
+            except json.JSONDecodeError as e:
+                print(f"Error parsing JSON: {e}")
+
+        time.sleep(delay)
+
+    df = pd.DataFrame(listings)
 
     os.makedirs(os.path.dirname(RAW_PATH), exist_ok=True)
     df.to_csv(RAW_PATH, index=False)
 
-    print(f"Scraped data saved to {RAW_PATH}")
-
-if __name__ == "__main__":
-    scrape_properties()
+    print(f"\nScraper finished!")
+    print(f"Total listings scraped: {len(df)}")
+    print(df.head())

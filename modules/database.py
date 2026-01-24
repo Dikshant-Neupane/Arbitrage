@@ -1,11 +1,18 @@
 import sqlite3
 import pandas as pd
+import os
 from config.db_config import DB_PATH
 
-def insert_properties():
-    conn = sqlite3.connect(DB_PATH)
+# Get the project root directory (parent of modules folder)
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-    df = pd.read_csv("data/cleaned/cleaned_properties.csv")
+def insert_properties():
+    db_path = os.path.join(PROJECT_ROOT, DB_PATH)
+    csv_path = os.path.join(PROJECT_ROOT, "data", "cleaned", "cleaned_properties.csv")
+    
+    conn = sqlite3.connect(db_path)
+
+    df = pd.read_csv(csv_path)
 
     conn.execute("DROP TABLE IF EXISTS properties")
 

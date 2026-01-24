@@ -1,11 +1,889 @@
-title,price,area,location
-“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”,100000,500,Test City
-"“It is our choices, Harry, that show what we truly are, far more than our abilities.”",110000,520,Test City
-“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”,120000,540,Test City
-"“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”",130000,560,Test City
-"“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”",140000,580,Test City
-“Try not to become a man of success. Rather become a man of value.”,150000,600,Test City
-“It is better to be hated for what you are than to be loved for what you are not.”,160000,620,Test City
-"“I have not failed. I've just found 10,000 ways that won't work.”",170000,640,Test City
-“A woman is like a tea bag; you never know how strong it is until it's in hot water.”,180000,660,Test City
-"“A day without sunshine is like, you know, night.”",190000,680,Test City
+title,price,area,location,property_type,bedrooms,bathrooms
+EAST FLATBUSH---GUT-RENOVATED SEMI-DETACHED HOUSE,,,"Brooklyn, NY",House,,
+Daily $15 &Up and $145/Weekly Room share. $240/weekly Private Room,,,"Elmhurst, NY",Apartment,,
+Two rooms available now,,,"Brooklyn, NY",Apartment,,
+For Sale By Owner   NJ Townhome,,,"Allamuchy, NJ",Apartment,,
+"Gravesend, Avenue U- Liquor store for sale!!!",,,"Brooklyn, NY",Apartment,,1.0
+313 Brightwater Ct. #2H Large 2 room studio for sal,,,"Brooklyn, NY",Apartment,1.0,1.0
+"Brighton Beach- Detached, brick 2 Family house for sale!",,,"Brooklyn, NY",House,,
+Sheepshead Bay.  2626 Homecrest Ave #7K,,,"Brooklyn, NY",Apartment,1.0,1.0
+RENT STORM SALE REDUCED TO MELT THE SNOW!!,,,"Yonkers, NY",Apartment,1.0,1.0
+Townhouse/ End Unit,,,"Staten Island, NY",House,,
+Studio 1 bath. FOR RENT,,,"Weston, CT",Apartment,,
+Forest Hills One Large Bedroom (820 SQFT) for rent of $2300 monthly,,,"Forest Hills, NY",Apartment,1.0,1.0
+Forest Hills One Large Bedroom (820 SQFT) for rent of $2300 monthly,,,"Forest Hills, NY",Apartment,1.0,1.0
+House in small town NEBRASKA,,,"Columbus, NE",House,3.0,1.0
+🌆💼Did you hear that New Yorkers are flocking Florida?to SW Florida?,,,"Sarasota, FL",House,,
+2 BEDROOM APARTMENT FOR RENT,,,"East Elmhurst, NY",House,2.0,1.0
+Beautiful Northport: Lovely 3 Bedroom / 1 Bath,,,"Northport, NY",Apartment,3.0,1.0
+1 Bed + Large Bonus Room + 2 Bath,,,"New York, NY",Apartment,,
+1 Bed + Large Bonus Room + 2 Bath,,,"New York, NY",Apartment,,
+Large Studio & Home Office,,,"New York, NY",Apartment,,
+Large Studio & Home Office,,,"New York, NY",Apartment,,
+Large Studio & Home Office,,,"New York, NY",Apartment,,
+Corner View 2B/2B,,,"New York, NY",Apartment,,
+Corner View 2B/2B,,,"New York, NY",Apartment,,
+Large Studio + Home Office,,,"New York, NY",Apartment,,
+Corner View FLEX 2 BED / 1 Bath,,,"New York, NY",Apartment,,
+1B/1B with Views,,,"New York, NY",Apartment,,
+Large Studio with Views,,,"New York, NY",Apartment,,
+South Facing Alcove Studio,,,"New York, NY",Apartment,,
+Large Chelsea Studio w/ Walk-in Closet,,,"New York, NY",Apartment,,
+Cozy 1B/1B with Private Balcony,,,"Brooklyn, NY",Apartment,,
+Large Bed-Stuy Studio,,,"Brooklyn, NY",Apartment,,
+Corner View 1B/1B in LIC,,,"Long Island City, NY",Apartment,,
+Fort Greene 2B/2B,,,"Brooklyn, NY",Apartment,,
+Alcove 1B/1B (Flex 2) in LIC,,,"Long Island City, NY",Apartment,,
+Fort Greene 2B/2B,,,"Brooklyn, NY",Apartment,,
+Fort Greene 2B/2B,,,"Brooklyn, NY",Apartment,,
+Luxury 2B/1B in West Chelsea,,,"New York, NY",Apartment,2.0,1.0
+Spacious Studio with Views in Bed Stuy,,,"Brooklyn, NY",Apartment,,
+Greenpoint Studio with Walk-In Closet,,,"Brooklyn, NY",Apartment,,
+Large Studio + Home Office,,,"New York, NY",Apartment,,
+Large Studio + Home Office,,,"New York, NY",Apartment,,
+Corner View Studio in Bed-Stuy,,,"Brooklyn, NY",Apartment,,
+South Facing Studio,,,"Brooklyn, NY",Apartment,,1.0
+Luxury Penthouse Studio,,,"New York, NY",Apartment,,
+"3-BED, 2 BATHS",,,"Bronx, NY",House,3.0,2.0
+"Ozone Park, Room Rental #TwinBed",,,"Ozone Park, NY",Apartment,3.0,1.0
+Jumbo Room + Queen Bed #OzonePark,,,"Ozone Park, NY",Apartment,3.0,1.0
+Weeki Wachee Florida Waterfront Property 4 BDR 3BTH,,,"Spring Hill, FL",Apartment,4.0,3.0
+AUTO REPAIR SHOP PROPERTY FOR SALE at LONG ISLAND,,,"Ronkonkoma, NY",Apartment,,
+"260 COMMACK ROAD BUSINESS"" FOR SALE",,,"Commack, NY",Apartment,,
+"LAND, for SALE, .",,,"Ronkonkoma, NY",Place,,
+THREE FAMILY FOR SALE,,,"Arverne, NY",Apartment,8.0,3.0
+➡️ Help us help you take the stress out of finding your  living space.,,,"Bronx, NY",Apartment,,
+F/S Corner Newly Renovated Huge 1Br  Junior 4  Prime Location  SeePic.,,,"Brooklyn, NY",Apartment,1.0,1.0
+Newly Renovated Huge 2Br  Apt.  In Prime Midwood Location  F/S.,,,"Brooklyn, NY",Apartment,1.0,1.0
+Two Bedroom Coop Apt,,,"Forest Hills, NY",Apartment,2.0,1.0
+LOT for SALE - 5 blocks from Prospect Park,,,"Brooklyn, NY",Place,,
+near Yankee stadium 2br elevator and parking,,,"Bronx, NY",Apartment,,
+Deal Of The Month Brand New Renovated 1Br & Studio Apt See Pic:,,,"New York, NY",Apartment,1.0,1.0
+10000ft2 - Corner Elev Building Community Space /Medical Space/Tutorin,,,"New York, NY",Apartment,3.0,
+Gorgeous X Large Alcove Studio Apt. Elev. Building,,,"New York, NY",Apartment,,1.0
+Deal Of The Month Newely  Renovated Large Alcove Studio Apt.,,,"New York, NY",Apartment,,1.0
+For Sale X Large 1Br Apt.in Luxury Full Time Doorman Building,,,"Brooklyn, NY",Apartment,1.0,1.0
+Great Ground Floor Storage With Office Space,,,"Brooklyn, NY",Apartment,,
+$1950-$2100 / 1Br - Single Room DEAL OF THE MONTH (Upper West Side),,,"New York, NY",Apartment,,
+124th Street 8th avenue,,,"New York, NY",Apartment,1.0,
+HOUSE FOR SALE NEWLY TIP TOP RENOVATED PRIME LOCATION,,,"Brooklyn, NY",House,7.0,4.0
+Well Establish Renovated Medical Office Best Location See Pic.,,,"New York, NY",Apartment,,
+2FA House For Sale,,,"Brooklyn, NY",House,6.0,4.0
+STORE FRONT Available Perfect Location,,,"Brooklyn, NY",Apartment,,
+F/S Corner Newly Renovated Huge 2Br Apt Prime Location  SeePic.,,,"Brooklyn, NY",Apartment,1.0,1.0
+Deal Of The Month  Newly Renovated  2Br Apt. With Back Yard  See Pic.,,,"New York, NY",Apartment,2.0,1.0
+BEST  DEAL LARGE  1Br  APT,,,"New York, NY",Apartment,1.0,1.0
+"Large1Br Apt, For Sale in a Coop Eel. Building Perfect For Investment",,,"Brooklyn, NY",Apartment,1.0,1.0
+Deal Of The Month Brand New Renovated 3Br / 2Bath Apt.     See Pic.,,,"New York, NY",Apartment,3.0,2.0
+2Br / 11/2 Bath  Apt in NEWLY LUX ELEVATOR BUILDING,,,"Brooklyn, NY",Apartment,2.0,2.0
+"X Large 1Br Apt, For Sale in a Lux  Coop  Building",,,"Brooklyn, NY",Apartment,1.0,1.0
+2 Bedroom For Rent,,,"Corona, NY",Apartment,,
+2 Bedroom For Rent,,,"Rego Park, NY",Apartment,2.0,2.0
+"260 COMMACK ROAD BUSINESS"" FOR SALE",,,"Commack, NY",Apartment,,
+RARE DUPLEX with 24' Ceilings and 3 Terraces! Gotta see this for sure,,,"Brooklyn, NY",Apartment,3.0,2.0
+"CLASSIC 6- Elegance, Space, Location- all for less than you think",,,"New York, NY",Apartment,,
+Authentic Live/Work LOFT- Reno Opportunity for this wonderful PH LOFT,,,"New York, NY",Apartment,,
+ATTN ATTN CONDO CONVERSION- 2BR LOFTS for SALE,,,"New York, NY",Apartment,2.0,2.0
+RENT IT or OWN IT!! DUPLEX LOFTY FIND in heart of SOHO-DRAMA!!!!,,,"New York, NY",Apartment,2.0,2.0
+Its a LOFT! Its a PH! Its a 3BR/2BA!  Get the very best of SOHO,,,"New York, NY",Apartment,3.0,2.0
+Bay Ridge Fully Detached 2 family BEAUTY FOR SALE- Open House 1/14 by,,,"Brooklyn, NY",House,5.0,3.0
+Bensonhurst Immaculate 2 bed CoOp FOR SALE Open House Saturday 1/24- W,,,"Brooklyn, NY",Apartment,2.0,1.0
+"€105,000 Two Bedroom Apartment Central Athens",,,"Allamuchy, NJ",Apartment,,
+New Construction Condo in Atlanta! Only 2 Left! Call for a Tour!,,,"McDonough, GA",Apartment,,
+Country Living is Calling! New Construction in Atlanta,,,"Austell, GA",House,,
+🛑*ONLY $780000*BUY/LEASE CHELSEA OFFICE CONDO*,,,"New York, NY",Apartment,,
+🛑*$780000 BUY/LEASE*CHELSEA OPEN SPACE CONDO OFFICE*,,,"New York, NY",Apartment,,
+🛑$780000 BUY/LEASE CHELSEA OFFICE CONDO*2 OFFICES*BRIGHT OPEN SPACE*,,,"New York, NY",Apartment,,
+🛑*$780000 BUY/LEASE*CHELSEA OFFICE CONDO*2 OFFICES/BRIGHT OPEN AREA**,,,"New York, NY",Apartment,,
+🛑*$780000 CHELSEA OFFICE*2 OFFICES*OPEN BRIGHT SPACE*,,,"New York, NY",Apartment,,
+🛑*ONLY $1.425M*CHELSEA 2 BATHROOM OFFICE CONDO*,,,"New York, NY",Apartment,,
+🛑*$1.425M BUY/LEASE CHELSEA OFFICE CONDO*2 BATHROOMS*OPEN SPACE*,,,"New York, NY",Apartment,,
+🛑*$1.425 BUY/LEASE*CHELSEA OFFICE CONDO*2 BATHROOMS*NICE LOBBY*,,,"New York, NY",Apartment,,
+🛑*$1.425M CHELSEA OFFICE*2 BATHROOMS*OPEN LOFT*NICE LOBBY/DOORMAN*,,,"New York, NY",Apartment,,
+2BR / 1BA – Private Backyard – Laundry In-Unit – Available Now,,,"Ridgewood, NY",Apartment,2.0,1.0
+"Oversized 3 bedrooms, 3 baths, beautiful engineered hardwood floors!!",,,"Staten Island, NY",House,3.0,3.0
+"Wonderful Port Richmond location, Convenient to transportation...",,,"Staten Island, NY",House,4.0,3.0
+Charming and spacious two-family end-unit townhouse!!!,,,"Staten Island, NY",Apartment,4.0,4.0
+This affordable gem is ideal for investors seeking a solid return!!,,,"Staten Island, NY",House,3.0,2.0
+Junior 2 bedroom-Occupancy South Broadway Yard first floor,,,"Yonkers, NY",Apartment,2.0,1.0
+"Discover this meticulously updated, expansive Two-Family residence!!",,,"Staten Island, NY",House,3.0,3.0
+The uniquely customized single-family home you have been waiting for!,,,"Staten Island, NY",House,2.0,2.0
+Spacious - elevtor - central,,,"New York, NY",Apartment,1.0,1.0
+Awesome meticulously maintained Richmond Town colonial home!!!,,,"Staten Island, NY",House,3.0,2.0
+"Lovely fully detached colonial style home, in the heart of Westerleigh",,,"Staten Island, NY",House,4.0,2.0
+STORAGE FOR RENT HILLSIDE AVE,,,"Richmond Hill, NY",Apartment,,
+LARGE 3 BEDROOMS 1 BATH,,,"Forest Hills, NY",Apartment,2.0,2.0
+"PRICED RIGHT! Great starter home for 1st time homeowner, needs tlc.",,,"Staten Island, NY",House,3.0,2.0
+Well-Maintained home! Perfect for 1st time buyers. Nice-sized bedrooms,,,"Staten Island, NY",House,3.0,3.0
+CHARMING 2 BEDROOM SIDE HALL COLONIAL WITH PARKLIKE BACKYARD!!!,,,"Staten Island, NY",House,2.0,2.0
+1 br coop in Flatbush junction 2mins train target Aldi FSBO best offer,,,"Brooklyn, NY",Apartment,1.0,1.0
+3 bedroom for rent by owner.,,,"Bronx, NY",Apartment,3.0,1.0
+"Any Investors interested in investing in ""AI"" and ""Apps"".????",,,"New York, NY",Apartment,,
+I have leads on properties in a number of states.,,,"New York, NY",Apartment,,
+Beautiful 1BR fully renovated floor through,,,"Brooklyn, NY",Apartment,1.0,1.0
+"Anybody have ""Gold Dore Bars"" to sell and refine???",,,"New York, NY",Apartment,,
+Looking for Buyers of Gold-bars or bullion,,,"New York, NY",Apartment,,
+"Looking for investors for Gold, Silver, Bitcoins, Crypto investing",,,"New York, NY",Apartment,,
+Looking for Private Money Investors,,,"New York, NY",Apartment,,
+"Used Car Lot Poconos, Corner Lot",,,"Mountainhome, PA",Apartment,,
+UPSCALE Central Florida 55+ Manufactured Home 2/2 1270 sf * LIKE NEW *,,,"Deland, FL",House,2.0,2.0
+Full apartment - June 12 to June 28 (World Cup)  - $400/night,,,"New York, NY",Apartment,,
+Full apartment - February 16 to February 19 - $200/night,,,"New York, NY",Apartment,,
+3 bedrooms marolla place,,,"Mount Vernon, NY",Apartment,3.0,3.0
+Rooms for rent.,,,"Mount Vernon, NY",Apartment,1.0,
+move to fl 1/2 duplex,,,"Edgewater, FL",Apartment,2.0,2.0
+1 BEDROOM 1 BATH CARNARSIE,,,"Brooklyn, NY",Apartment,1.0,1.0
+LEGAL 2 FAMILY @ 28-17 38 STREET FOR SALE BY OWNER,,,"Astoria, NY",Apartment,7.0,3.0
+"🏢 2,500 SQFT Office/Retail/Professional Space — High-Income Neighborh",,,"Springfield Gardens, NY",Apartment,,
+"🏢 2,500 SQFT Office/Retail/Professional Space — High-Income Neighborh",,,"Springfield Gardens, NY",Apartment,,
+Retail*Store*Discount*Basement*Lots Of Foot Traffic*10th Ave*W50th St,,,"New York, NY",Apartment,,
+Rental*Co-op*Bright*Views*Elevator*Laundry*Pets*No Fee! W203rd,,,"New York, NY",Apartment,1.0,1.0
+Rental*Co-op*Bright*Views*Full Sep Kitchen*Pets Ok Great Share*W148th,,,"New York, NY",Apartment,3.0,1.0
+Warehouse*Developement*Investment Property*Parking*Can Deliver Vacant,,,"Brooklyn, NY",Apartment,,
+2 Bedroom For Rent in Hunts Point $2500,,,"Bronx, NY",Apartment,2.0,1.0
+Building Sale-Or Lease*Vacant*3 Floors+Lower Level*W181,,,"New York, NY",House,,
+3 Bedroom Apartment for Rent,,,"Bronx, NY",Apartment,,
+PH 2br in iconic Village Condo- not listed but available,,,"New York, NY",Apartment,2.0,2.0
+AUTO REPAIR SHOP P & B FOR SALE at LONG ISLAND,,,"Ronkonkoma, NY",Apartment,,
+"520 Portion Rd. LAND, for SALE, .",,,"Ronkonkoma, NY",Place,,
+2-Family House,,,"Middle Village, NY",House,3.0,3.0
+"260 COMMACK ROAD RETAIL FOOD ""PROPERTY & BUSINESS"" FOR SALE",,,"Commack, NY",Apartment,,
+WINDOWED OFFICE MIDTOWN WEST GREAT FOR HAIR SALON WATER INCLUDED,,,"New York, NY",Apartment,,
+New To Market- 3 desk Private Office at DISCOUNTED PRICE *NO FEE,,,"New York, NY",Apartment,,
+MIDTOWN NEW OFFICES AND FLOORS FOR BUSINESS ***NO FEE,,,"New York, NY",Apartment,,
+HAIR SALON OR REGULAR OFFICE IN MIDTOWN WEST ***NO FEE,,,"New York, NY",Apartment,,
+WINDOWED OFFICE NEAR TIMES SQUARE *NO FEE,,,"New York, NY",Apartment,,
+Cozy 1 bedroom apartment for Rent,,,"Staten Island, NY",Apartment,1.0,1.0
+Your Dedicated NYC Broker,,,"New York, NY",Apartment,,
+Large Full Floor Office for Big Business *NO FEE,,,"New York, NY",Apartment,,
+SOHO UPSCALE MOVE IN READY OFFICE FOR YOUR BUSINESS *NO FEE,,,"New York, NY",Apartment,,
+LARGE FLEX OFFICE FOR 13 EMPLOYEES- FURNISHED M2M or UP TO 2 YRS LIC,,,"Long Island City, NY",Apartment,,
+50% PRIVATE OFFICES-REAL DEALS BUT FOR A LIMITED TIME. PM TO TOUR,,,"New York, NY",Apartment,,
+Special 2 room OFFICE SUITE in MIDTOWN at DISCOUNT *NO FEE,,,"New York, NY",Apartment,,
+CHEAPEST WINDOWED OFFICE IN THE CITY.  WILL GO FAST! $1700 NO FEE,,,"New York, NY",Apartment,,
+Awesome Windowed office with Wood Floors *NO FEE,,,"New York, NY",Apartment,,
+NYC OFFICE FINDER,,,"New York, NY",Apartment,,
+Windowed Office NEar Times Square *NO FEE,,,"New York, NY",Apartment,,
+Exceptional Contemporary Home with River & Mountain views,,,"Cornwall On Hudson, NY",House,3.0,4.0
+3 bedroom apartment for rent,,,"Elmhurst, NY",Apartment,,
+Updated 3 Bedroom/2.5 Bthroom Single Family Home,,,"Brooklyn, NY",House,3.0,3.0
+2 Bedroom For Rent,,,"Jamaica, NY",Apartment,,
+1 Bedroom For Rent,,,"Rego Park, NY",Apartment,,
+126th Street 7th avenue,,,"New York, NY",Apartment,1.0,
+Apartment for rent,,,"Forest Hills, NY",Apartment,1.0,1.0
+Clinton Hill Mansion Row Special,,,"Brooklyn, NY",House,,6.0
+Key Lock Elevator to your DREAM LOFT! 2000SF and TONS OF LIGHT,,,"New York, NY",Apartment,2.0,2.0
+Deal Fell Thru- RENT this MASSIVE 5 BR DUPLEX LOFT w/4200SF,,,"New York, NY",Apartment,5.0,3.0
+"Authentic LOFT, South Facing, 12' Ceilings, FLEXIBLE LAYOUT!",,,"New York, NY",Apartment,,
+DIRECT PARK VIEWS! Sunset views too! 4BR ELEGANCE on CPW,,,"New York, NY",Apartment,4.0,4.0
+ELEGANCE in your CONVERTIBLE 3BR Beauty,,,"New York, NY",Apartment,,
+"NOT EVEN LISTED! 3000SF LOFT, Minimal Monthlies and Great Investment",,,"New York, NY",Apartment,,
+Dos recamaras apartamento para alquilar,,,"Elmont, NY",Apartment,2.0,1.0
+Jumbo Duplex *Commercial Space* for Leasing,,,"Brooklyn, NY",Apartment,,1.0
+Comfy Room #FullSizeBed #OzonePark #JFK,,,"Ozone Park, NY",Apartment,3.0,1.0
+Fulton Street,,,"Brooklyn, NY",Apartment,1.0,
+Fulton Street,,,"Brooklyn, NY",Apartment,1.0,
+Jefferson avenue between Tompkins and throop,,,"Brooklyn, NY",Apartment,1.0,
+Unique mix-use property with garage,,,"New York, NY",House,,
+PERFECT 3BR ON PARK! RARE to find a RENTAL but here you are,,,"New York, NY",Apartment,3.0,4.0
+"Vacant Legal 4 family, needs TLC in Albany NY",,,"Brooklyn, NY",House,6.0,4.0
+"Fully Detached Single Family in Daytona Beach, Florida",,,"Saint Albans, NY",House,3.0,2.0
+Grenada Caribbean get away,,,"New York, NY",Apartment,,
+THE PROSPECT HEIGHTS HONEY,,,"Brooklyn, NY",House,,4.0
+30-UNIT PRE-WAR MULTIFAMILY BUILDING,,,"New York, NY",Apartment,,
+2&3br Sponsored coops NO BOARD APPROVAL needed! Yonkers & Mt Vernon,,,"Mount Vernon, NY",Apartment,3.0,2.0
+XL STUDIO near Wash Sq Park- Lofted gem for WAY LESS than you think,,,"New York, NY",Apartment,,
+RARE to  find a 4BR/4.5BA- but  here it is! In a 2 STORY TH!,,,"Brooklyn, NY",House,4.0,5.0
+"Classic, Prewar Charm fully updated! Own a 2BR for the price of a 1BR",,,"New York, NY",Apartment,2.0,1.0
+"Cool, Duplex, Lofty Find for less than you think",,,"New York, NY",Apartment,1.0,1.0
+"2500SF Massive LOFT- Offered FURNISHED til the New Year, Maybe LONGER",,,"New York, NY",Apartment,3.0,2.0
+Want a  project? COMBINE 2 Units to your DREAM 3BR in the VILLAGE!,,,"New York, NY",Apartment,,
+"UNREAL DEAL! Top Floor, Well run co-op, Balcony, Breathtaking views",,,"New York, NY",Apartment,2.0,1.0
+Mixed Use TH! Flexible LIVE/WORK options- Needle in the haystack!,,,"New York, NY",House,,
+HIGH FLOOR! 1BR perfection near Lincoln Center and its a CONDO,,,"New York, NY",Apartment,1.0,1.0
+PREWAR CONDO STEAL! 2BR/2BA GEM flooded with Light,,,"New York, NY",Apartment,2.0,2.0
+"LOFT LIFE FOR LESS! Its a CONDO too, and Convertible to a 2BR",,,"New York, NY",Apartment,1.0,1.0
+"HISTORIC, RENOVATED TH- 2 Family now or return to single family",,,"New York, NY",House,6.0,4.0
+"Authentic LOFT bldg circa 1920! Now, OWN YOUR OWN LOFT for LESS",,,"Brooklyn, NY",Apartment,2.0,2.0
+Loft-Style Beauty with Double Height Ceilings! PRIVATE OUTDOORS TOO,,,"New York, NY",Apartment,1.0,1.0
+"3000SF LOFT to OWN (or ask about renting!) Biggest Find in the ""hood""",,,"New York, NY",Apartment,3.0,2.0
+"DUPLEX LOFT for Less than you thought possible- Open plan, plus PATIO",,,"New York, NY",Apartment,2.0,1.0
+"SPONSOR STEAL! Purchase As-Is, OR choose to have sponsor RENOVATE",,,"New York, NY",Apartment,3.0,3.0
+Double Height Ceilings! Roof Deck! LOFTY FIND of FINDS,,,"Brooklyn, NY",Apartment,2.0,2.0
+Estate Sale of Famed Artist! WHEN ONLY THE COOLEST WILL DO!!!,,,"New York, NY",Apartment,2.0,2.0
+Prewar CONDO STEAL! Sponsor owned and SOLD AS-IS,,,"New York, NY",Apartment,3.0,2.0
+Duplex Oasis in Classic WV Townhouse! Room to Relax and Breathe,,,"New York, NY",Apartment,3.0,3.0
+Its your DREAM LOFT- Steps to Union Square- 2400SF of Perfect,,,"New York, NY",Apartment,3.0,3.0
+DREAM DUPLEX LOFT! 30' Ceilings and Breathtaking!,,,"New York, NY",Apartment,2.0,3.0
+OMG Moment! NOT LISTED but OWN this 2BR in full service CONDO,,,"New York, NY",Apartment,2.0,2.0
+LOFT-LIKE 2BR DEAL with Income Restrictions,,,"New York, NY",Apartment,2.0,2.0
+"PH of your dreams- RENT IT, OR OWN IT! It's a win-win choice",,,"New York, NY",Apartment,2.0,2.0
+Holy Cow! Landmark Bldg now lofty Co-Ops! Own a Spectacular 2BR,,,"New York, NY",Apartment,2.0,2.0
+TOWNHOUSE LIVING! Triplex Treat w/indoor /outdoor lifestyle,,,"New York, NY",House,4.0,3.0
+Garden Level beauty with Fireplace too!  RARE FIND in Bklyn Heights,,,"Brooklyn, NY",Apartment,2.0,1.0
+Perfect Canvas for your DREAM HOME!! TH TREAT!!,,,"Brooklyn, NY",House,,
+TH Living PLUS Roof Rights in this historic home,,,"Brooklyn, NY",House,2.0,1.0
+Coolest of LOFTS and Priced just right!  A true Seaport Steal,,,"New York, NY",Apartment,1.0,1.0
+Noho LOFT with  17' Ceilings! Best LOFT VALUE OUT THERE!,,,"New York, NY",Apartment,,
+Magic on Murray!! Your dream loft awaits if you can wait til February?,,,"New York, NY",Apartment,2.0,2.0
+TH 5BR QUADRIPLEX you can now RENT! From 3 Months to a Year,,,"New York, NY",House,5.0,6.0
+"Prime Bensonhurst – Most Desirable Cooperative Unit Approx. 1,000 sqft",,,"Brooklyn, NY",Apartment,2.0,1.0
+Brand New 3-Bedroom Apartment in the Heart of Rego Park,,,"Rego Park, NY",Apartment,3.0,1.0
+"CLASS ""A"" PROFESSIONAL DESK SPACE - PRIVATE ROOM",,,"Bayside, NY",Apartment,,
+Charming Townhouse,,,"New York, NY",House,6.0,6.0
+Semi detached 6 Fam in Queens,,,"New York, NY",Apartment,,
+E Village Storefront Duplex Condo,,,"New York, NY",Apartment,,
+SI Mixed use Investment property,,,"New York, NY",Apartment,,
+Bronx Investment Property,,,"New York, NY",Apartment,,
+Off Market Bk Multifamily,,,"New York, NY",Apartment,,
+11-UNIT PRE-WAR MULTIFAMILY,,,"New York, NY",Apartment,,
+"6 Story Elevator Brick apt Bldg, 32 apts",,,"New York, NY",Apartment,,
+"Taco business in E Harlem 800sf, 900sf bsmt",,,"New York, NY",Apartment,,
+Multi-Family Riverdale Townhouse with 2 Duplexes,,,"New York, NY",House,,
+PRIME investment 6 story 48 Unit Multifamily!,,,"New York, NY",Apartment,,
+Just listed/ Gorgeous Furnished Renovated Apt///Jan 15,,,"New York, NY",Apartment,2.0,1.0
+Luxury Hotel investment opportunity,,,"New York, NY",Apartment,,
+"Taco business in E Harlem 800sf, 900sf bsmt",,,"New York, NY",Apartment,,
+66 Key hotel in LIC,,,"New York, NY",Apartment,,
+Vacant Parking Garage for sale,,,"New York City, NY",House,,
+4 floor Parkside Brownstone,,,"New York, NY",House,,
+"40,000 RSF building for sale",,,"New York, NY",Apartment,,
+For Sale: Off Market 67 Unit Mixed Use in 2 Contiguous Buildings,,,"New York, NY",Apartment,,
+"Commercial condo space , 22,000 sf",,,"New York, NY",Apartment,,5.0
+Dream Wakefield 3 Bedroom,,,"New York, NY",House,,
+Stunning UES Prof Office,,,"New York, NY",Apartment,,
+"PRIME land in East Harlem by 4,5,6 Trains",,,"New York, NY",Place,,
+Grand investment opportunity,,,"New York, NY",House,,
+WAREWHOUSE AVAILABLE FOR LEASE,,,"Staten Island, NY",House,,
+LAND FOR LEASE,,,"Staten Island, NY",Place,,
+COMMERCIAL  FOR LEASE,,,"Far Rockaway, NY",House,,
+LAND FOR SALE,,,"Staten Island, NY",Place,,
+2 Bed Semibase apt live kit bath nice apt e,,,"Staten Island, NY",Apartment,2.0,1.0
+VACAND LAND FOR LEASE,,,"Staten Island, NY",Place,,
+Parlor Floor TH VIBE in Hudson Square! Own this charming 2BR beauty,,,"New York, NY",House,2.0,2.0
+Landmark PH Duplex! Simply Stellar and ready for sale after 35 years,,,"New York, NY",Apartment,2.0,2.0
+"Mint, Sunny, Tranquil 1BR GEM in CLASSIC WV TOWNHOUSE coming MARCH",,,"New York, NY",House,1.0,1.0
+Biggest and Best on West End! FIVE BR w.HUDSON VIEWS,,,"New York, NY",Apartment,5.0,3.0
+Soaring Ceilings in your Stunning 2BR LOFT on the North Side,,,"Brooklyn, NY",Apartment,2.0,2.0
+FIRST TIME in 40 Yrs! Full floor LOFT w ROOF RIGHTS needs TLC,,,"New York, NY",Apartment,2.0,2.0
+NOT ON SE! Ultimate LOFT in the ultimate LOCATION! And Ultimate Value,,,"New York, NY",Apartment,2.0,3.0
+2 LOFTS to COMBINE into a 3000SF GEM! Now for Sale,,,"New York, NY",Apartment,3.0,2.0
+"Exquisite, Floor Thru LOFT, 11' Tin Ceilings, 2-3BR, Hardwood Floors",,,"New York, NY",Apartment,2.0,2.0
+"It's A WOW! 18' Ceilings, LOFT-LIKE VIBES yet on the Upper East!",,,"New York, NY",Apartment,1.0,2.0
+Mixed Use Bldg for SALE! Keep as is or CONVERT TO RESIDENTIAL-INVEST!!,,,"New York, NY",House,,
+"SIMPLY GORGEOUS LOFT! 18' Ceilings, Exposed Brick, LOCATION LOCATION",,,"New York, NY",Apartment,1.0,1.0
+2BR Beauty in a 25' Wide Brownstone! FULL FLOOR and RENOVATED,,,"Brooklyn, NY",House,2.0,2.0
+Classic Charm w/Loft-Like Vibes! Price almost too good to be true!,,,"New York, NY",Apartment,2.0,1.0
+CORNER LOFT Steal of a Deal! Reduced to sell by motivated owner,,,"New York, NY",Apartment,2.0,1.0
+Coolest of Cool. 2500SF 3BR PH with  ROOF TERRACE TOO- FURNISHED TOO,,,"New York, NY",Apartment,3.0,2.0
+"3800SF, FIVE BR MAJESTY!  Once in a blue moon chance to RENT THIS",,,"New York, NY",Apartment,5.0,4.0
+"1600SF LOFT, Flooded with Light and now for SALE",,,"New York, NY",Apartment,1.0,2.0
+Lofted Find on the UES! 1BR PLUS additional SLEEP LOFT (TERRACE TOO),,,"New York, NY",Apartment,,
+Furnished or Not- Rent your own TRIBECA Authentic LOFT,,,"New York, NY",Apartment,2.0,2.0
+Massive Prewar LOFT now for sale! 2300SF including a 500SF Mezzanine,,,"New York, NY",Apartment,2.0,2.0
+Lofted DUPLEX with Soaring Ceilings and Incredible Light,,,"New York, NY",Apartment,1.0,2.0
+LIVE/WORK OPTIONS- Few and Far Between,,,"New York, NY",Apartment,,
+"INVESTMENT UNIT! PH, Tenant Occupied, TERRACE, Sponsor says SELL",,,"New York, NY",Apartment,2.0,2.0
+Live w/INCOME or just INVEST SMART!! Its a WIN-WIN situation,,,"New York, NY",House,,
+Create your Dream! Classic 6 (4BR) in prewar Co-Op Ready and Waiting,,,"New York, NY",Apartment,4.0,2.0
+SCOPE of a TH - 3300SF MASSIVE Space on cusp of Village/Soho/Tribeca,,,"New York, NY",Apartment,3.0,3.0
+UNREAL DEAL! Not even Listed! 2BR PLUS formal Dining room near CPW,,,"New York, NY",Apartment,3.0,2.0
+"Home in HUDSON YARDS! Exceptional, 2600SF LOFT you can RENT",,,"New York, NY",Apartment,2.0,2.0
+PH level of TH Steps to Central Park!! And it's 4BR! And you can RENT!,,,"New York, NY",House,4.0,5.0
+Best Deal. Best Views. PH with Private TERRACE TOO,,,"New York, NY",Apartment,2.0,3.0
+Top Floor DUPLEX w/Private Roofdeck!  Loft-Like and MINT,,,"New York, NY",Apartment,2.0,2.0
+FULL GUT NEEDED for this Incredible Multi fam in Carnegie Hill,,,"New York, NY",House,,
+2000SF Authentic LOFT if you can wait til FEBRUARY!,,,"New York, NY",Apartment,1.0,2.0
+"LOFT OF LOFTS! Convertible 2BR, DUPLEX, Rent to OWN is possible",,,"New York, NY",Apartment,1.0,2.0
+EAST FLATBUSH---GUT-RENOVATED SEMI-DETACHED HOUSE,,,"Brooklyn, NY",House,,
+Daily $15 &Up and $145/Weekly Room share. $240/weekly Private Room,,,"Elmhurst, NY",Apartment,,
+Two rooms available now,,,"Brooklyn, NY",Apartment,,
+For Sale By Owner   NJ Townhome,,,"Allamuchy, NJ",Apartment,,
+"Gravesend, Avenue U- Liquor store for sale!!!",,,"Brooklyn, NY",Apartment,,1.0
+313 Brightwater Ct. #2H Large 2 room studio for sal,,,"Brooklyn, NY",Apartment,1.0,1.0
+"Brighton Beach- Detached, brick 2 Family house for sale!",,,"Brooklyn, NY",House,,
+Sheepshead Bay.  2626 Homecrest Ave #7K,,,"Brooklyn, NY",Apartment,1.0,1.0
+RENT STORM SALE REDUCED TO MELT THE SNOW!!,,,"Yonkers, NY",Apartment,1.0,1.0
+Townhouse/ End Unit,,,"Staten Island, NY",House,,
+Studio 1 bath. FOR RENT,,,"Weston, CT",Apartment,,
+Forest Hills One Large Bedroom (820 SQFT) for rent of $2300 monthly,,,"Forest Hills, NY",Apartment,1.0,1.0
+Forest Hills One Large Bedroom (820 SQFT) for rent of $2300 monthly,,,"Forest Hills, NY",Apartment,1.0,1.0
+House in small town NEBRASKA,,,"Columbus, NE",House,3.0,1.0
+🌆💼Did you hear that New Yorkers are flocking Florida?to SW Florida?,,,"Sarasota, FL",House,,
+2 BEDROOM APARTMENT FOR RENT,,,"East Elmhurst, NY",House,2.0,1.0
+Beautiful Northport: Lovely 3 Bedroom / 1 Bath,,,"Northport, NY",Apartment,3.0,1.0
+1 Bed + Large Bonus Room + 2 Bath,,,"New York, NY",Apartment,,
+1 Bed + Large Bonus Room + 2 Bath,,,"New York, NY",Apartment,,
+Large Studio & Home Office,,,"New York, NY",Apartment,,
+Large Studio & Home Office,,,"New York, NY",Apartment,,
+Large Studio & Home Office,,,"New York, NY",Apartment,,
+Corner View 2B/2B,,,"New York, NY",Apartment,,
+Corner View 2B/2B,,,"New York, NY",Apartment,,
+Large Studio + Home Office,,,"New York, NY",Apartment,,
+Corner View FLEX 2 BED / 1 Bath,,,"New York, NY",Apartment,,
+1B/1B with Views,,,"New York, NY",Apartment,,
+Large Studio with Views,,,"New York, NY",Apartment,,
+South Facing Alcove Studio,,,"New York, NY",Apartment,,
+Large Chelsea Studio w/ Walk-in Closet,,,"New York, NY",Apartment,,
+Cozy 1B/1B with Private Balcony,,,"Brooklyn, NY",Apartment,,
+Large Bed-Stuy Studio,,,"Brooklyn, NY",Apartment,,
+Corner View 1B/1B in LIC,,,"Long Island City, NY",Apartment,,
+Fort Greene 2B/2B,,,"Brooklyn, NY",Apartment,,
+Alcove 1B/1B (Flex 2) in LIC,,,"Long Island City, NY",Apartment,,
+Fort Greene 2B/2B,,,"Brooklyn, NY",Apartment,,
+Fort Greene 2B/2B,,,"Brooklyn, NY",Apartment,,
+Luxury 2B/1B in West Chelsea,,,"New York, NY",Apartment,2.0,1.0
+Spacious Studio with Views in Bed Stuy,,,"Brooklyn, NY",Apartment,,
+Greenpoint Studio with Walk-In Closet,,,"Brooklyn, NY",Apartment,,
+Large Studio + Home Office,,,"New York, NY",Apartment,,
+Large Studio + Home Office,,,"New York, NY",Apartment,,
+Corner View Studio in Bed-Stuy,,,"Brooklyn, NY",Apartment,,
+South Facing Studio,,,"Brooklyn, NY",Apartment,,1.0
+Luxury Penthouse Studio,,,"New York, NY",Apartment,,
+"3-BED, 2 BATHS",,,"Bronx, NY",House,3.0,2.0
+"Ozone Park, Room Rental #TwinBed",,,"Ozone Park, NY",Apartment,3.0,1.0
+Jumbo Room + Queen Bed #OzonePark,,,"Ozone Park, NY",Apartment,3.0,1.0
+Weeki Wachee Florida Waterfront Property 4 BDR 3BTH,,,"Spring Hill, FL",Apartment,4.0,3.0
+AUTO REPAIR SHOP PROPERTY FOR SALE at LONG ISLAND,,,"Ronkonkoma, NY",Apartment,,
+"260 COMMACK ROAD BUSINESS"" FOR SALE",,,"Commack, NY",Apartment,,
+"LAND, for SALE, .",,,"Ronkonkoma, NY",Place,,
+THREE FAMILY FOR SALE,,,"Arverne, NY",Apartment,8.0,3.0
+➡️ Help us help you take the stress out of finding your  living space.,,,"Bronx, NY",Apartment,,
+F/S Corner Newly Renovated Huge 1Br  Junior 4  Prime Location  SeePic.,,,"Brooklyn, NY",Apartment,1.0,1.0
+Newly Renovated Huge 2Br  Apt.  In Prime Midwood Location  F/S.,,,"Brooklyn, NY",Apartment,1.0,1.0
+Two Bedroom Coop Apt,,,"Forest Hills, NY",Apartment,2.0,1.0
+LOT for SALE - 5 blocks from Prospect Park,,,"Brooklyn, NY",Place,,
+near Yankee stadium 2br elevator and parking,,,"Bronx, NY",Apartment,,
+Deal Of The Month Brand New Renovated 1Br & Studio Apt See Pic:,,,"New York, NY",Apartment,1.0,1.0
+10000ft2 - Corner Elev Building Community Space /Medical Space/Tutorin,,,"New York, NY",Apartment,3.0,
+Gorgeous X Large Alcove Studio Apt. Elev. Building,,,"New York, NY",Apartment,,1.0
+Deal Of The Month Newely  Renovated Large Alcove Studio Apt.,,,"New York, NY",Apartment,,1.0
+For Sale X Large 1Br Apt.in Luxury Full Time Doorman Building,,,"Brooklyn, NY",Apartment,1.0,1.0
+Great Ground Floor Storage With Office Space,,,"Brooklyn, NY",Apartment,,
+$1950-$2100 / 1Br - Single Room DEAL OF THE MONTH (Upper West Side),,,"New York, NY",Apartment,,
+124th Street 8th avenue,,,"New York, NY",Apartment,1.0,
+HOUSE FOR SALE NEWLY TIP TOP RENOVATED PRIME LOCATION,,,"Brooklyn, NY",House,7.0,4.0
+Well Establish Renovated Medical Office Best Location See Pic.,,,"New York, NY",Apartment,,
+2FA House For Sale,,,"Brooklyn, NY",House,6.0,4.0
+STORE FRONT Available Perfect Location,,,"Brooklyn, NY",Apartment,,
+F/S Corner Newly Renovated Huge 2Br Apt Prime Location  SeePic.,,,"Brooklyn, NY",Apartment,1.0,1.0
+Deal Of The Month  Newly Renovated  2Br Apt. With Back Yard  See Pic.,,,"New York, NY",Apartment,2.0,1.0
+BEST  DEAL LARGE  1Br  APT,,,"New York, NY",Apartment,1.0,1.0
+"Large1Br Apt, For Sale in a Coop Eel. Building Perfect For Investment",,,"Brooklyn, NY",Apartment,1.0,1.0
+Deal Of The Month Brand New Renovated 3Br / 2Bath Apt.     See Pic.,,,"New York, NY",Apartment,3.0,2.0
+2Br / 11/2 Bath  Apt in NEWLY LUX ELEVATOR BUILDING,,,"Brooklyn, NY",Apartment,2.0,2.0
+"X Large 1Br Apt, For Sale in a Lux  Coop  Building",,,"Brooklyn, NY",Apartment,1.0,1.0
+2 Bedroom For Rent,,,"Corona, NY",Apartment,,
+2 Bedroom For Rent,,,"Rego Park, NY",Apartment,2.0,2.0
+"260 COMMACK ROAD BUSINESS"" FOR SALE",,,"Commack, NY",Apartment,,
+RARE DUPLEX with 24' Ceilings and 3 Terraces! Gotta see this for sure,,,"Brooklyn, NY",Apartment,3.0,2.0
+"CLASSIC 6- Elegance, Space, Location- all for less than you think",,,"New York, NY",Apartment,,
+Authentic Live/Work LOFT- Reno Opportunity for this wonderful PH LOFT,,,"New York, NY",Apartment,,
+ATTN ATTN CONDO CONVERSION- 2BR LOFTS for SALE,,,"New York, NY",Apartment,2.0,2.0
+RENT IT or OWN IT!! DUPLEX LOFTY FIND in heart of SOHO-DRAMA!!!!,,,"New York, NY",Apartment,2.0,2.0
+Its a LOFT! Its a PH! Its a 3BR/2BA!  Get the very best of SOHO,,,"New York, NY",Apartment,3.0,2.0
+Bay Ridge Fully Detached 2 family BEAUTY FOR SALE- Open House 1/14 by,,,"Brooklyn, NY",House,5.0,3.0
+Bensonhurst Immaculate 2 bed CoOp FOR SALE Open House Saturday 1/24- W,,,"Brooklyn, NY",Apartment,2.0,1.0
+"€105,000 Two Bedroom Apartment Central Athens",,,"Allamuchy, NJ",Apartment,,
+New Construction Condo in Atlanta! Only 2 Left! Call for a Tour!,,,"McDonough, GA",Apartment,,
+Country Living is Calling! New Construction in Atlanta,,,"Austell, GA",House,,
+🛑*ONLY $780000*BUY/LEASE CHELSEA OFFICE CONDO*,,,"New York, NY",Apartment,,
+🛑*$780000 BUY/LEASE*CHELSEA OPEN SPACE CONDO OFFICE*,,,"New York, NY",Apartment,,
+🛑$780000 BUY/LEASE CHELSEA OFFICE CONDO*2 OFFICES*BRIGHT OPEN SPACE*,,,"New York, NY",Apartment,,
+🛑*$780000 BUY/LEASE*CHELSEA OFFICE CONDO*2 OFFICES/BRIGHT OPEN AREA**,,,"New York, NY",Apartment,,
+🛑*$780000 CHELSEA OFFICE*2 OFFICES*OPEN BRIGHT SPACE*,,,"New York, NY",Apartment,,
+🛑*ONLY $1.425M*CHELSEA 2 BATHROOM OFFICE CONDO*,,,"New York, NY",Apartment,,
+🛑*$1.425M BUY/LEASE CHELSEA OFFICE CONDO*2 BATHROOMS*OPEN SPACE*,,,"New York, NY",Apartment,,
+🛑*$1.425 BUY/LEASE*CHELSEA OFFICE CONDO*2 BATHROOMS*NICE LOBBY*,,,"New York, NY",Apartment,,
+🛑*$1.425M CHELSEA OFFICE*2 BATHROOMS*OPEN LOFT*NICE LOBBY/DOORMAN*,,,"New York, NY",Apartment,,
+2BR / 1BA – Private Backyard – Laundry In-Unit – Available Now,,,"Ridgewood, NY",Apartment,2.0,1.0
+"Oversized 3 bedrooms, 3 baths, beautiful engineered hardwood floors!!",,,"Staten Island, NY",House,3.0,3.0
+"Wonderful Port Richmond location, Convenient to transportation...",,,"Staten Island, NY",House,4.0,3.0
+Charming and spacious two-family end-unit townhouse!!!,,,"Staten Island, NY",Apartment,4.0,4.0
+This affordable gem is ideal for investors seeking a solid return!!,,,"Staten Island, NY",House,3.0,2.0
+Junior 2 bedroom-Occupancy South Broadway Yard first floor,,,"Yonkers, NY",Apartment,2.0,1.0
+"Discover this meticulously updated, expansive Two-Family residence!!",,,"Staten Island, NY",House,3.0,3.0
+The uniquely customized single-family home you have been waiting for!,,,"Staten Island, NY",House,2.0,2.0
+Spacious - elevtor - central,,,"New York, NY",Apartment,1.0,1.0
+Awesome meticulously maintained Richmond Town colonial home!!!,,,"Staten Island, NY",House,3.0,2.0
+"Lovely fully detached colonial style home, in the heart of Westerleigh",,,"Staten Island, NY",House,4.0,2.0
+STORAGE FOR RENT HILLSIDE AVE,,,"Richmond Hill, NY",Apartment,,
+LARGE 3 BEDROOMS 1 BATH,,,"Forest Hills, NY",Apartment,2.0,2.0
+"PRICED RIGHT! Great starter home for 1st time homeowner, needs tlc.",,,"Staten Island, NY",House,3.0,2.0
+Well-Maintained home! Perfect for 1st time buyers. Nice-sized bedrooms,,,"Staten Island, NY",House,3.0,3.0
+CHARMING 2 BEDROOM SIDE HALL COLONIAL WITH PARKLIKE BACKYARD!!!,,,"Staten Island, NY",House,2.0,2.0
+1 br coop in Flatbush junction 2mins train target Aldi FSBO best offer,,,"Brooklyn, NY",Apartment,1.0,1.0
+3 bedroom for rent by owner.,,,"Bronx, NY",Apartment,3.0,1.0
+"Any Investors interested in investing in ""AI"" and ""Apps"".????",,,"New York, NY",Apartment,,
+I have leads on properties in a number of states.,,,"New York, NY",Apartment,,
+Beautiful 1BR fully renovated floor through,,,"Brooklyn, NY",Apartment,1.0,1.0
+"Anybody have ""Gold Dore Bars"" to sell and refine???",,,"New York, NY",Apartment,,
+Looking for Buyers of Gold-bars or bullion,,,"New York, NY",Apartment,,
+"Looking for investors for Gold, Silver, Bitcoins, Crypto investing",,,"New York, NY",Apartment,,
+Looking for Private Money Investors,,,"New York, NY",Apartment,,
+"Used Car Lot Poconos, Corner Lot",,,"Mountainhome, PA",Apartment,,
+UPSCALE Central Florida 55+ Manufactured Home 2/2 1270 sf * LIKE NEW *,,,"Deland, FL",House,2.0,2.0
+Full apartment - June 12 to June 28 (World Cup)  - $400/night,,,"New York, NY",Apartment,,
+Full apartment - February 16 to February 19 - $200/night,,,"New York, NY",Apartment,,
+3 bedrooms marolla place,,,"Mount Vernon, NY",Apartment,3.0,3.0
+Rooms for rent.,,,"Mount Vernon, NY",Apartment,1.0,
+move to fl 1/2 duplex,,,"Edgewater, FL",Apartment,2.0,2.0
+1 BEDROOM 1 BATH CARNARSIE,,,"Brooklyn, NY",Apartment,1.0,1.0
+LEGAL 2 FAMILY @ 28-17 38 STREET FOR SALE BY OWNER,,,"Astoria, NY",Apartment,7.0,3.0
+"🏢 2,500 SQFT Office/Retail/Professional Space — High-Income Neighborh",,,"Springfield Gardens, NY",Apartment,,
+"🏢 2,500 SQFT Office/Retail/Professional Space — High-Income Neighborh",,,"Springfield Gardens, NY",Apartment,,
+Retail*Store*Discount*Basement*Lots Of Foot Traffic*10th Ave*W50th St,,,"New York, NY",Apartment,,
+Rental*Co-op*Bright*Views*Elevator*Laundry*Pets*No Fee! W203rd,,,"New York, NY",Apartment,1.0,1.0
+Rental*Co-op*Bright*Views*Full Sep Kitchen*Pets Ok Great Share*W148th,,,"New York, NY",Apartment,3.0,1.0
+Warehouse*Developement*Investment Property*Parking*Can Deliver Vacant,,,"Brooklyn, NY",Apartment,,
+2 Bedroom For Rent in Hunts Point $2500,,,"Bronx, NY",Apartment,2.0,1.0
+Building Sale-Or Lease*Vacant*3 Floors+Lower Level*W181,,,"New York, NY",House,,
+3 Bedroom Apartment for Rent,,,"Bronx, NY",Apartment,,
+PH 2br in iconic Village Condo- not listed but available,,,"New York, NY",Apartment,2.0,2.0
+AUTO REPAIR SHOP P & B FOR SALE at LONG ISLAND,,,"Ronkonkoma, NY",Apartment,,
+"520 Portion Rd. LAND, for SALE, .",,,"Ronkonkoma, NY",Place,,
+2-Family House,,,"Middle Village, NY",House,3.0,3.0
+"260 COMMACK ROAD RETAIL FOOD ""PROPERTY & BUSINESS"" FOR SALE",,,"Commack, NY",Apartment,,
+WINDOWED OFFICE MIDTOWN WEST GREAT FOR HAIR SALON WATER INCLUDED,,,"New York, NY",Apartment,,
+New To Market- 3 desk Private Office at DISCOUNTED PRICE *NO FEE,,,"New York, NY",Apartment,,
+MIDTOWN NEW OFFICES AND FLOORS FOR BUSINESS ***NO FEE,,,"New York, NY",Apartment,,
+HAIR SALON OR REGULAR OFFICE IN MIDTOWN WEST ***NO FEE,,,"New York, NY",Apartment,,
+WINDOWED OFFICE NEAR TIMES SQUARE *NO FEE,,,"New York, NY",Apartment,,
+Cozy 1 bedroom apartment for Rent,,,"Staten Island, NY",Apartment,1.0,1.0
+Your Dedicated NYC Broker,,,"New York, NY",Apartment,,
+Large Full Floor Office for Big Business *NO FEE,,,"New York, NY",Apartment,,
+SOHO UPSCALE MOVE IN READY OFFICE FOR YOUR BUSINESS *NO FEE,,,"New York, NY",Apartment,,
+LARGE FLEX OFFICE FOR 13 EMPLOYEES- FURNISHED M2M or UP TO 2 YRS LIC,,,"Long Island City, NY",Apartment,,
+50% PRIVATE OFFICES-REAL DEALS BUT FOR A LIMITED TIME. PM TO TOUR,,,"New York, NY",Apartment,,
+Special 2 room OFFICE SUITE in MIDTOWN at DISCOUNT *NO FEE,,,"New York, NY",Apartment,,
+CHEAPEST WINDOWED OFFICE IN THE CITY.  WILL GO FAST! $1700 NO FEE,,,"New York, NY",Apartment,,
+Awesome Windowed office with Wood Floors *NO FEE,,,"New York, NY",Apartment,,
+NYC OFFICE FINDER,,,"New York, NY",Apartment,,
+Windowed Office NEar Times Square *NO FEE,,,"New York, NY",Apartment,,
+Exceptional Contemporary Home with River & Mountain views,,,"Cornwall On Hudson, NY",House,3.0,4.0
+3 bedroom apartment for rent,,,"Elmhurst, NY",Apartment,,
+Updated 3 Bedroom/2.5 Bthroom Single Family Home,,,"Brooklyn, NY",House,3.0,3.0
+2 Bedroom For Rent,,,"Jamaica, NY",Apartment,,
+1 Bedroom For Rent,,,"Rego Park, NY",Apartment,,
+126th Street 7th avenue,,,"New York, NY",Apartment,1.0,
+Apartment for rent,,,"Forest Hills, NY",Apartment,1.0,1.0
+Clinton Hill Mansion Row Special,,,"Brooklyn, NY",House,,6.0
+Key Lock Elevator to your DREAM LOFT! 2000SF and TONS OF LIGHT,,,"New York, NY",Apartment,2.0,2.0
+Deal Fell Thru- RENT this MASSIVE 5 BR DUPLEX LOFT w/4200SF,,,"New York, NY",Apartment,5.0,3.0
+"Authentic LOFT, South Facing, 12' Ceilings, FLEXIBLE LAYOUT!",,,"New York, NY",Apartment,,
+DIRECT PARK VIEWS! Sunset views too! 4BR ELEGANCE on CPW,,,"New York, NY",Apartment,4.0,4.0
+ELEGANCE in your CONVERTIBLE 3BR Beauty,,,"New York, NY",Apartment,,
+"NOT EVEN LISTED! 3000SF LOFT, Minimal Monthlies and Great Investment",,,"New York, NY",Apartment,,
+Dos recamaras apartamento para alquilar,,,"Elmont, NY",Apartment,2.0,1.0
+Jumbo Duplex *Commercial Space* for Leasing,,,"Brooklyn, NY",Apartment,,1.0
+Comfy Room #FullSizeBed #OzonePark #JFK,,,"Ozone Park, NY",Apartment,3.0,1.0
+Fulton Street,,,"Brooklyn, NY",Apartment,1.0,
+Fulton Street,,,"Brooklyn, NY",Apartment,1.0,
+Jefferson avenue between Tompkins and throop,,,"Brooklyn, NY",Apartment,1.0,
+Unique mix-use property with garage,,,"New York, NY",House,,
+PERFECT 3BR ON PARK! RARE to find a RENTAL but here you are,,,"New York, NY",Apartment,3.0,4.0
+"Vacant Legal 4 family, needs TLC in Albany NY",,,"Brooklyn, NY",House,6.0,4.0
+"Fully Detached Single Family in Daytona Beach, Florida",,,"Saint Albans, NY",House,3.0,2.0
+Grenada Caribbean get away,,,"New York, NY",Apartment,,
+THE PROSPECT HEIGHTS HONEY,,,"Brooklyn, NY",House,,4.0
+30-UNIT PRE-WAR MULTIFAMILY BUILDING,,,"New York, NY",Apartment,,
+2&3br Sponsored coops NO BOARD APPROVAL needed! Yonkers & Mt Vernon,,,"Mount Vernon, NY",Apartment,3.0,2.0
+XL STUDIO near Wash Sq Park- Lofted gem for WAY LESS than you think,,,"New York, NY",Apartment,,
+RARE to  find a 4BR/4.5BA- but  here it is! In a 2 STORY TH!,,,"Brooklyn, NY",House,4.0,5.0
+"Classic, Prewar Charm fully updated! Own a 2BR for the price of a 1BR",,,"New York, NY",Apartment,2.0,1.0
+"Cool, Duplex, Lofty Find for less than you think",,,"New York, NY",Apartment,1.0,1.0
+"2500SF Massive LOFT- Offered FURNISHED til the New Year, Maybe LONGER",,,"New York, NY",Apartment,3.0,2.0
+Want a  project? COMBINE 2 Units to your DREAM 3BR in the VILLAGE!,,,"New York, NY",Apartment,,
+"UNREAL DEAL! Top Floor, Well run co-op, Balcony, Breathtaking views",,,"New York, NY",Apartment,2.0,1.0
+Mixed Use TH! Flexible LIVE/WORK options- Needle in the haystack!,,,"New York, NY",House,,
+HIGH FLOOR! 1BR perfection near Lincoln Center and its a CONDO,,,"New York, NY",Apartment,1.0,1.0
+PREWAR CONDO STEAL! 2BR/2BA GEM flooded with Light,,,"New York, NY",Apartment,2.0,2.0
+"LOFT LIFE FOR LESS! Its a CONDO too, and Convertible to a 2BR",,,"New York, NY",Apartment,1.0,1.0
+"HISTORIC, RENOVATED TH- 2 Family now or return to single family",,,"New York, NY",House,6.0,4.0
+"Authentic LOFT bldg circa 1920! Now, OWN YOUR OWN LOFT for LESS",,,"Brooklyn, NY",Apartment,2.0,2.0
+Loft-Style Beauty with Double Height Ceilings! PRIVATE OUTDOORS TOO,,,"New York, NY",Apartment,1.0,1.0
+"3000SF LOFT to OWN (or ask about renting!) Biggest Find in the ""hood""",,,"New York, NY",Apartment,3.0,2.0
+"DUPLEX LOFT for Less than you thought possible- Open plan, plus PATIO",,,"New York, NY",Apartment,2.0,1.0
+"SPONSOR STEAL! Purchase As-Is, OR choose to have sponsor RENOVATE",,,"New York, NY",Apartment,3.0,3.0
+Double Height Ceilings! Roof Deck! LOFTY FIND of FINDS,,,"Brooklyn, NY",Apartment,2.0,2.0
+Estate Sale of Famed Artist! WHEN ONLY THE COOLEST WILL DO!!!,,,"New York, NY",Apartment,2.0,2.0
+Prewar CONDO STEAL! Sponsor owned and SOLD AS-IS,,,"New York, NY",Apartment,3.0,2.0
+Duplex Oasis in Classic WV Townhouse! Room to Relax and Breathe,,,"New York, NY",Apartment,3.0,3.0
+Its your DREAM LOFT- Steps to Union Square- 2400SF of Perfect,,,"New York, NY",Apartment,3.0,3.0
+DREAM DUPLEX LOFT! 30' Ceilings and Breathtaking!,,,"New York, NY",Apartment,2.0,3.0
+OMG Moment! NOT LISTED but OWN this 2BR in full service CONDO,,,"New York, NY",Apartment,2.0,2.0
+LOFT-LIKE 2BR DEAL with Income Restrictions,,,"New York, NY",Apartment,2.0,2.0
+"PH of your dreams- RENT IT, OR OWN IT! It's a win-win choice",,,"New York, NY",Apartment,2.0,2.0
+Holy Cow! Landmark Bldg now lofty Co-Ops! Own a Spectacular 2BR,,,"New York, NY",Apartment,2.0,2.0
+TOWNHOUSE LIVING! Triplex Treat w/indoor /outdoor lifestyle,,,"New York, NY",House,4.0,3.0
+Garden Level beauty with Fireplace too!  RARE FIND in Bklyn Heights,,,"Brooklyn, NY",Apartment,2.0,1.0
+Perfect Canvas for your DREAM HOME!! TH TREAT!!,,,"Brooklyn, NY",House,,
+TH Living PLUS Roof Rights in this historic home,,,"Brooklyn, NY",House,2.0,1.0
+Coolest of LOFTS and Priced just right!  A true Seaport Steal,,,"New York, NY",Apartment,1.0,1.0
+Noho LOFT with  17' Ceilings! Best LOFT VALUE OUT THERE!,,,"New York, NY",Apartment,,
+Magic on Murray!! Your dream loft awaits if you can wait til February?,,,"New York, NY",Apartment,2.0,2.0
+TH 5BR QUADRIPLEX you can now RENT! From 3 Months to a Year,,,"New York, NY",House,5.0,6.0
+"Prime Bensonhurst – Most Desirable Cooperative Unit Approx. 1,000 sqft",,,"Brooklyn, NY",Apartment,2.0,1.0
+Brand New 3-Bedroom Apartment in the Heart of Rego Park,,,"Rego Park, NY",Apartment,3.0,1.0
+"CLASS ""A"" PROFESSIONAL DESK SPACE - PRIVATE ROOM",,,"Bayside, NY",Apartment,,
+Charming Townhouse,,,"New York, NY",House,6.0,6.0
+Semi detached 6 Fam in Queens,,,"New York, NY",Apartment,,
+E Village Storefront Duplex Condo,,,"New York, NY",Apartment,,
+SI Mixed use Investment property,,,"New York, NY",Apartment,,
+Bronx Investment Property,,,"New York, NY",Apartment,,
+Off Market Bk Multifamily,,,"New York, NY",Apartment,,
+11-UNIT PRE-WAR MULTIFAMILY,,,"New York, NY",Apartment,,
+"6 Story Elevator Brick apt Bldg, 32 apts",,,"New York, NY",Apartment,,
+"Taco business in E Harlem 800sf, 900sf bsmt",,,"New York, NY",Apartment,,
+Multi-Family Riverdale Townhouse with 2 Duplexes,,,"New York, NY",House,,
+PRIME investment 6 story 48 Unit Multifamily!,,,"New York, NY",Apartment,,
+Just listed/ Gorgeous Furnished Renovated Apt///Jan 15,,,"New York, NY",Apartment,2.0,1.0
+Luxury Hotel investment opportunity,,,"New York, NY",Apartment,,
+"Taco business in E Harlem 800sf, 900sf bsmt",,,"New York, NY",Apartment,,
+66 Key hotel in LIC,,,"New York, NY",Apartment,,
+Vacant Parking Garage for sale,,,"New York City, NY",House,,
+4 floor Parkside Brownstone,,,"New York, NY",House,,
+"40,000 RSF building for sale",,,"New York, NY",Apartment,,
+For Sale: Off Market 67 Unit Mixed Use in 2 Contiguous Buildings,,,"New York, NY",Apartment,,
+"Commercial condo space , 22,000 sf",,,"New York, NY",Apartment,,5.0
+Dream Wakefield 3 Bedroom,,,"New York, NY",House,,
+Stunning UES Prof Office,,,"New York, NY",Apartment,,
+"PRIME land in East Harlem by 4,5,6 Trains",,,"New York, NY",Place,,
+Grand investment opportunity,,,"New York, NY",House,,
+WAREWHOUSE AVAILABLE FOR LEASE,,,"Staten Island, NY",House,,
+LAND FOR LEASE,,,"Staten Island, NY",Place,,
+COMMERCIAL  FOR LEASE,,,"Far Rockaway, NY",House,,
+LAND FOR SALE,,,"Staten Island, NY",Place,,
+2 Bed Semibase apt live kit bath nice apt e,,,"Staten Island, NY",Apartment,2.0,1.0
+VACAND LAND FOR LEASE,,,"Staten Island, NY",Place,,
+Parlor Floor TH VIBE in Hudson Square! Own this charming 2BR beauty,,,"New York, NY",House,2.0,2.0
+Landmark PH Duplex! Simply Stellar and ready for sale after 35 years,,,"New York, NY",Apartment,2.0,2.0
+"Mint, Sunny, Tranquil 1BR GEM in CLASSIC WV TOWNHOUSE coming MARCH",,,"New York, NY",House,1.0,1.0
+Biggest and Best on West End! FIVE BR w.HUDSON VIEWS,,,"New York, NY",Apartment,5.0,3.0
+Soaring Ceilings in your Stunning 2BR LOFT on the North Side,,,"Brooklyn, NY",Apartment,2.0,2.0
+FIRST TIME in 40 Yrs! Full floor LOFT w ROOF RIGHTS needs TLC,,,"New York, NY",Apartment,2.0,2.0
+NOT ON SE! Ultimate LOFT in the ultimate LOCATION! And Ultimate Value,,,"New York, NY",Apartment,2.0,3.0
+2 LOFTS to COMBINE into a 3000SF GEM! Now for Sale,,,"New York, NY",Apartment,3.0,2.0
+"Exquisite, Floor Thru LOFT, 11' Tin Ceilings, 2-3BR, Hardwood Floors",,,"New York, NY",Apartment,2.0,2.0
+"It's A WOW! 18' Ceilings, LOFT-LIKE VIBES yet on the Upper East!",,,"New York, NY",Apartment,1.0,2.0
+Mixed Use Bldg for SALE! Keep as is or CONVERT TO RESIDENTIAL-INVEST!!,,,"New York, NY",House,,
+"SIMPLY GORGEOUS LOFT! 18' Ceilings, Exposed Brick, LOCATION LOCATION",,,"New York, NY",Apartment,1.0,1.0
+2BR Beauty in a 25' Wide Brownstone! FULL FLOOR and RENOVATED,,,"Brooklyn, NY",House,2.0,2.0
+Classic Charm w/Loft-Like Vibes! Price almost too good to be true!,,,"New York, NY",Apartment,2.0,1.0
+CORNER LOFT Steal of a Deal! Reduced to sell by motivated owner,,,"New York, NY",Apartment,2.0,1.0
+Coolest of Cool. 2500SF 3BR PH with  ROOF TERRACE TOO- FURNISHED TOO,,,"New York, NY",Apartment,3.0,2.0
+"3800SF, FIVE BR MAJESTY!  Once in a blue moon chance to RENT THIS",,,"New York, NY",Apartment,5.0,4.0
+"1600SF LOFT, Flooded with Light and now for SALE",,,"New York, NY",Apartment,1.0,2.0
+Lofted Find on the UES! 1BR PLUS additional SLEEP LOFT (TERRACE TOO),,,"New York, NY",Apartment,,
+Furnished or Not- Rent your own TRIBECA Authentic LOFT,,,"New York, NY",Apartment,2.0,2.0
+Massive Prewar LOFT now for sale! 2300SF including a 500SF Mezzanine,,,"New York, NY",Apartment,2.0,2.0
+Lofted DUPLEX with Soaring Ceilings and Incredible Light,,,"New York, NY",Apartment,1.0,2.0
+LIVE/WORK OPTIONS- Few and Far Between,,,"New York, NY",Apartment,,
+"INVESTMENT UNIT! PH, Tenant Occupied, TERRACE, Sponsor says SELL",,,"New York, NY",Apartment,2.0,2.0
+Live w/INCOME or just INVEST SMART!! Its a WIN-WIN situation,,,"New York, NY",House,,
+Create your Dream! Classic 6 (4BR) in prewar Co-Op Ready and Waiting,,,"New York, NY",Apartment,4.0,2.0
+SCOPE of a TH - 3300SF MASSIVE Space on cusp of Village/Soho/Tribeca,,,"New York, NY",Apartment,3.0,3.0
+UNREAL DEAL! Not even Listed! 2BR PLUS formal Dining room near CPW,,,"New York, NY",Apartment,3.0,2.0
+"Home in HUDSON YARDS! Exceptional, 2600SF LOFT you can RENT",,,"New York, NY",Apartment,2.0,2.0
+PH level of TH Steps to Central Park!! And it's 4BR! And you can RENT!,,,"New York, NY",House,4.0,5.0
+Best Deal. Best Views. PH with Private TERRACE TOO,,,"New York, NY",Apartment,2.0,3.0
+Top Floor DUPLEX w/Private Roofdeck!  Loft-Like and MINT,,,"New York, NY",Apartment,2.0,2.0
+FULL GUT NEEDED for this Incredible Multi fam in Carnegie Hill,,,"New York, NY",House,,
+2000SF Authentic LOFT if you can wait til FEBRUARY!,,,"New York, NY",Apartment,1.0,2.0
+"LOFT OF LOFTS! Convertible 2BR, DUPLEX, Rent to OWN is possible",,,"New York, NY",Apartment,1.0,2.0
+EAST FLATBUSH---GUT-RENOVATED SEMI-DETACHED HOUSE,,,"Brooklyn, NY",House,,
+Daily $15 &Up and $145/Weekly Room share. $240/weekly Private Room,,,"Elmhurst, NY",Apartment,,
+Two rooms available now,,,"Brooklyn, NY",Apartment,,
+For Sale By Owner   NJ Townhome,,,"Allamuchy, NJ",Apartment,,
+"Gravesend, Avenue U- Liquor store for sale!!!",,,"Brooklyn, NY",Apartment,,1.0
+313 Brightwater Ct. #2H Large 2 room studio for sal,,,"Brooklyn, NY",Apartment,1.0,1.0
+"Brighton Beach- Detached, brick 2 Family house for sale!",,,"Brooklyn, NY",House,,
+Sheepshead Bay.  2626 Homecrest Ave #7K,,,"Brooklyn, NY",Apartment,1.0,1.0
+RENT STORM SALE REDUCED TO MELT THE SNOW!!,,,"Yonkers, NY",Apartment,1.0,1.0
+Townhouse/ End Unit,,,"Staten Island, NY",House,,
+Studio 1 bath. FOR RENT,,,"Weston, CT",Apartment,,
+Forest Hills One Large Bedroom (820 SQFT) for rent of $2300 monthly,,,"Forest Hills, NY",Apartment,1.0,1.0
+Forest Hills One Large Bedroom (820 SQFT) for rent of $2300 monthly,,,"Forest Hills, NY",Apartment,1.0,1.0
+House in small town NEBRASKA,,,"Columbus, NE",House,3.0,1.0
+🌆💼Did you hear that New Yorkers are flocking Florida?to SW Florida?,,,"Sarasota, FL",House,,
+2 BEDROOM APARTMENT FOR RENT,,,"East Elmhurst, NY",House,2.0,1.0
+Beautiful Northport: Lovely 3 Bedroom / 1 Bath,,,"Northport, NY",Apartment,3.0,1.0
+1 Bed + Large Bonus Room + 2 Bath,,,"New York, NY",Apartment,,
+1 Bed + Large Bonus Room + 2 Bath,,,"New York, NY",Apartment,,
+Large Studio & Home Office,,,"New York, NY",Apartment,,
+Large Studio & Home Office,,,"New York, NY",Apartment,,
+Large Studio & Home Office,,,"New York, NY",Apartment,,
+Corner View 2B/2B,,,"New York, NY",Apartment,,
+Corner View 2B/2B,,,"New York, NY",Apartment,,
+Large Studio + Home Office,,,"New York, NY",Apartment,,
+Corner View FLEX 2 BED / 1 Bath,,,"New York, NY",Apartment,,
+1B/1B with Views,,,"New York, NY",Apartment,,
+Large Studio with Views,,,"New York, NY",Apartment,,
+South Facing Alcove Studio,,,"New York, NY",Apartment,,
+Large Chelsea Studio w/ Walk-in Closet,,,"New York, NY",Apartment,,
+Cozy 1B/1B with Private Balcony,,,"Brooklyn, NY",Apartment,,
+Large Bed-Stuy Studio,,,"Brooklyn, NY",Apartment,,
+Corner View 1B/1B in LIC,,,"Long Island City, NY",Apartment,,
+Fort Greene 2B/2B,,,"Brooklyn, NY",Apartment,,
+Alcove 1B/1B (Flex 2) in LIC,,,"Long Island City, NY",Apartment,,
+Fort Greene 2B/2B,,,"Brooklyn, NY",Apartment,,
+Fort Greene 2B/2B,,,"Brooklyn, NY",Apartment,,
+Luxury 2B/1B in West Chelsea,,,"New York, NY",Apartment,2.0,1.0
+Spacious Studio with Views in Bed Stuy,,,"Brooklyn, NY",Apartment,,
+Greenpoint Studio with Walk-In Closet,,,"Brooklyn, NY",Apartment,,
+Large Studio + Home Office,,,"New York, NY",Apartment,,
+Large Studio + Home Office,,,"New York, NY",Apartment,,
+Corner View Studio in Bed-Stuy,,,"Brooklyn, NY",Apartment,,
+South Facing Studio,,,"Brooklyn, NY",Apartment,,1.0
+Luxury Penthouse Studio,,,"New York, NY",Apartment,,
+"3-BED, 2 BATHS",,,"Bronx, NY",House,3.0,2.0
+"Ozone Park, Room Rental #TwinBed",,,"Ozone Park, NY",Apartment,3.0,1.0
+Jumbo Room + Queen Bed #OzonePark,,,"Ozone Park, NY",Apartment,3.0,1.0
+Weeki Wachee Florida Waterfront Property 4 BDR 3BTH,,,"Spring Hill, FL",Apartment,4.0,3.0
+AUTO REPAIR SHOP PROPERTY FOR SALE at LONG ISLAND,,,"Ronkonkoma, NY",Apartment,,
+"260 COMMACK ROAD BUSINESS"" FOR SALE",,,"Commack, NY",Apartment,,
+"LAND, for SALE, .",,,"Ronkonkoma, NY",Place,,
+THREE FAMILY FOR SALE,,,"Arverne, NY",Apartment,8.0,3.0
+➡️ Help us help you take the stress out of finding your  living space.,,,"Bronx, NY",Apartment,,
+F/S Corner Newly Renovated Huge 1Br  Junior 4  Prime Location  SeePic.,,,"Brooklyn, NY",Apartment,1.0,1.0
+Newly Renovated Huge 2Br  Apt.  In Prime Midwood Location  F/S.,,,"Brooklyn, NY",Apartment,1.0,1.0
+Two Bedroom Coop Apt,,,"Forest Hills, NY",Apartment,2.0,1.0
+LOT for SALE - 5 blocks from Prospect Park,,,"Brooklyn, NY",Place,,
+near Yankee stadium 2br elevator and parking,,,"Bronx, NY",Apartment,,
+Deal Of The Month Brand New Renovated 1Br & Studio Apt See Pic:,,,"New York, NY",Apartment,1.0,1.0
+10000ft2 - Corner Elev Building Community Space /Medical Space/Tutorin,,,"New York, NY",Apartment,3.0,
+Gorgeous X Large Alcove Studio Apt. Elev. Building,,,"New York, NY",Apartment,,1.0
+Deal Of The Month Newely  Renovated Large Alcove Studio Apt.,,,"New York, NY",Apartment,,1.0
+For Sale X Large 1Br Apt.in Luxury Full Time Doorman Building,,,"Brooklyn, NY",Apartment,1.0,1.0
+Great Ground Floor Storage With Office Space,,,"Brooklyn, NY",Apartment,,
+$1950-$2100 / 1Br - Single Room DEAL OF THE MONTH (Upper West Side),,,"New York, NY",Apartment,,
+124th Street 8th avenue,,,"New York, NY",Apartment,1.0,
+HOUSE FOR SALE NEWLY TIP TOP RENOVATED PRIME LOCATION,,,"Brooklyn, NY",House,7.0,4.0
+Well Establish Renovated Medical Office Best Location See Pic.,,,"New York, NY",Apartment,,
+2FA House For Sale,,,"Brooklyn, NY",House,6.0,4.0
+STORE FRONT Available Perfect Location,,,"Brooklyn, NY",Apartment,,
+F/S Corner Newly Renovated Huge 2Br Apt Prime Location  SeePic.,,,"Brooklyn, NY",Apartment,1.0,1.0
+Deal Of The Month  Newly Renovated  2Br Apt. With Back Yard  See Pic.,,,"New York, NY",Apartment,2.0,1.0
+BEST  DEAL LARGE  1Br  APT,,,"New York, NY",Apartment,1.0,1.0
+"Large1Br Apt, For Sale in a Coop Eel. Building Perfect For Investment",,,"Brooklyn, NY",Apartment,1.0,1.0
+Deal Of The Month Brand New Renovated 3Br / 2Bath Apt.     See Pic.,,,"New York, NY",Apartment,3.0,2.0
+2Br / 11/2 Bath  Apt in NEWLY LUX ELEVATOR BUILDING,,,"Brooklyn, NY",Apartment,2.0,2.0
+"X Large 1Br Apt, For Sale in a Lux  Coop  Building",,,"Brooklyn, NY",Apartment,1.0,1.0
+2 Bedroom For Rent,,,"Corona, NY",Apartment,,
+2 Bedroom For Rent,,,"Rego Park, NY",Apartment,2.0,2.0
+"260 COMMACK ROAD BUSINESS"" FOR SALE",,,"Commack, NY",Apartment,,
+RARE DUPLEX with 24' Ceilings and 3 Terraces! Gotta see this for sure,,,"Brooklyn, NY",Apartment,3.0,2.0
+"CLASSIC 6- Elegance, Space, Location- all for less than you think",,,"New York, NY",Apartment,,
+Authentic Live/Work LOFT- Reno Opportunity for this wonderful PH LOFT,,,"New York, NY",Apartment,,
+ATTN ATTN CONDO CONVERSION- 2BR LOFTS for SALE,,,"New York, NY",Apartment,2.0,2.0
+RENT IT or OWN IT!! DUPLEX LOFTY FIND in heart of SOHO-DRAMA!!!!,,,"New York, NY",Apartment,2.0,2.0
+Its a LOFT! Its a PH! Its a 3BR/2BA!  Get the very best of SOHO,,,"New York, NY",Apartment,3.0,2.0
+Bay Ridge Fully Detached 2 family BEAUTY FOR SALE- Open House 1/14 by,,,"Brooklyn, NY",House,5.0,3.0
+Bensonhurst Immaculate 2 bed CoOp FOR SALE Open House Saturday 1/24- W,,,"Brooklyn, NY",Apartment,2.0,1.0
+"€105,000 Two Bedroom Apartment Central Athens",,,"Allamuchy, NJ",Apartment,,
+New Construction Condo in Atlanta! Only 2 Left! Call for a Tour!,,,"McDonough, GA",Apartment,,
+Country Living is Calling! New Construction in Atlanta,,,"Austell, GA",House,,
+🛑*ONLY $780000*BUY/LEASE CHELSEA OFFICE CONDO*,,,"New York, NY",Apartment,,
+🛑*$780000 BUY/LEASE*CHELSEA OPEN SPACE CONDO OFFICE*,,,"New York, NY",Apartment,,
+🛑$780000 BUY/LEASE CHELSEA OFFICE CONDO*2 OFFICES*BRIGHT OPEN SPACE*,,,"New York, NY",Apartment,,
+🛑*$780000 BUY/LEASE*CHELSEA OFFICE CONDO*2 OFFICES/BRIGHT OPEN AREA**,,,"New York, NY",Apartment,,
+🛑*$780000 CHELSEA OFFICE*2 OFFICES*OPEN BRIGHT SPACE*,,,"New York, NY",Apartment,,
+🛑*ONLY $1.425M*CHELSEA 2 BATHROOM OFFICE CONDO*,,,"New York, NY",Apartment,,
+🛑*$1.425M BUY/LEASE CHELSEA OFFICE CONDO*2 BATHROOMS*OPEN SPACE*,,,"New York, NY",Apartment,,
+🛑*$1.425 BUY/LEASE*CHELSEA OFFICE CONDO*2 BATHROOMS*NICE LOBBY*,,,"New York, NY",Apartment,,
+🛑*$1.425M CHELSEA OFFICE*2 BATHROOMS*OPEN LOFT*NICE LOBBY/DOORMAN*,,,"New York, NY",Apartment,,
+2BR / 1BA – Private Backyard – Laundry In-Unit – Available Now,,,"Ridgewood, NY",Apartment,2.0,1.0
+"Oversized 3 bedrooms, 3 baths, beautiful engineered hardwood floors!!",,,"Staten Island, NY",House,3.0,3.0
+"Wonderful Port Richmond location, Convenient to transportation...",,,"Staten Island, NY",House,4.0,3.0
+Charming and spacious two-family end-unit townhouse!!!,,,"Staten Island, NY",Apartment,4.0,4.0
+This affordable gem is ideal for investors seeking a solid return!!,,,"Staten Island, NY",House,3.0,2.0
+Junior 2 bedroom-Occupancy South Broadway Yard first floor,,,"Yonkers, NY",Apartment,2.0,1.0
+"Discover this meticulously updated, expansive Two-Family residence!!",,,"Staten Island, NY",House,3.0,3.0
+The uniquely customized single-family home you have been waiting for!,,,"Staten Island, NY",House,2.0,2.0
+Spacious - elevtor - central,,,"New York, NY",Apartment,1.0,1.0
+Awesome meticulously maintained Richmond Town colonial home!!!,,,"Staten Island, NY",House,3.0,2.0
+"Lovely fully detached colonial style home, in the heart of Westerleigh",,,"Staten Island, NY",House,4.0,2.0
+STORAGE FOR RENT HILLSIDE AVE,,,"Richmond Hill, NY",Apartment,,
+LARGE 3 BEDROOMS 1 BATH,,,"Forest Hills, NY",Apartment,2.0,2.0
+"PRICED RIGHT! Great starter home for 1st time homeowner, needs tlc.",,,"Staten Island, NY",House,3.0,2.0
+Well-Maintained home! Perfect for 1st time buyers. Nice-sized bedrooms,,,"Staten Island, NY",House,3.0,3.0
+CHARMING 2 BEDROOM SIDE HALL COLONIAL WITH PARKLIKE BACKYARD!!!,,,"Staten Island, NY",House,2.0,2.0
+1 br coop in Flatbush junction 2mins train target Aldi FSBO best offer,,,"Brooklyn, NY",Apartment,1.0,1.0
+3 bedroom for rent by owner.,,,"Bronx, NY",Apartment,3.0,1.0
+"Any Investors interested in investing in ""AI"" and ""Apps"".????",,,"New York, NY",Apartment,,
+I have leads on properties in a number of states.,,,"New York, NY",Apartment,,
+Beautiful 1BR fully renovated floor through,,,"Brooklyn, NY",Apartment,1.0,1.0
+"Anybody have ""Gold Dore Bars"" to sell and refine???",,,"New York, NY",Apartment,,
+Looking for Buyers of Gold-bars or bullion,,,"New York, NY",Apartment,,
+"Looking for investors for Gold, Silver, Bitcoins, Crypto investing",,,"New York, NY",Apartment,,
+Looking for Private Money Investors,,,"New York, NY",Apartment,,
+"Used Car Lot Poconos, Corner Lot",,,"Mountainhome, PA",Apartment,,
+UPSCALE Central Florida 55+ Manufactured Home 2/2 1270 sf * LIKE NEW *,,,"Deland, FL",House,2.0,2.0
+Full apartment - June 12 to June 28 (World Cup)  - $400/night,,,"New York, NY",Apartment,,
+Full apartment - February 16 to February 19 - $200/night,,,"New York, NY",Apartment,,
+3 bedrooms marolla place,,,"Mount Vernon, NY",Apartment,3.0,3.0
+Rooms for rent.,,,"Mount Vernon, NY",Apartment,1.0,
+move to fl 1/2 duplex,,,"Edgewater, FL",Apartment,2.0,2.0
+1 BEDROOM 1 BATH CARNARSIE,,,"Brooklyn, NY",Apartment,1.0,1.0
+LEGAL 2 FAMILY @ 28-17 38 STREET FOR SALE BY OWNER,,,"Astoria, NY",Apartment,7.0,3.0
+"🏢 2,500 SQFT Office/Retail/Professional Space — High-Income Neighborh",,,"Springfield Gardens, NY",Apartment,,
+"🏢 2,500 SQFT Office/Retail/Professional Space — High-Income Neighborh",,,"Springfield Gardens, NY",Apartment,,
+Retail*Store*Discount*Basement*Lots Of Foot Traffic*10th Ave*W50th St,,,"New York, NY",Apartment,,
+Rental*Co-op*Bright*Views*Elevator*Laundry*Pets*No Fee! W203rd,,,"New York, NY",Apartment,1.0,1.0
+Rental*Co-op*Bright*Views*Full Sep Kitchen*Pets Ok Great Share*W148th,,,"New York, NY",Apartment,3.0,1.0
+Warehouse*Developement*Investment Property*Parking*Can Deliver Vacant,,,"Brooklyn, NY",Apartment,,
+2 Bedroom For Rent in Hunts Point $2500,,,"Bronx, NY",Apartment,2.0,1.0
+Building Sale-Or Lease*Vacant*3 Floors+Lower Level*W181,,,"New York, NY",House,,
+3 Bedroom Apartment for Rent,,,"Bronx, NY",Apartment,,
+PH 2br in iconic Village Condo- not listed but available,,,"New York, NY",Apartment,2.0,2.0
+AUTO REPAIR SHOP P & B FOR SALE at LONG ISLAND,,,"Ronkonkoma, NY",Apartment,,
+"520 Portion Rd. LAND, for SALE, .",,,"Ronkonkoma, NY",Place,,
+2-Family House,,,"Middle Village, NY",House,3.0,3.0
+"260 COMMACK ROAD RETAIL FOOD ""PROPERTY & BUSINESS"" FOR SALE",,,"Commack, NY",Apartment,,
+WINDOWED OFFICE MIDTOWN WEST GREAT FOR HAIR SALON WATER INCLUDED,,,"New York, NY",Apartment,,
+New To Market- 3 desk Private Office at DISCOUNTED PRICE *NO FEE,,,"New York, NY",Apartment,,
+MIDTOWN NEW OFFICES AND FLOORS FOR BUSINESS ***NO FEE,,,"New York, NY",Apartment,,
+HAIR SALON OR REGULAR OFFICE IN MIDTOWN WEST ***NO FEE,,,"New York, NY",Apartment,,
+WINDOWED OFFICE NEAR TIMES SQUARE *NO FEE,,,"New York, NY",Apartment,,
+Cozy 1 bedroom apartment for Rent,,,"Staten Island, NY",Apartment,1.0,1.0
+Your Dedicated NYC Broker,,,"New York, NY",Apartment,,
+Large Full Floor Office for Big Business *NO FEE,,,"New York, NY",Apartment,,
+SOHO UPSCALE MOVE IN READY OFFICE FOR YOUR BUSINESS *NO FEE,,,"New York, NY",Apartment,,
+LARGE FLEX OFFICE FOR 13 EMPLOYEES- FURNISHED M2M or UP TO 2 YRS LIC,,,"Long Island City, NY",Apartment,,
+50% PRIVATE OFFICES-REAL DEALS BUT FOR A LIMITED TIME. PM TO TOUR,,,"New York, NY",Apartment,,
+Special 2 room OFFICE SUITE in MIDTOWN at DISCOUNT *NO FEE,,,"New York, NY",Apartment,,
+CHEAPEST WINDOWED OFFICE IN THE CITY.  WILL GO FAST! $1700 NO FEE,,,"New York, NY",Apartment,,
+Awesome Windowed office with Wood Floors *NO FEE,,,"New York, NY",Apartment,,
+NYC OFFICE FINDER,,,"New York, NY",Apartment,,
+Windowed Office NEar Times Square *NO FEE,,,"New York, NY",Apartment,,
+Exceptional Contemporary Home with River & Mountain views,,,"Cornwall On Hudson, NY",House,3.0,4.0
+3 bedroom apartment for rent,,,"Elmhurst, NY",Apartment,,
+Updated 3 Bedroom/2.5 Bthroom Single Family Home,,,"Brooklyn, NY",House,3.0,3.0
+2 Bedroom For Rent,,,"Jamaica, NY",Apartment,,
+1 Bedroom For Rent,,,"Rego Park, NY",Apartment,,
+126th Street 7th avenue,,,"New York, NY",Apartment,1.0,
+Apartment for rent,,,"Forest Hills, NY",Apartment,1.0,1.0
+Clinton Hill Mansion Row Special,,,"Brooklyn, NY",House,,6.0
+Key Lock Elevator to your DREAM LOFT! 2000SF and TONS OF LIGHT,,,"New York, NY",Apartment,2.0,2.0
+Deal Fell Thru- RENT this MASSIVE 5 BR DUPLEX LOFT w/4200SF,,,"New York, NY",Apartment,5.0,3.0
+"Authentic LOFT, South Facing, 12' Ceilings, FLEXIBLE LAYOUT!",,,"New York, NY",Apartment,,
+DIRECT PARK VIEWS! Sunset views too! 4BR ELEGANCE on CPW,,,"New York, NY",Apartment,4.0,4.0
+ELEGANCE in your CONVERTIBLE 3BR Beauty,,,"New York, NY",Apartment,,
+"NOT EVEN LISTED! 3000SF LOFT, Minimal Monthlies and Great Investment",,,"New York, NY",Apartment,,
+Dos recamaras apartamento para alquilar,,,"Elmont, NY",Apartment,2.0,1.0
+Jumbo Duplex *Commercial Space* for Leasing,,,"Brooklyn, NY",Apartment,,1.0
+Comfy Room #FullSizeBed #OzonePark #JFK,,,"Ozone Park, NY",Apartment,3.0,1.0
+Fulton Street,,,"Brooklyn, NY",Apartment,1.0,
+Fulton Street,,,"Brooklyn, NY",Apartment,1.0,
+Jefferson avenue between Tompkins and throop,,,"Brooklyn, NY",Apartment,1.0,
+Unique mix-use property with garage,,,"New York, NY",House,,
+PERFECT 3BR ON PARK! RARE to find a RENTAL but here you are,,,"New York, NY",Apartment,3.0,4.0
+"Vacant Legal 4 family, needs TLC in Albany NY",,,"Brooklyn, NY",House,6.0,4.0
+"Fully Detached Single Family in Daytona Beach, Florida",,,"Saint Albans, NY",House,3.0,2.0
+Grenada Caribbean get away,,,"New York, NY",Apartment,,
+THE PROSPECT HEIGHTS HONEY,,,"Brooklyn, NY",House,,4.0
+30-UNIT PRE-WAR MULTIFAMILY BUILDING,,,"New York, NY",Apartment,,
+2&3br Sponsored coops NO BOARD APPROVAL needed! Yonkers & Mt Vernon,,,"Mount Vernon, NY",Apartment,3.0,2.0
+XL STUDIO near Wash Sq Park- Lofted gem for WAY LESS than you think,,,"New York, NY",Apartment,,
+RARE to  find a 4BR/4.5BA- but  here it is! In a 2 STORY TH!,,,"Brooklyn, NY",House,4.0,5.0
+"Classic, Prewar Charm fully updated! Own a 2BR for the price of a 1BR",,,"New York, NY",Apartment,2.0,1.0
+"Cool, Duplex, Lofty Find for less than you think",,,"New York, NY",Apartment,1.0,1.0
+"2500SF Massive LOFT- Offered FURNISHED til the New Year, Maybe LONGER",,,"New York, NY",Apartment,3.0,2.0
+Want a  project? COMBINE 2 Units to your DREAM 3BR in the VILLAGE!,,,"New York, NY",Apartment,,
+"UNREAL DEAL! Top Floor, Well run co-op, Balcony, Breathtaking views",,,"New York, NY",Apartment,2.0,1.0
+Mixed Use TH! Flexible LIVE/WORK options- Needle in the haystack!,,,"New York, NY",House,,
+HIGH FLOOR! 1BR perfection near Lincoln Center and its a CONDO,,,"New York, NY",Apartment,1.0,1.0
+PREWAR CONDO STEAL! 2BR/2BA GEM flooded with Light,,,"New York, NY",Apartment,2.0,2.0
+"LOFT LIFE FOR LESS! Its a CONDO too, and Convertible to a 2BR",,,"New York, NY",Apartment,1.0,1.0
+"HISTORIC, RENOVATED TH- 2 Family now or return to single family",,,"New York, NY",House,6.0,4.0
+"Authentic LOFT bldg circa 1920! Now, OWN YOUR OWN LOFT for LESS",,,"Brooklyn, NY",Apartment,2.0,2.0
+Loft-Style Beauty with Double Height Ceilings! PRIVATE OUTDOORS TOO,,,"New York, NY",Apartment,1.0,1.0
+"3000SF LOFT to OWN (or ask about renting!) Biggest Find in the ""hood""",,,"New York, NY",Apartment,3.0,2.0
+"DUPLEX LOFT for Less than you thought possible- Open plan, plus PATIO",,,"New York, NY",Apartment,2.0,1.0
+"SPONSOR STEAL! Purchase As-Is, OR choose to have sponsor RENOVATE",,,"New York, NY",Apartment,3.0,3.0
+Double Height Ceilings! Roof Deck! LOFTY FIND of FINDS,,,"Brooklyn, NY",Apartment,2.0,2.0
+Estate Sale of Famed Artist! WHEN ONLY THE COOLEST WILL DO!!!,,,"New York, NY",Apartment,2.0,2.0
+Prewar CONDO STEAL! Sponsor owned and SOLD AS-IS,,,"New York, NY",Apartment,3.0,2.0
+Duplex Oasis in Classic WV Townhouse! Room to Relax and Breathe,,,"New York, NY",Apartment,3.0,3.0
+Its your DREAM LOFT- Steps to Union Square- 2400SF of Perfect,,,"New York, NY",Apartment,3.0,3.0
+DREAM DUPLEX LOFT! 30' Ceilings and Breathtaking!,,,"New York, NY",Apartment,2.0,3.0
+OMG Moment! NOT LISTED but OWN this 2BR in full service CONDO,,,"New York, NY",Apartment,2.0,2.0
+LOFT-LIKE 2BR DEAL with Income Restrictions,,,"New York, NY",Apartment,2.0,2.0
+"PH of your dreams- RENT IT, OR OWN IT! It's a win-win choice",,,"New York, NY",Apartment,2.0,2.0
+Holy Cow! Landmark Bldg now lofty Co-Ops! Own a Spectacular 2BR,,,"New York, NY",Apartment,2.0,2.0
+TOWNHOUSE LIVING! Triplex Treat w/indoor /outdoor lifestyle,,,"New York, NY",House,4.0,3.0
+Garden Level beauty with Fireplace too!  RARE FIND in Bklyn Heights,,,"Brooklyn, NY",Apartment,2.0,1.0
+Perfect Canvas for your DREAM HOME!! TH TREAT!!,,,"Brooklyn, NY",House,,
+TH Living PLUS Roof Rights in this historic home,,,"Brooklyn, NY",House,2.0,1.0
+Coolest of LOFTS and Priced just right!  A true Seaport Steal,,,"New York, NY",Apartment,1.0,1.0
+Noho LOFT with  17' Ceilings! Best LOFT VALUE OUT THERE!,,,"New York, NY",Apartment,,
+Magic on Murray!! Your dream loft awaits if you can wait til February?,,,"New York, NY",Apartment,2.0,2.0
+TH 5BR QUADRIPLEX you can now RENT! From 3 Months to a Year,,,"New York, NY",House,5.0,6.0
+"Prime Bensonhurst – Most Desirable Cooperative Unit Approx. 1,000 sqft",,,"Brooklyn, NY",Apartment,2.0,1.0
+Brand New 3-Bedroom Apartment in the Heart of Rego Park,,,"Rego Park, NY",Apartment,3.0,1.0
+"CLASS ""A"" PROFESSIONAL DESK SPACE - PRIVATE ROOM",,,"Bayside, NY",Apartment,,
+Charming Townhouse,,,"New York, NY",House,6.0,6.0
+Semi detached 6 Fam in Queens,,,"New York, NY",Apartment,,
+E Village Storefront Duplex Condo,,,"New York, NY",Apartment,,
+SI Mixed use Investment property,,,"New York, NY",Apartment,,
+Bronx Investment Property,,,"New York, NY",Apartment,,
+Off Market Bk Multifamily,,,"New York, NY",Apartment,,
+11-UNIT PRE-WAR MULTIFAMILY,,,"New York, NY",Apartment,,
+"6 Story Elevator Brick apt Bldg, 32 apts",,,"New York, NY",Apartment,,
+"Taco business in E Harlem 800sf, 900sf bsmt",,,"New York, NY",Apartment,,
+Multi-Family Riverdale Townhouse with 2 Duplexes,,,"New York, NY",House,,
+PRIME investment 6 story 48 Unit Multifamily!,,,"New York, NY",Apartment,,
+Just listed/ Gorgeous Furnished Renovated Apt///Jan 15,,,"New York, NY",Apartment,2.0,1.0
+Luxury Hotel investment opportunity,,,"New York, NY",Apartment,,
+"Taco business in E Harlem 800sf, 900sf bsmt",,,"New York, NY",Apartment,,
+66 Key hotel in LIC,,,"New York, NY",Apartment,,
+Vacant Parking Garage for sale,,,"New York City, NY",House,,
+4 floor Parkside Brownstone,,,"New York, NY",House,,
+"40,000 RSF building for sale",,,"New York, NY",Apartment,,
+For Sale: Off Market 67 Unit Mixed Use in 2 Contiguous Buildings,,,"New York, NY",Apartment,,
+"Commercial condo space , 22,000 sf",,,"New York, NY",Apartment,,5.0
+Dream Wakefield 3 Bedroom,,,"New York, NY",House,,
+Stunning UES Prof Office,,,"New York, NY",Apartment,,
+"PRIME land in East Harlem by 4,5,6 Trains",,,"New York, NY",Place,,
+Grand investment opportunity,,,"New York, NY",House,,
+WAREWHOUSE AVAILABLE FOR LEASE,,,"Staten Island, NY",House,,
+LAND FOR LEASE,,,"Staten Island, NY",Place,,
+COMMERCIAL  FOR LEASE,,,"Far Rockaway, NY",House,,
+LAND FOR SALE,,,"Staten Island, NY",Place,,
+2 Bed Semibase apt live kit bath nice apt e,,,"Staten Island, NY",Apartment,2.0,1.0
+VACAND LAND FOR LEASE,,,"Staten Island, NY",Place,,
+Parlor Floor TH VIBE in Hudson Square! Own this charming 2BR beauty,,,"New York, NY",House,2.0,2.0
+Landmark PH Duplex! Simply Stellar and ready for sale after 35 years,,,"New York, NY",Apartment,2.0,2.0
+"Mint, Sunny, Tranquil 1BR GEM in CLASSIC WV TOWNHOUSE coming MARCH",,,"New York, NY",House,1.0,1.0
+Biggest and Best on West End! FIVE BR w.HUDSON VIEWS,,,"New York, NY",Apartment,5.0,3.0
+Soaring Ceilings in your Stunning 2BR LOFT on the North Side,,,"Brooklyn, NY",Apartment,2.0,2.0
+FIRST TIME in 40 Yrs! Full floor LOFT w ROOF RIGHTS needs TLC,,,"New York, NY",Apartment,2.0,2.0
+NOT ON SE! Ultimate LOFT in the ultimate LOCATION! And Ultimate Value,,,"New York, NY",Apartment,2.0,3.0
+2 LOFTS to COMBINE into a 3000SF GEM! Now for Sale,,,"New York, NY",Apartment,3.0,2.0
+"Exquisite, Floor Thru LOFT, 11' Tin Ceilings, 2-3BR, Hardwood Floors",,,"New York, NY",Apartment,2.0,2.0
+"It's A WOW! 18' Ceilings, LOFT-LIKE VIBES yet on the Upper East!",,,"New York, NY",Apartment,1.0,2.0
+Mixed Use Bldg for SALE! Keep as is or CONVERT TO RESIDENTIAL-INVEST!!,,,"New York, NY",House,,
+"SIMPLY GORGEOUS LOFT! 18' Ceilings, Exposed Brick, LOCATION LOCATION",,,"New York, NY",Apartment,1.0,1.0
+2BR Beauty in a 25' Wide Brownstone! FULL FLOOR and RENOVATED,,,"Brooklyn, NY",House,2.0,2.0
+Classic Charm w/Loft-Like Vibes! Price almost too good to be true!,,,"New York, NY",Apartment,2.0,1.0
+CORNER LOFT Steal of a Deal! Reduced to sell by motivated owner,,,"New York, NY",Apartment,2.0,1.0
+Coolest of Cool. 2500SF 3BR PH with  ROOF TERRACE TOO- FURNISHED TOO,,,"New York, NY",Apartment,3.0,2.0
+"3800SF, FIVE BR MAJESTY!  Once in a blue moon chance to RENT THIS",,,"New York, NY",Apartment,5.0,4.0
+"1600SF LOFT, Flooded with Light and now for SALE",,,"New York, NY",Apartment,1.0,2.0
+Lofted Find on the UES! 1BR PLUS additional SLEEP LOFT (TERRACE TOO),,,"New York, NY",Apartment,,
+Furnished or Not- Rent your own TRIBECA Authentic LOFT,,,"New York, NY",Apartment,2.0,2.0
+Massive Prewar LOFT now for sale! 2300SF including a 500SF Mezzanine,,,"New York, NY",Apartment,2.0,2.0
+Lofted DUPLEX with Soaring Ceilings and Incredible Light,,,"New York, NY",Apartment,1.0,2.0
+LIVE/WORK OPTIONS- Few and Far Between,,,"New York, NY",Apartment,,
+"INVESTMENT UNIT! PH, Tenant Occupied, TERRACE, Sponsor says SELL",,,"New York, NY",Apartment,2.0,2.0
+Live w/INCOME or just INVEST SMART!! Its a WIN-WIN situation,,,"New York, NY",House,,
+Create your Dream! Classic 6 (4BR) in prewar Co-Op Ready and Waiting,,,"New York, NY",Apartment,4.0,2.0
+SCOPE of a TH - 3300SF MASSIVE Space on cusp of Village/Soho/Tribeca,,,"New York, NY",Apartment,3.0,3.0
+UNREAL DEAL! Not even Listed! 2BR PLUS formal Dining room near CPW,,,"New York, NY",Apartment,3.0,2.0
+"Home in HUDSON YARDS! Exceptional, 2600SF LOFT you can RENT",,,"New York, NY",Apartment,2.0,2.0
+PH level of TH Steps to Central Park!! And it's 4BR! And you can RENT!,,,"New York, NY",House,4.0,5.0
+Best Deal. Best Views. PH with Private TERRACE TOO,,,"New York, NY",Apartment,2.0,3.0
+Top Floor DUPLEX w/Private Roofdeck!  Loft-Like and MINT,,,"New York, NY",Apartment,2.0,2.0
+FULL GUT NEEDED for this Incredible Multi fam in Carnegie Hill,,,"New York, NY",House,,
+2000SF Authentic LOFT if you can wait til FEBRUARY!,,,"New York, NY",Apartment,1.0,2.0
+"LOFT OF LOFTS! Convertible 2BR, DUPLEX, Rent to OWN is possible",,,"New York, NY",Apartment,1.0,2.0

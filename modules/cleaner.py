@@ -1,8 +1,10 @@
 import pandas as pd
 import os
 
-RAW_PATH = "data/raw/raw_properties.csv"
-CLEANED_PATH = "data/cleaned/cleaned_properties.csv"
+# Get the project root directory
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+RAW_PATH = os.path.join(PROJECT_ROOT, "data", "raw", "raw_properties.csv")
+CLEANED_PATH = os.path.join(PROJECT_ROOT, "data", "cleaned", "cleaned_properties.csv")
 
 def clean_properties():
     df = pd.read_csv(RAW_PATH)
