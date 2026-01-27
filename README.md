@@ -50,31 +50,41 @@ That is it. Results go into the database.
    ## Repository Layout
 
    ```
-   main.py                      # Orchestrates the full pipeline (scrape → clean → DB → analyze)
-   README.md                    # Project documentation
-   requirements.txt             # Pinned Python dependencies
-   wrok_done.txt                # Progress notes / changelog
-
-   config/
-     db_config.py               # SQLite path (DB_PATH)
-
-   data/
-     raw/
-       raw_properties.csv       # Scraped listings (as-is)
-     cleaned/
-       cleaned_properties.csv   # Cleaned listings with metrics
-
-   modules/
-     scraper.py                 # Scrapes Craigslist NY (price, sqft, beds, baths, location, URL)
-     cleaner.py                 # Cleans & filters (dedupe, rentals, types, price_per_sqft, undervalued)
-     database.py                # Writes cleaned data to SQLite (`properties` table)
-     analyzer.py                # Loads DB, runs analysis, saves `arbitrage_opportunities`
-
-   scripts/
-     run_scraper.py             # Run only scraper
-     run_cleaner.py             # Run only cleaner
-     run_db_updates.py          # Run only DB updates
+   Arbitrage/
+   │
+   ├── main.py                         # Entry point – runs the complete ETL pipeline
+   ├── README.md                       # Project documentation (you are here)
+   ├── requirements.txt                # Python dependencies (pinned versions)
+   └── wrok_done.txt                   # Development changelog & notes
+   │
+   ├── config/
+   │   └── db_config.py                # Database configuration (SQLite path)
+   │
+   ├── data/
+   │   ├── raw/
+   │   │   └── raw_properties.csv      # Raw scraped listings (unprocessed)
+   │   └── cleaned/
+   │       └── cleaned_properties.csv  # Cleaned data with computed metrics
+   │
+   ├── modules/                         # Core business logic
+   │   ├── scraper.py                  # Web scraper (Craigslist → CSV)
+   │   ├── cleaner.py                  # Data cleaning & transformation
+   │   ├── database.py                 # SQLite persistence layer
+   │   └── analyzer.py                 # Arbitrage detection & reporting
+   │
+   └── scripts/                         # Standalone runners
+       ├── run_scraper.py              # Execute scraper only
+       ├── run_cleaner.py              # Execute cleaner only
+       └── run_db_updates.py           # Execute database update only
    ```
+
+   | Directory | Purpose |
+   |-----------|---------|
+   | `config/` | Centralized configuration (database path, future API keys) |
+   | `data/raw/` | Immutable scraped data – preserved for reproducibility |
+   | `data/cleaned/` | Transformed data ready for analysis and storage |
+   | `modules/` | Reusable Python modules implementing core pipeline logic |
+   | `scripts/` | CLI entry points for running individual pipeline stages |
 
    ## Setup
 
@@ -172,13 +182,7 @@ That is it. Results go into the database.
    - Title-based sqft extraction is heuristic; enable detail fetch for precision
    - Avoid aggressive scraping; respect robots and site policies
 
-   ## Roadmap
-   - Multi-source support (Zillow, Redfin)
-   - Trend tracking and time-series analytics
-   - Email/Slack alerts for new opportunities
-   - Lightweight dashboard (Streamlit)
-   - ML-assisted valuation
-
+   
    ## Contributing
    Open to improvements—PRs welcome. Ideas: new sources, better heuristics, dashboards, alerting.
 
