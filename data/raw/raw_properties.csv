@@ -1,571 +1,649 @@
-title,price,area,location,property_type,bedrooms,bathrooms
-"7 Bedroom, 4 bathroom, 4 story brick multi family with private parking",,,"Brooklyn, NY",Apartment,7.0,4.0
-124th Street 8th avenue,,,"New York, NY",Apartment,1.0,
-126th Street 7th avenue,,,"New York, NY",Apartment,1.0,
-Fulton Street,,,"Brooklyn, NY",Apartment,1.0,
-Multiple units throughout Brooklyn from studios to five bedrooms vouch,,,"Brooklyn, NY",Apartment,2.0,2.0
-Jefferson avenue between Tompkins and throop,,,"Brooklyn, NY",Apartment,1.0,
-Newly renovated central heating and cooling system,,,"Brooklyn, NY",Apartment,2.0,2.0
-Fulton Street,,,"Brooklyn, NY",Apartment,1.0,
-Spacious 4 Bedroom 2.5 Bath Detached Home for Sale Queens Village NY,,,"Queens Village, NY",Apartment,4.0,3.0
-Rare 1 bedroom modern reno beau views Lifestyle Prospect Park rental,,,"Brooklyn, NY",Apartment,1.0,1.0
-Studio apartment available near train and shops,,,"Brooklyn, NY",Apartment,,1.0
-Large Townhouse for Rent in Greenwich CT,,,"Greenwich, CT",House,2.0,4.0
-Large Townhouse for Rent in Greenwich CT,,,"Greenwich, CT",House,2.0,4.0
-BAYSIDE /4BR  2 BA  /2nd FL$3800,,,"Bayside, NY",House,4.0,2.0
-Duplex apartment / 2 bedrooms,,,"Rego Park, NY",Apartment,2.0,2.0
-2 bedroom apartment for rent,,,"Rego Park, NY",Apartment,2.0,1.0
-Great 1 bedroom  *w129/Broadway*REAL LISTING,,,"New York, NY",Apartment,1.0,1.0
-2 bedroom apartment,,,"Yonkers, NY",Apartment,2.0,1.0
-Beautiful 3 bedroom 2 bath -separate Kitchen*  *w156th/St. Nick ave *,,,"New York, NY",Apartment,3.0,2.0
-Unique  & Luxury 2 bedroom 2 BATH in Brooklyn heights,,,"Brooklyn, NY",House,2.0,2.0
-Newly renovated studio  -heat included ONLY $1750 !!no fee!,,,"Brooklyn, NY",Apartment,,1.0
-Beautiful 2 bedroom 1 bath -separate Kitchen*w148/Convent ave*,,,"New York, NY",Apartment,2.0,1.0
-Spacious coop studio under 300K!!!,,,"New York, NY",Apartment,,1.0
-Great 2 bedroom 1 bath -separate Kitchen*w168/Audobon*,,,"New York, NY",Apartment,2.0,1.0
-Beautiful & spacious 1 bedroom in excellent condition. Laundry!,,,"Yonkers, NY",Apartment,1.0,1.0
-2 Bed 2 Bath coops in East Harlem 1000SF,,,"New York, NY",Apartment,2.0,2.0
-"To wait, or not to wait?",,,"New York, NY",Apartment,1.0,1.0
-Welcome to Washington Heights!,,,"New York, NY",Apartment,1.0,1.0
-Amazing studio  apt for rent,,,"Brooklyn, NY",Apartment,,
-HUGE FURNISHED 1 BEDROOM SUBLET  YO**amazing  astoria **HURRY,,,"Astoria, NY",Apartment,1.0,1.0
-FURNISHED SUBLET HOMIE**1  BEDROOM STEAL*Very  Spacious*NEW *hurry,,,"Astoria, NY",House,1.0,1.0
-HURRY** furnished sublet*** *furnished**ASTORIA ***NO drama,,,"Astoria, NY",Apartment,1.0,1.0
-HURRY** furnished sublet*** *furnished**ASTORIA ***NO drama,,,"Astoria, NY",Apartment,1.0,1.0
-Clinton Hill Mansion Row Special,,,"Brooklyn, NY",House,,6.0
-Lovely 3-Family with Parking and Paved Backyard.,,,"Bronx, NY",House,6.0,3.0
-Townhouse/ End Unit,,,"Staten Island, NY",House,,
-✅🟠 Brick Duplex for sale. Great investment! - LOW TAXES!!,,,"Bronx, NY",House,8.0,3.0
-🟧  Brick Two Family! GREAT investment! - DELIVERED VACANT!,,,"Bronx, NY",House,8.0,3.0
-🟡🔴 Brick Duplex for sale. Great investment! - FSBO - R6 Zoning,,,"Bronx, NY",Apartment,8.0,3.0
-HUGE STUDIO roof top new kitchen and bathroom. Good price,,,"New York, NY",Apartment,,1.0
-Jumbo Room + Queen Bed #OzonePark,,,"Ozone Park, NY",Apartment,3.0,1.0
-"Ozone Park, Room Rental #TwinBed",,,"Ozone Park, NY",Apartment,3.0,1.0
-Jumbo Duplex *Commercial Space* for Leasing,,,"Brooklyn, NY",Apartment,,1.0
-STORE  FOR RENT,,,"Brooklyn, NY",House,,
-Rental*Co-op*Bright*Views*Full Sep Kitchen*Pets Ok Great Share*W148th,,,"New York, NY",Apartment,3.0,1.0
-Rental*Live/Work*Special Deal*2 Sep Rooms*Bright*W38th & 8th Ave,,,"New York, NY",Apartment,2.0,1.0
-Building Sale-Or Lease*Vacant*3 Floors+Lower Level*W181,,,"New York, NY",House,,
-GREAT 1 BEDROOM HIGH FLOOR  RENOVATED.,,,"New York, NY",Apartment,1.0,1.0
-Space for Rent in Midtown Manhattan 5000 sqr ft or Office Suites,,,"New York, NY",Place,,
-Furnished Rental 2 bedrooms 2 bathrooms (15 to 20 minutes to cities),,,"Weston, CT",Apartment,2.0,2.0
-Movie theater for sale!!!,,,"New York, NY",House,,
-Prime location hotel for sale in downtown Manhattan!,,,"New York, NY",House,,
-Full apartment - June 12 to June 28 (World Cup)  - $400/night,,,"New York, NY",Apartment,,
-Full apartment - February 16 to February 19 - $200/night,,,"New York, NY",Apartment,,
-Beautiful 3 Bedroom Apartment in Westerleigh - Top Floor of 2 Family,,,"Staten Island, NY",Apartment,3.0,2.0
-Greenwich Downtown Available - $76/night,,,"Greenwich, CT",House,1.0,1.0
-Large 1- Bed 1- Bath in Journal Square/Heights Jersey City,,,"Jersey City, NJ",Apartment,1.0,1.0
-Penthouse Jewel in Flatiron! Indoor/Outdoors at its finest,,,"New York, NY",Apartment,2.0,1.0
-Its an Artist Loft. Its Furnished. Its in Soho. Its FLEXIBLE LEASE,,,"New York, NY",Apartment,2.0,2.0
-PH 2br in iconic Village Condo- not listed but available,,,"New York, NY",Apartment,2.0,2.0
-Its a LOFT! Its a PH! Its a 3BR/2BA!  Get the very best of SOHO,,,"New York, NY",Apartment,3.0,2.0
-RENT IT or OWN IT!! DUPLEX LOFTY FIND in heart of SOHO-DRAMA!!!!,,,"New York, NY",Apartment,2.0,2.0
-Authentic Live/Work LOFT- Reno Opportunity for this wonderful PH LOFT,,,"New York, NY",Apartment,,
-ATTN ATTN CONDO CONVERSION- 2BR LOFTS for SALE,,,"New York, NY",Apartment,2.0,2.0
-"CLASSIC 6- Elegance, Space, Location- all for less than you think",,,"New York, NY",Apartment,,
-"Architectural Beauty! DUPLEXED 1BR with Drama, Priced to Sell",,,"New York, NY",Apartment,1.0,2.0
-RARE DUPLEX with 24' Ceilings and 3 Terraces! Gotta see this for sure,,,"Brooklyn, NY",Apartment,3.0,2.0
-Its a WOW deal! 3BR prewar condo beauty for way less than you think,,,"New York, NY",Apartment,3.0,3.0
-New Construction 2- Bed 2- Bath in Journal Square/Heights Jersey City,,,"Jersey City, NJ",Apartment,2.0,2.0
-Brick 1 family BUY with only 1% down (qualify buyers),,,"Brooklyn, NY",House,3.0,2.0
-TURNKEY Established TURNKEY Auto Mechanic + Building FOR SALE + Neighb,,,"Brooklyn, NY",Apartment,,
-"6 Acre Lake Access Home Full Unfinished Basement Garage, Private Lake",,,"Yulan, NY",House,,
-***Spacious Sun-Filled 2 Bedroom near Husdson River***,,,"Yonkers, NY",Apartment,1.0,1.0
-Get a Virtual Office. Work remotely and enjoy a business address!,,,"Bronx, NY",House,,
-Retail BUIDING FOR RENT or FOR SALE= Owner will hold mortgage,,,"Brooklyn, NY",Apartment,,
-3br for rent vouchers accepted,,,"Bronx, NY",Apartment,3.0,1.0
-1 bedroom vouchers accepted,,,"Mount Vernon, NY",Apartment,1.0,1.0
-New Construction 3- Bed 2- Bath in Journal Square  Jersey City,,,"Jersey City, NJ",Apartment,3.0,2.0
-"260 COMMACK ROAD RETAIL FOOD ""PROPERTY & BUSINESS"" FOR SALE",,,"Commack, NY",Apartment,,
-"LAND, for SALE, .",,,"Ronkonkoma, NY",Place,,
-AUTO REPAIR SHOP PROPERTY FOR SALE at LONG ISLAND,,,"Ronkonkoma, NY",Apartment,,
-***Large 3 Bedroom North Riverdale***,,,"Bronx, NY",Apartment,3.0,1.0
-Studio,,,"Staten Island, NY",Apartment,,
-1Bedroom Apartment. 1900$,,,"Brooklyn, NY",Apartment,1.0,1.0
-Room for Rent Riverdale Avenue,,,"Bronx, NY",Apartment,1.0,
-VALENTINE'S  RENT SALE! HUGE STUDIO WITH SEPARATE KITCHEN FOR RENT!,,,"New York, NY",Apartment,1.0,1.0
-CYBER WEEK WONT LAST! ONE BEDROOM APARTMENT FOR RENT FIRST FLOOR!,,,"Bronx, NY",Apartment,1.0,1.0
-$400.00 LOOK AND LEASE!   CHRISTMASS RENT SALE! 2 BEDROOM APT FOR RENT,,,"Bronx, NY",Apartment,2.0,1.0
-CYBER WEEK RENT SALE! TWO BEDROOM APARTMENT FOR RENT,,,"Bronx, NY",Apartment,2.0,1.0
-CYBER WEEK RENT SALE!NEWLY RENOVATED  2 BEDROOM APARTMENT FOR RENT,,,"Bronx, NY",Apartment,2.0,1.0
-SAINT VALENTINE RENT SALE!HUGE FURNISHED ROOM FOR RENT ONLY $200.00,,,"New York, NY",Apartment,,
-CYBER WEEK  RENT SALE! BRAND NEW LUXURY ONE BEDROOM APARTMENT FOR RENT,,,"Bronx, NY",Apartment,1.0,1.0
-CYBER WEEK  RENT SALE! HUGE ONE BEDROOM APT FOR RENT!,,,"Yonkers, NY",Apartment,1.0,
-NEWLY RENOVATED 3 BEDS FOR RENT,,,"Bronx, NY",Apartment,,
-SUPER BOWL RENT DEAL! BRAND NEW LARGE 4 BEDROOMS/3 FULL BATH  FOR RENT,,,"Bronx, NY",Apartment,4.0,3.0
-***Spacious Sun-Filled 2 Bedroom near Husdson River***,,,"Yonkers, NY",Apartment,2.0,1.0
-For Sale Beautiful Colonial New Condition in Long Island,,,"Centereach, NY",Apartment,4.0,3.0
-"One bedroom apartment, H+HW included",,,"Brooklyn, NY",Apartment,1.0,1.0
-"Duplex in the heart of Bushwick, L train, Morgan stop",,,"Brooklyn, NY",Apartment,2.0,1.0
-Unique mix-use property with garage,,,"New York, NY",House,,
-"260 COMMACK ROAD ""BUSINESS"" FOR SALE",,,"Commack, NY",Apartment,,
-"520 Portion Rd. LAND, for SALE, .",,,"Ronkonkoma, NY",Place,,
-Semi detached 6 Fam in Queens,,,"New York, NY",Apartment,,
-AUTO REPAIR SHOP P & B FOR SALE at LONG ISLAND,,,"Ronkonkoma, NY",Apartment,,
-2 Bedroom apartment for rent/ sublet,,,"Brooklyn, NY",Apartment,2.0,1.0
-HUGE 1 BEDROOM 1 BATHROOM APARTMENT,,,"Brooklyn, NY",Apartment,1.0,1.0
-Grand investment opportunity,,,"New York, NY",House,,
-"PRIME land in East Harlem by 4,5,6 Trains",,,"New York, NY",Place,,
-Stunning UES Prof Office,,,"New York, NY",Apartment,,
-Dream Wakefield 3 Bedroom,,,"New York, NY",House,,
-"Commercial condo space , 22,000 sf",,,"New York, NY",Apartment,,5.0
-Spacious 2 Master suites w/private baths + guest bath CENTRL ORLANDO!!,,,"Orlando, FL",Apartment,2.0,3.0
-Lindo cuarto con Gym,,,"Kew Gardens, NY",House,1.0,1.0
-For Sale: Off Market 67 Unit Mixed Use in 2 Contiguous Buildings,,,"New York, NY",Apartment,,
-"40,000 RSF building for sale",,,"New York, NY",Apartment,,
-4 floor Parkside Brownstone,,,"New York, NY",House,,
-Vacant Parking Garage for sale,,,"New York City, NY",House,,
-66 Key hotel in LIC,,,"New York, NY",Apartment,,
-"Taco business in E Harlem 800sf, 900sf bsmt",,,"New York, NY",Apartment,,
-Luxury Hotel investment opportunity,,,"New York, NY",Apartment,,
-PRIME investment 6 story 48 Unit Multifamily!,,,"New York, NY",Apartment,,
-Multi-Family Riverdale Townhouse with 2 Duplexes,,,"New York, NY",House,,
-"Taco business in E Harlem 800sf, 900sf bsmt",,,"New York, NY",Apartment,,
-"6 Story Elevator Brick apt Bldg, 32 apts",,,"New York, NY",Apartment,,
-11-UNIT PRE-WAR MULTIFAMILY,,,"New York, NY",Apartment,,
-Off Market Bk Multifamily,,,"New York, NY",Apartment,,
-Bronx Investment Property,,,"New York, NY",Apartment,,
-SI Mixed use Investment property,,,"New York, NY",Apartment,,
-Semi detached 6 Fam in Queens,,,"New York, NY",Apartment,,
-E Village Storefront Duplex Condo,,,"New York, NY",Apartment,,
-Charming Townhouse,,,"New York, NY",House,6.0,6.0
-30-UNIT PRE-WAR MULTIFAMILY BUILDING,,,"New York, NY",Apartment,,
-Grenada Caribbean get away,,,"New York, NY",Apartment,,
-"Condo 2 bedroom 2 bath $850,000",,,"New York, NY",Apartment,2.0,2.0
-"co-op studio for sale- cash buyer,",,,"Brooklyn, NY",Apartment,,1.0
-UPSCALE Central Florida 55+ Manufactured Home 2/2 1270 sf * LIKE NEW *,,,"Deland, FL",House,2.0,2.0
-**Boerum Hill – Fully Furnished 1-Bedroom + Office with All Utilities,,,"Brooklyn, NY",Apartment,1.0,1.0
-Huge Luxury oasis on the Hudson River,,,"Yonkers, NY",Apartment,2.0,2.0
-✅🟠 Brick Duplex for sale. Great investment!  - FINANCEABLE!,,,"Bronx, NY",Apartment,8.0,3.0
-10% CASH ON CASH 8 Family + 3 stores  Residental portion = 12 BEDS+,,,"Brooklyn, NY",Apartment,8.0,8.0
-No Broker fee 3 Bedroom 1 bath,,,"New York, NY",Apartment,3.0,1.0
-NO BROKER FEE 2 BEDROOMS 1 BATH FOR RENT,,,"New York, NY",Apartment,2.0,1.0
-✅🟠 Brick Duplex for sale. Great investment! - VACANT! - FINANCEABLE!,,,"Bronx, NY",Apartment,8.0,3.0
-Corner Long Island City 1B/1B with Manhattan Views,,,"Long Island City, NY",Apartment,,
-Long Island City 1B/1B with Manhattan Views,,,"Long Island City, NY",Apartment,,
-🏡 Steps to ATLAS PARK & PS/IS 87 -TWO FAMILY Gem! - FSBO,,,"Middle Village, NY",Apartment,5.0,2.0
-TWO FAMILY INVESTMENT PROPERTY!  - FSBO,,,"Middle Village, NY",House,5.0,2.0
-🏡 Steps to ATLAS PARK & PS/IS 87 -TWO FAMILY Gem! - FSBO,,,"Middle Village, NY",Apartment,5.0,2.0
-Steps to Atlas Park & PS/IS 87 – Middle Village TWO FAMILY Gem! - FSBO,,,"Middle Village, NY",Apartment,5.0,2.0
-Steps to Atlas Park & PS/IS 87 – TWO FAMILY Gem! - FSBO,,,"Middle Village, NY",Apartment,5.0,2.0
-TWO FAMILY HOME!  Great investment!  - FSBO,,,"Middle Village, NY",Apartment,5.0,2.0
-escape to Tennessee,,,"Heiskell, TN",Place,,
-Arden Heights entire house for rent 3 bedroom,,,"Staten Island, NY",House,3.0,3.0
-Catskill majestic views,,,"Lake Katrine, NY",Place,,
-Caskill majestic views,,,"Catskill, NY",House,4.0,3.0
-"COMMERCIAL LAND, for SALE, RONKONKOMA",,,"Ronkonkoma, NY",Place,,
-"260 COMMACK ROAD BUSINESS"" FOR SALE",,,"Commack, NY",Apartment,,
-AUTO REPAIR SHOP PROPERTY & BUSINESS FOR SALE,,,"Ronkonkoma, NY",Apartment,,
-Perfect Canvas for your DREAM HOME!! TH TREAT!!,,,"Brooklyn, NY",House,,
-Garden Level beauty with Fireplace too!  RARE FIND in Bklyn Heights,,,"Brooklyn, NY",Apartment,2.0,1.0
-Holy Cow! Landmark Bldg now lofty Co-Ops! Own a Spectacular 2BR,,,"New York, NY",Apartment,2.0,2.0
-"PH of your dreams- RENT IT, OR OWN IT! It's a win-win choice",,,"New York, NY",Apartment,2.0,2.0
-2000SF Authentic LOFT if you can wait til FEBRUARY!,,,"New York, NY",Apartment,1.0,2.0
-DREAM DUPLEX LOFT! 30' Ceilings and Breathtaking!,,,"New York, NY",Apartment,2.0,3.0
-Its your DREAM LOFT- Steps to Union Square- 2400SF of Perfect,,,"New York, NY",Apartment,3.0,3.0
-PERFECT 3BR ON PARK! RARE to find a RENTAL but here you are,,,"New York, NY",Apartment,3.0,4.0
-"NOT EVEN LISTED! 3000SF LOFT, Minimal Monthlies and Great Investment",,,"New York, NY",Apartment,,
-ELEGANCE in your CONVERTIBLE 3BR Beauty,,,"New York, NY",Apartment,,
-DIRECT PARK VIEWS! Sunset views too! 4BR ELEGANCE on CPW,,,"New York, NY",Apartment,4.0,4.0
-Reimagined GARDEN 2BR in Brownstone plus lots of outdoor space too,,,"Brooklyn, NY",House,2.0,2.0
-"Authentic LOFT, South Facing, 12' Ceilings, FLEXIBLE LAYOUT!",,,"New York, NY",Apartment,,
-Deal Fell Thru- RENT this MASSIVE 5 BR DUPLEX LOFT w/4200SF,,,"New York, NY",Apartment,5.0,3.0
-Key Lock Elevator to your DREAM LOFT! 2000SF and TONS OF LIGHT,,,"New York, NY",Apartment,2.0,2.0
-"Stunning 2-Bedroom, 1-Bathroom Apartment in Prime Bed-Stuy Location!",,,"Brooklyn, NY",Apartment,2.0,1.0
-2 bedroom available,,,"Brooklyn, NY",Apartment,3.0,1.0
-2 bedroom available- kitty not included,,,"Brooklyn, NY",Apartment,2.0,1.0
-- Make this NO FEE apartment your new home!,,,"Brooklyn, NY",Apartment,2.0,
-2 Bed Semibase apt St Albans Queens,,,"New York, NY",House,2.0,1.0
-Trade or sell 2 story beach club house in Central America,,,"New York, NY",Apartment,,
-A1A S Ocean Drive lots for sale or trade by owner 🏝,,,"New York, NY",Place,,
-1 Bed 1 Bath Coop,,,"Scarsdale, NY",Apartment,1.0,1.0
-Furnished or Not- Rent your own TRIBECA Authentic LOFT,,,"New York, NY",Apartment,2.0,2.0
-LOFT-LIKE 2BR DEAL with Income Restrictions,,,"New York, NY",Apartment,2.0,2.0
-Biggest and Best on West End! FIVE BR w.HUDSON VIEWS,,,"New York, NY",Apartment,5.0,3.0
-TOWNHOUSE LIVING! Triplex Treat w/indoor /outdoor lifestyle,,,"New York, NY",House,4.0,3.0
-TH Living PLUS Roof Rights in this historic home,,,"Brooklyn, NY",House,2.0,1.0
-Coolest of LOFTS and Priced just right!  A true Seaport Steal,,,"New York, NY",Apartment,1.0,1.0
-Noho LOFT with  17' Ceilings! Best LOFT VALUE OUT THERE!,,,"New York, NY",Apartment,,
-Magic on Murray!! Your dream loft awaits if you can wait til February?,,,"New York, NY",Apartment,2.0,2.0
-TH 5BR QUADRIPLEX you can now RENT! From 3 Months to a Year,,,"New York, NY",House,5.0,6.0
-"7 Bedroom, 4 bathroom, 4 story brick multi family with private parking",,,"Brooklyn, NY",Apartment,7.0,4.0
-124th Street 8th avenue,,,"New York, NY",Apartment,1.0,
-126th Street 7th avenue,,,"New York, NY",Apartment,1.0,
-Fulton Street,,,"Brooklyn, NY",Apartment,1.0,
-Multiple units throughout Brooklyn from studios to five bedrooms vouch,,,"Brooklyn, NY",Apartment,2.0,2.0
-Jefferson avenue between Tompkins and throop,,,"Brooklyn, NY",Apartment,1.0,
-Newly renovated central heating and cooling system,,,"Brooklyn, NY",Apartment,2.0,2.0
-Fulton Street,,,"Brooklyn, NY",Apartment,1.0,
-Spacious 4 Bedroom 2.5 Bath Detached Home for Sale Queens Village NY,,,"Queens Village, NY",Apartment,4.0,3.0
-Rare 1 bedroom modern reno beau views Lifestyle Prospect Park rental,,,"Brooklyn, NY",Apartment,1.0,1.0
-Studio apartment available near train and shops,,,"Brooklyn, NY",Apartment,,1.0
-Large Townhouse for Rent in Greenwich CT,,,"Greenwich, CT",House,2.0,4.0
-Large Townhouse for Rent in Greenwich CT,,,"Greenwich, CT",House,2.0,4.0
-BAYSIDE /4BR  2 BA  /2nd FL$3800,,,"Bayside, NY",House,4.0,2.0
-Duplex apartment / 2 bedrooms,,,"Rego Park, NY",Apartment,2.0,2.0
-2 bedroom apartment for rent,,,"Rego Park, NY",Apartment,2.0,1.0
-Great 1 bedroom  *w129/Broadway*REAL LISTING,,,"New York, NY",Apartment,1.0,1.0
-2 bedroom apartment,,,"Yonkers, NY",Apartment,2.0,1.0
-Beautiful 3 bedroom 2 bath -separate Kitchen*  *w156th/St. Nick ave *,,,"New York, NY",Apartment,3.0,2.0
-Unique  & Luxury 2 bedroom 2 BATH in Brooklyn heights,,,"Brooklyn, NY",House,2.0,2.0
-Newly renovated studio  -heat included ONLY $1750 !!no fee!,,,"Brooklyn, NY",Apartment,,1.0
-Beautiful 2 bedroom 1 bath -separate Kitchen*w148/Convent ave*,,,"New York, NY",Apartment,2.0,1.0
-Spacious coop studio under 300K!!!,,,"New York, NY",Apartment,,1.0
-Great 2 bedroom 1 bath -separate Kitchen*w168/Audobon*,,,"New York, NY",Apartment,2.0,1.0
-Beautiful & spacious 1 bedroom in excellent condition. Laundry!,,,"Yonkers, NY",Apartment,1.0,1.0
-2 Bed 2 Bath coops in East Harlem 1000SF,,,"New York, NY",Apartment,2.0,2.0
-"To wait, or not to wait?",,,"New York, NY",Apartment,1.0,1.0
-Welcome to Washington Heights!,,,"New York, NY",Apartment,1.0,1.0
-Amazing studio  apt for rent,,,"Brooklyn, NY",Apartment,,
-HUGE FURNISHED 1 BEDROOM SUBLET  YO**amazing  astoria **HURRY,,,"Astoria, NY",Apartment,1.0,1.0
-FURNISHED SUBLET HOMIE**1  BEDROOM STEAL*Very  Spacious*NEW *hurry,,,"Astoria, NY",House,1.0,1.0
-HURRY** furnished sublet*** *furnished**ASTORIA ***NO drama,,,"Astoria, NY",Apartment,1.0,1.0
-HURRY** furnished sublet*** *furnished**ASTORIA ***NO drama,,,"Astoria, NY",Apartment,1.0,1.0
-Clinton Hill Mansion Row Special,,,"Brooklyn, NY",House,,6.0
-Lovely 3-Family with Parking and Paved Backyard.,,,"Bronx, NY",House,6.0,3.0
-Townhouse/ End Unit,,,"Staten Island, NY",House,,
-✅🟠 Brick Duplex for sale. Great investment! - LOW TAXES!!,,,"Bronx, NY",House,8.0,3.0
-🟧  Brick Two Family! GREAT investment! - DELIVERED VACANT!,,,"Bronx, NY",House,8.0,3.0
-🟡🔴 Brick Duplex for sale. Great investment! - FSBO - R6 Zoning,,,"Bronx, NY",Apartment,8.0,3.0
-HUGE STUDIO roof top new kitchen and bathroom. Good price,,,"New York, NY",Apartment,,1.0
-Jumbo Room + Queen Bed #OzonePark,,,"Ozone Park, NY",Apartment,3.0,1.0
-"Ozone Park, Room Rental #TwinBed",,,"Ozone Park, NY",Apartment,3.0,1.0
-Jumbo Duplex *Commercial Space* for Leasing,,,"Brooklyn, NY",Apartment,,1.0
-STORE  FOR RENT,,,"Brooklyn, NY",House,,
-Rental*Co-op*Bright*Views*Full Sep Kitchen*Pets Ok Great Share*W148th,,,"New York, NY",Apartment,3.0,1.0
-Rental*Live/Work*Special Deal*2 Sep Rooms*Bright*W38th & 8th Ave,,,"New York, NY",Apartment,2.0,1.0
-Building Sale-Or Lease*Vacant*3 Floors+Lower Level*W181,,,"New York, NY",House,,
-GREAT 1 BEDROOM HIGH FLOOR  RENOVATED.,,,"New York, NY",Apartment,1.0,1.0
-Space for Rent in Midtown Manhattan 5000 sqr ft or Office Suites,,,"New York, NY",Place,,
-Furnished Rental 2 bedrooms 2 bathrooms (15 to 20 minutes to cities),,,"Weston, CT",Apartment,2.0,2.0
-Movie theater for sale!!!,,,"New York, NY",House,,
-Prime location hotel for sale in downtown Manhattan!,,,"New York, NY",House,,
-Full apartment - June 12 to June 28 (World Cup)  - $400/night,,,"New York, NY",Apartment,,
-Full apartment - February 16 to February 19 - $200/night,,,"New York, NY",Apartment,,
-Beautiful 3 Bedroom Apartment in Westerleigh - Top Floor of 2 Family,,,"Staten Island, NY",Apartment,3.0,2.0
-Greenwich Downtown Available - $76/night,,,"Greenwich, CT",House,1.0,1.0
-Large 1- Bed 1- Bath in Journal Square/Heights Jersey City,,,"Jersey City, NJ",Apartment,1.0,1.0
-Penthouse Jewel in Flatiron! Indoor/Outdoors at its finest,,,"New York, NY",Apartment,2.0,1.0
-Its an Artist Loft. Its Furnished. Its in Soho. Its FLEXIBLE LEASE,,,"New York, NY",Apartment,2.0,2.0
-PH 2br in iconic Village Condo- not listed but available,,,"New York, NY",Apartment,2.0,2.0
-Its a LOFT! Its a PH! Its a 3BR/2BA!  Get the very best of SOHO,,,"New York, NY",Apartment,3.0,2.0
-RENT IT or OWN IT!! DUPLEX LOFTY FIND in heart of SOHO-DRAMA!!!!,,,"New York, NY",Apartment,2.0,2.0
-Authentic Live/Work LOFT- Reno Opportunity for this wonderful PH LOFT,,,"New York, NY",Apartment,,
-ATTN ATTN CONDO CONVERSION- 2BR LOFTS for SALE,,,"New York, NY",Apartment,2.0,2.0
-"CLASSIC 6- Elegance, Space, Location- all for less than you think",,,"New York, NY",Apartment,,
-"Architectural Beauty! DUPLEXED 1BR with Drama, Priced to Sell",,,"New York, NY",Apartment,1.0,2.0
-RARE DUPLEX with 24' Ceilings and 3 Terraces! Gotta see this for sure,,,"Brooklyn, NY",Apartment,3.0,2.0
-Its a WOW deal! 3BR prewar condo beauty for way less than you think,,,"New York, NY",Apartment,3.0,3.0
-New Construction 2- Bed 2- Bath in Journal Square/Heights Jersey City,,,"Jersey City, NJ",Apartment,2.0,2.0
-Brick 1 family BUY with only 1% down (qualify buyers),,,"Brooklyn, NY",House,3.0,2.0
-TURNKEY Established TURNKEY Auto Mechanic + Building FOR SALE + Neighb,,,"Brooklyn, NY",Apartment,,
-"6 Acre Lake Access Home Full Unfinished Basement Garage, Private Lake",,,"Yulan, NY",House,,
-***Spacious Sun-Filled 2 Bedroom near Husdson River***,,,"Yonkers, NY",Apartment,1.0,1.0
-Get a Virtual Office. Work remotely and enjoy a business address!,,,"Bronx, NY",House,,
-Retail BUIDING FOR RENT or FOR SALE= Owner will hold mortgage,,,"Brooklyn, NY",Apartment,,
-3br for rent vouchers accepted,,,"Bronx, NY",Apartment,3.0,1.0
-1 bedroom vouchers accepted,,,"Mount Vernon, NY",Apartment,1.0,1.0
-New Construction 3- Bed 2- Bath in Journal Square  Jersey City,,,"Jersey City, NJ",Apartment,3.0,2.0
-"260 COMMACK ROAD RETAIL FOOD ""PROPERTY & BUSINESS"" FOR SALE",,,"Commack, NY",Apartment,,
-"LAND, for SALE, .",,,"Ronkonkoma, NY",Place,,
-AUTO REPAIR SHOP PROPERTY FOR SALE at LONG ISLAND,,,"Ronkonkoma, NY",Apartment,,
-***Large 3 Bedroom North Riverdale***,,,"Bronx, NY",Apartment,3.0,1.0
-Studio,,,"Staten Island, NY",Apartment,,
-1Bedroom Apartment. 1900$,,,"Brooklyn, NY",Apartment,1.0,1.0
-Room for Rent Riverdale Avenue,,,"Bronx, NY",Apartment,1.0,
-VALENTINE'S  RENT SALE! HUGE STUDIO WITH SEPARATE KITCHEN FOR RENT!,,,"New York, NY",Apartment,1.0,1.0
-CYBER WEEK WONT LAST! ONE BEDROOM APARTMENT FOR RENT FIRST FLOOR!,,,"Bronx, NY",Apartment,1.0,1.0
-$400.00 LOOK AND LEASE!   CHRISTMASS RENT SALE! 2 BEDROOM APT FOR RENT,,,"Bronx, NY",Apartment,2.0,1.0
-CYBER WEEK RENT SALE! TWO BEDROOM APARTMENT FOR RENT,,,"Bronx, NY",Apartment,2.0,1.0
-CYBER WEEK RENT SALE!NEWLY RENOVATED  2 BEDROOM APARTMENT FOR RENT,,,"Bronx, NY",Apartment,2.0,1.0
-SAINT VALENTINE RENT SALE!HUGE FURNISHED ROOM FOR RENT ONLY $200.00,,,"New York, NY",Apartment,,
-CYBER WEEK  RENT SALE! BRAND NEW LUXURY ONE BEDROOM APARTMENT FOR RENT,,,"Bronx, NY",Apartment,1.0,1.0
-CYBER WEEK  RENT SALE! HUGE ONE BEDROOM APT FOR RENT!,,,"Yonkers, NY",Apartment,1.0,
-NEWLY RENOVATED 3 BEDS FOR RENT,,,"Bronx, NY",Apartment,,
-SUPER BOWL RENT DEAL! BRAND NEW LARGE 4 BEDROOMS/3 FULL BATH  FOR RENT,,,"Bronx, NY",Apartment,4.0,3.0
-***Spacious Sun-Filled 2 Bedroom near Husdson River***,,,"Yonkers, NY",Apartment,2.0,1.0
-For Sale Beautiful Colonial New Condition in Long Island,,,"Centereach, NY",Apartment,4.0,3.0
-"One bedroom apartment, H+HW included",,,"Brooklyn, NY",Apartment,1.0,1.0
-"Duplex in the heart of Bushwick, L train, Morgan stop",,,"Brooklyn, NY",Apartment,2.0,1.0
-Unique mix-use property with garage,,,"New York, NY",House,,
-"260 COMMACK ROAD ""BUSINESS"" FOR SALE",,,"Commack, NY",Apartment,,
-"520 Portion Rd. LAND, for SALE, .",,,"Ronkonkoma, NY",Place,,
-Semi detached 6 Fam in Queens,,,"New York, NY",Apartment,,
-AUTO REPAIR SHOP P & B FOR SALE at LONG ISLAND,,,"Ronkonkoma, NY",Apartment,,
-2 Bedroom apartment for rent/ sublet,,,"Brooklyn, NY",Apartment,2.0,1.0
-HUGE 1 BEDROOM 1 BATHROOM APARTMENT,,,"Brooklyn, NY",Apartment,1.0,1.0
-Grand investment opportunity,,,"New York, NY",House,,
-"PRIME land in East Harlem by 4,5,6 Trains",,,"New York, NY",Place,,
-Stunning UES Prof Office,,,"New York, NY",Apartment,,
-Dream Wakefield 3 Bedroom,,,"New York, NY",House,,
-"Commercial condo space , 22,000 sf",,,"New York, NY",Apartment,,5.0
-Spacious 2 Master suites w/private baths + guest bath CENTRL ORLANDO!!,,,"Orlando, FL",Apartment,2.0,3.0
-Lindo cuarto con Gym,,,"Kew Gardens, NY",House,1.0,1.0
-For Sale: Off Market 67 Unit Mixed Use in 2 Contiguous Buildings,,,"New York, NY",Apartment,,
-"40,000 RSF building for sale",,,"New York, NY",Apartment,,
-4 floor Parkside Brownstone,,,"New York, NY",House,,
-Vacant Parking Garage for sale,,,"New York City, NY",House,,
-66 Key hotel in LIC,,,"New York, NY",Apartment,,
-"Taco business in E Harlem 800sf, 900sf bsmt",,,"New York, NY",Apartment,,
-Luxury Hotel investment opportunity,,,"New York, NY",Apartment,,
-PRIME investment 6 story 48 Unit Multifamily!,,,"New York, NY",Apartment,,
-Multi-Family Riverdale Townhouse with 2 Duplexes,,,"New York, NY",House,,
-"Taco business in E Harlem 800sf, 900sf bsmt",,,"New York, NY",Apartment,,
-"6 Story Elevator Brick apt Bldg, 32 apts",,,"New York, NY",Apartment,,
-11-UNIT PRE-WAR MULTIFAMILY,,,"New York, NY",Apartment,,
-Off Market Bk Multifamily,,,"New York, NY",Apartment,,
-Bronx Investment Property,,,"New York, NY",Apartment,,
-SI Mixed use Investment property,,,"New York, NY",Apartment,,
-Semi detached 6 Fam in Queens,,,"New York, NY",Apartment,,
-E Village Storefront Duplex Condo,,,"New York, NY",Apartment,,
-Charming Townhouse,,,"New York, NY",House,6.0,6.0
-30-UNIT PRE-WAR MULTIFAMILY BUILDING,,,"New York, NY",Apartment,,
-Grenada Caribbean get away,,,"New York, NY",Apartment,,
-"Condo 2 bedroom 2 bath $850,000",,,"New York, NY",Apartment,2.0,2.0
-"co-op studio for sale- cash buyer,",,,"Brooklyn, NY",Apartment,,1.0
-UPSCALE Central Florida 55+ Manufactured Home 2/2 1270 sf * LIKE NEW *,,,"Deland, FL",House,2.0,2.0
-**Boerum Hill – Fully Furnished 1-Bedroom + Office with All Utilities,,,"Brooklyn, NY",Apartment,1.0,1.0
-Huge Luxury oasis on the Hudson River,,,"Yonkers, NY",Apartment,2.0,2.0
-✅🟠 Brick Duplex for sale. Great investment!  - FINANCEABLE!,,,"Bronx, NY",Apartment,8.0,3.0
-10% CASH ON CASH 8 Family + 3 stores  Residental portion = 12 BEDS+,,,"Brooklyn, NY",Apartment,8.0,8.0
-No Broker fee 3 Bedroom 1 bath,,,"New York, NY",Apartment,3.0,1.0
-NO BROKER FEE 2 BEDROOMS 1 BATH FOR RENT,,,"New York, NY",Apartment,2.0,1.0
-✅🟠 Brick Duplex for sale. Great investment! - VACANT! - FINANCEABLE!,,,"Bronx, NY",Apartment,8.0,3.0
-Corner Long Island City 1B/1B with Manhattan Views,,,"Long Island City, NY",Apartment,,
-Long Island City 1B/1B with Manhattan Views,,,"Long Island City, NY",Apartment,,
-🏡 Steps to ATLAS PARK & PS/IS 87 -TWO FAMILY Gem! - FSBO,,,"Middle Village, NY",Apartment,5.0,2.0
-TWO FAMILY INVESTMENT PROPERTY!  - FSBO,,,"Middle Village, NY",House,5.0,2.0
-🏡 Steps to ATLAS PARK & PS/IS 87 -TWO FAMILY Gem! - FSBO,,,"Middle Village, NY",Apartment,5.0,2.0
-Steps to Atlas Park & PS/IS 87 – Middle Village TWO FAMILY Gem! - FSBO,,,"Middle Village, NY",Apartment,5.0,2.0
-Steps to Atlas Park & PS/IS 87 – TWO FAMILY Gem! - FSBO,,,"Middle Village, NY",Apartment,5.0,2.0
-TWO FAMILY HOME!  Great investment!  - FSBO,,,"Middle Village, NY",Apartment,5.0,2.0
-escape to Tennessee,,,"Heiskell, TN",Place,,
-Arden Heights entire house for rent 3 bedroom,,,"Staten Island, NY",House,3.0,3.0
-Catskill majestic views,,,"Lake Katrine, NY",Place,,
-Caskill majestic views,,,"Catskill, NY",House,4.0,3.0
-"COMMERCIAL LAND, for SALE, RONKONKOMA",,,"Ronkonkoma, NY",Place,,
-"260 COMMACK ROAD BUSINESS"" FOR SALE",,,"Commack, NY",Apartment,,
-AUTO REPAIR SHOP PROPERTY & BUSINESS FOR SALE,,,"Ronkonkoma, NY",Apartment,,
-Perfect Canvas for your DREAM HOME!! TH TREAT!!,,,"Brooklyn, NY",House,,
-Garden Level beauty with Fireplace too!  RARE FIND in Bklyn Heights,,,"Brooklyn, NY",Apartment,2.0,1.0
-Holy Cow! Landmark Bldg now lofty Co-Ops! Own a Spectacular 2BR,,,"New York, NY",Apartment,2.0,2.0
-"PH of your dreams- RENT IT, OR OWN IT! It's a win-win choice",,,"New York, NY",Apartment,2.0,2.0
-2000SF Authentic LOFT if you can wait til FEBRUARY!,,,"New York, NY",Apartment,1.0,2.0
-DREAM DUPLEX LOFT! 30' Ceilings and Breathtaking!,,,"New York, NY",Apartment,2.0,3.0
-Its your DREAM LOFT- Steps to Union Square- 2400SF of Perfect,,,"New York, NY",Apartment,3.0,3.0
-PERFECT 3BR ON PARK! RARE to find a RENTAL but here you are,,,"New York, NY",Apartment,3.0,4.0
-"NOT EVEN LISTED! 3000SF LOFT, Minimal Monthlies and Great Investment",,,"New York, NY",Apartment,,
-ELEGANCE in your CONVERTIBLE 3BR Beauty,,,"New York, NY",Apartment,,
-DIRECT PARK VIEWS! Sunset views too! 4BR ELEGANCE on CPW,,,"New York, NY",Apartment,4.0,4.0
-Reimagined GARDEN 2BR in Brownstone plus lots of outdoor space too,,,"Brooklyn, NY",House,2.0,2.0
-"Authentic LOFT, South Facing, 12' Ceilings, FLEXIBLE LAYOUT!",,,"New York, NY",Apartment,,
-Deal Fell Thru- RENT this MASSIVE 5 BR DUPLEX LOFT w/4200SF,,,"New York, NY",Apartment,5.0,3.0
-Key Lock Elevator to your DREAM LOFT! 2000SF and TONS OF LIGHT,,,"New York, NY",Apartment,2.0,2.0
-"Stunning 2-Bedroom, 1-Bathroom Apartment in Prime Bed-Stuy Location!",,,"Brooklyn, NY",Apartment,2.0,1.0
-2 bedroom available,,,"Brooklyn, NY",Apartment,3.0,1.0
-2 bedroom available- kitty not included,,,"Brooklyn, NY",Apartment,2.0,1.0
-- Make this NO FEE apartment your new home!,,,"Brooklyn, NY",Apartment,2.0,
-2 Bed Semibase apt St Albans Queens,,,"New York, NY",House,2.0,1.0
-Trade or sell 2 story beach club house in Central America,,,"New York, NY",Apartment,,
-A1A S Ocean Drive lots for sale or trade by owner 🏝,,,"New York, NY",Place,,
-1 Bed 1 Bath Coop,,,"Scarsdale, NY",Apartment,1.0,1.0
-Furnished or Not- Rent your own TRIBECA Authentic LOFT,,,"New York, NY",Apartment,2.0,2.0
-LOFT-LIKE 2BR DEAL with Income Restrictions,,,"New York, NY",Apartment,2.0,2.0
-Biggest and Best on West End! FIVE BR w.HUDSON VIEWS,,,"New York, NY",Apartment,5.0,3.0
-TOWNHOUSE LIVING! Triplex Treat w/indoor /outdoor lifestyle,,,"New York, NY",House,4.0,3.0
-TH Living PLUS Roof Rights in this historic home,,,"Brooklyn, NY",House,2.0,1.0
-Coolest of LOFTS and Priced just right!  A true Seaport Steal,,,"New York, NY",Apartment,1.0,1.0
-Noho LOFT with  17' Ceilings! Best LOFT VALUE OUT THERE!,,,"New York, NY",Apartment,,
-Magic on Murray!! Your dream loft awaits if you can wait til February?,,,"New York, NY",Apartment,2.0,2.0
-TH 5BR QUADRIPLEX you can now RENT! From 3 Months to a Year,,,"New York, NY",House,5.0,6.0
-"7 Bedroom, 4 bathroom, 4 story brick multi family with private parking",,,"Brooklyn, NY",Apartment,7.0,4.0
-124th Street 8th avenue,,,"New York, NY",Apartment,1.0,
-126th Street 7th avenue,,,"New York, NY",Apartment,1.0,
-Fulton Street,,,"Brooklyn, NY",Apartment,1.0,
-Multiple units throughout Brooklyn from studios to five bedrooms vouch,,,"Brooklyn, NY",Apartment,2.0,2.0
-Jefferson avenue between Tompkins and throop,,,"Brooklyn, NY",Apartment,1.0,
-Newly renovated central heating and cooling system,,,"Brooklyn, NY",Apartment,2.0,2.0
-Fulton Street,,,"Brooklyn, NY",Apartment,1.0,
-Spacious 4 Bedroom 2.5 Bath Detached Home for Sale Queens Village NY,,,"Queens Village, NY",Apartment,4.0,3.0
-Rare 1 bedroom modern reno beau views Lifestyle Prospect Park rental,,,"Brooklyn, NY",Apartment,1.0,1.0
-Studio apartment available near train and shops,,,"Brooklyn, NY",Apartment,,1.0
-Large Townhouse for Rent in Greenwich CT,,,"Greenwich, CT",House,2.0,4.0
-Large Townhouse for Rent in Greenwich CT,,,"Greenwich, CT",House,2.0,4.0
-BAYSIDE /4BR  2 BA  /2nd FL$3800,,,"Bayside, NY",House,4.0,2.0
-Duplex apartment / 2 bedrooms,,,"Rego Park, NY",Apartment,2.0,2.0
-2 bedroom apartment for rent,,,"Rego Park, NY",Apartment,2.0,1.0
-Great 1 bedroom  *w129/Broadway*REAL LISTING,,,"New York, NY",Apartment,1.0,1.0
-2 bedroom apartment,,,"Yonkers, NY",Apartment,2.0,1.0
-Beautiful 3 bedroom 2 bath -separate Kitchen*  *w156th/St. Nick ave *,,,"New York, NY",Apartment,3.0,2.0
-Unique  & Luxury 2 bedroom 2 BATH in Brooklyn heights,,,"Brooklyn, NY",House,2.0,2.0
-Newly renovated studio  -heat included ONLY $1750 !!no fee!,,,"Brooklyn, NY",Apartment,,1.0
-Beautiful 2 bedroom 1 bath -separate Kitchen*w148/Convent ave*,,,"New York, NY",Apartment,2.0,1.0
-Spacious coop studio under 300K!!!,,,"New York, NY",Apartment,,1.0
-Great 2 bedroom 1 bath -separate Kitchen*w168/Audobon*,,,"New York, NY",Apartment,2.0,1.0
-Beautiful & spacious 1 bedroom in excellent condition. Laundry!,,,"Yonkers, NY",Apartment,1.0,1.0
-2 Bed 2 Bath coops in East Harlem 1000SF,,,"New York, NY",Apartment,2.0,2.0
-"To wait, or not to wait?",,,"New York, NY",Apartment,1.0,1.0
-Welcome to Washington Heights!,,,"New York, NY",Apartment,1.0,1.0
-Amazing studio  apt for rent,,,"Brooklyn, NY",Apartment,,
-HUGE FURNISHED 1 BEDROOM SUBLET  YO**amazing  astoria **HURRY,,,"Astoria, NY",Apartment,1.0,1.0
-FURNISHED SUBLET HOMIE**1  BEDROOM STEAL*Very  Spacious*NEW *hurry,,,"Astoria, NY",House,1.0,1.0
-HURRY** furnished sublet*** *furnished**ASTORIA ***NO drama,,,"Astoria, NY",Apartment,1.0,1.0
-HURRY** furnished sublet*** *furnished**ASTORIA ***NO drama,,,"Astoria, NY",Apartment,1.0,1.0
-Clinton Hill Mansion Row Special,,,"Brooklyn, NY",House,,6.0
-Lovely 3-Family with Parking and Paved Backyard.,,,"Bronx, NY",House,6.0,3.0
-Townhouse/ End Unit,,,"Staten Island, NY",House,,
-✅🟠 Brick Duplex for sale. Great investment! - LOW TAXES!!,,,"Bronx, NY",House,8.0,3.0
-🟧  Brick Two Family! GREAT investment! - DELIVERED VACANT!,,,"Bronx, NY",House,8.0,3.0
-🟡🔴 Brick Duplex for sale. Great investment! - FSBO - R6 Zoning,,,"Bronx, NY",Apartment,8.0,3.0
-HUGE STUDIO roof top new kitchen and bathroom. Good price,,,"New York, NY",Apartment,,1.0
-Jumbo Room + Queen Bed #OzonePark,,,"Ozone Park, NY",Apartment,3.0,1.0
-"Ozone Park, Room Rental #TwinBed",,,"Ozone Park, NY",Apartment,3.0,1.0
-Jumbo Duplex *Commercial Space* for Leasing,,,"Brooklyn, NY",Apartment,,1.0
-STORE  FOR RENT,,,"Brooklyn, NY",House,,
-Rental*Co-op*Bright*Views*Full Sep Kitchen*Pets Ok Great Share*W148th,,,"New York, NY",Apartment,3.0,1.0
-Rental*Live/Work*Special Deal*2 Sep Rooms*Bright*W38th & 8th Ave,,,"New York, NY",Apartment,2.0,1.0
-Building Sale-Or Lease*Vacant*3 Floors+Lower Level*W181,,,"New York, NY",House,,
-GREAT 1 BEDROOM HIGH FLOOR  RENOVATED.,,,"New York, NY",Apartment,1.0,1.0
-Space for Rent in Midtown Manhattan 5000 sqr ft or Office Suites,,,"New York, NY",Place,,
-Furnished Rental 2 bedrooms 2 bathrooms (15 to 20 minutes to cities),,,"Weston, CT",Apartment,2.0,2.0
-Movie theater for sale!!!,,,"New York, NY",House,,
-Prime location hotel for sale in downtown Manhattan!,,,"New York, NY",House,,
-Full apartment - June 12 to June 28 (World Cup)  - $400/night,,,"New York, NY",Apartment,,
-Full apartment - February 16 to February 19 - $200/night,,,"New York, NY",Apartment,,
-Beautiful 3 Bedroom Apartment in Westerleigh - Top Floor of 2 Family,,,"Staten Island, NY",Apartment,3.0,2.0
-Greenwich Downtown Available - $76/night,,,"Greenwich, CT",House,1.0,1.0
-Large 1- Bed 1- Bath in Journal Square/Heights Jersey City,,,"Jersey City, NJ",Apartment,1.0,1.0
-Penthouse Jewel in Flatiron! Indoor/Outdoors at its finest,,,"New York, NY",Apartment,2.0,1.0
-Its an Artist Loft. Its Furnished. Its in Soho. Its FLEXIBLE LEASE,,,"New York, NY",Apartment,2.0,2.0
-PH 2br in iconic Village Condo- not listed but available,,,"New York, NY",Apartment,2.0,2.0
-Its a LOFT! Its a PH! Its a 3BR/2BA!  Get the very best of SOHO,,,"New York, NY",Apartment,3.0,2.0
-RENT IT or OWN IT!! DUPLEX LOFTY FIND in heart of SOHO-DRAMA!!!!,,,"New York, NY",Apartment,2.0,2.0
-Authentic Live/Work LOFT- Reno Opportunity for this wonderful PH LOFT,,,"New York, NY",Apartment,,
-ATTN ATTN CONDO CONVERSION- 2BR LOFTS for SALE,,,"New York, NY",Apartment,2.0,2.0
-"CLASSIC 6- Elegance, Space, Location- all for less than you think",,,"New York, NY",Apartment,,
-"Architectural Beauty! DUPLEXED 1BR with Drama, Priced to Sell",,,"New York, NY",Apartment,1.0,2.0
-RARE DUPLEX with 24' Ceilings and 3 Terraces! Gotta see this for sure,,,"Brooklyn, NY",Apartment,3.0,2.0
-Its a WOW deal! 3BR prewar condo beauty for way less than you think,,,"New York, NY",Apartment,3.0,3.0
-New Construction 2- Bed 2- Bath in Journal Square/Heights Jersey City,,,"Jersey City, NJ",Apartment,2.0,2.0
-Brick 1 family BUY with only 1% down (qualify buyers),,,"Brooklyn, NY",House,3.0,2.0
-TURNKEY Established TURNKEY Auto Mechanic + Building FOR SALE + Neighb,,,"Brooklyn, NY",Apartment,,
-"6 Acre Lake Access Home Full Unfinished Basement Garage, Private Lake",,,"Yulan, NY",House,,
-***Spacious Sun-Filled 2 Bedroom near Husdson River***,,,"Yonkers, NY",Apartment,1.0,1.0
-Get a Virtual Office. Work remotely and enjoy a business address!,,,"Bronx, NY",House,,
-Retail BUIDING FOR RENT or FOR SALE= Owner will hold mortgage,,,"Brooklyn, NY",Apartment,,
-3br for rent vouchers accepted,,,"Bronx, NY",Apartment,3.0,1.0
-1 bedroom vouchers accepted,,,"Mount Vernon, NY",Apartment,1.0,1.0
-New Construction 3- Bed 2- Bath in Journal Square  Jersey City,,,"Jersey City, NJ",Apartment,3.0,2.0
-"260 COMMACK ROAD RETAIL FOOD ""PROPERTY & BUSINESS"" FOR SALE",,,"Commack, NY",Apartment,,
-"LAND, for SALE, .",,,"Ronkonkoma, NY",Place,,
-AUTO REPAIR SHOP PROPERTY FOR SALE at LONG ISLAND,,,"Ronkonkoma, NY",Apartment,,
-***Large 3 Bedroom North Riverdale***,,,"Bronx, NY",Apartment,3.0,1.0
-Studio,,,"Staten Island, NY",Apartment,,
-1Bedroom Apartment. 1900$,,,"Brooklyn, NY",Apartment,1.0,1.0
-Room for Rent Riverdale Avenue,,,"Bronx, NY",Apartment,1.0,
-VALENTINE'S  RENT SALE! HUGE STUDIO WITH SEPARATE KITCHEN FOR RENT!,,,"New York, NY",Apartment,1.0,1.0
-CYBER WEEK WONT LAST! ONE BEDROOM APARTMENT FOR RENT FIRST FLOOR!,,,"Bronx, NY",Apartment,1.0,1.0
-$400.00 LOOK AND LEASE!   CHRISTMASS RENT SALE! 2 BEDROOM APT FOR RENT,,,"Bronx, NY",Apartment,2.0,1.0
-CYBER WEEK RENT SALE! TWO BEDROOM APARTMENT FOR RENT,,,"Bronx, NY",Apartment,2.0,1.0
-CYBER WEEK RENT SALE!NEWLY RENOVATED  2 BEDROOM APARTMENT FOR RENT,,,"Bronx, NY",Apartment,2.0,1.0
-SAINT VALENTINE RENT SALE!HUGE FURNISHED ROOM FOR RENT ONLY $200.00,,,"New York, NY",Apartment,,
-CYBER WEEK  RENT SALE! BRAND NEW LUXURY ONE BEDROOM APARTMENT FOR RENT,,,"Bronx, NY",Apartment,1.0,1.0
-CYBER WEEK  RENT SALE! HUGE ONE BEDROOM APT FOR RENT!,,,"Yonkers, NY",Apartment,1.0,
-NEWLY RENOVATED 3 BEDS FOR RENT,,,"Bronx, NY",Apartment,,
-SUPER BOWL RENT DEAL! BRAND NEW LARGE 4 BEDROOMS/3 FULL BATH  FOR RENT,,,"Bronx, NY",Apartment,4.0,3.0
-***Spacious Sun-Filled 2 Bedroom near Husdson River***,,,"Yonkers, NY",Apartment,2.0,1.0
-For Sale Beautiful Colonial New Condition in Long Island,,,"Centereach, NY",Apartment,4.0,3.0
-"One bedroom apartment, H+HW included",,,"Brooklyn, NY",Apartment,1.0,1.0
-"Duplex in the heart of Bushwick, L train, Morgan stop",,,"Brooklyn, NY",Apartment,2.0,1.0
-Unique mix-use property with garage,,,"New York, NY",House,,
-"260 COMMACK ROAD ""BUSINESS"" FOR SALE",,,"Commack, NY",Apartment,,
-"520 Portion Rd. LAND, for SALE, .",,,"Ronkonkoma, NY",Place,,
-Semi detached 6 Fam in Queens,,,"New York, NY",Apartment,,
-AUTO REPAIR SHOP P & B FOR SALE at LONG ISLAND,,,"Ronkonkoma, NY",Apartment,,
-2 Bedroom apartment for rent/ sublet,,,"Brooklyn, NY",Apartment,2.0,1.0
-HUGE 1 BEDROOM 1 BATHROOM APARTMENT,,,"Brooklyn, NY",Apartment,1.0,1.0
-Grand investment opportunity,,,"New York, NY",House,,
-"PRIME land in East Harlem by 4,5,6 Trains",,,"New York, NY",Place,,
-Stunning UES Prof Office,,,"New York, NY",Apartment,,
-Dream Wakefield 3 Bedroom,,,"New York, NY",House,,
-"Commercial condo space , 22,000 sf",,,"New York, NY",Apartment,,5.0
-Spacious 2 Master suites w/private baths + guest bath CENTRL ORLANDO!!,,,"Orlando, FL",Apartment,2.0,3.0
-Lindo cuarto con Gym,,,"Kew Gardens, NY",House,1.0,1.0
-For Sale: Off Market 67 Unit Mixed Use in 2 Contiguous Buildings,,,"New York, NY",Apartment,,
-"40,000 RSF building for sale",,,"New York, NY",Apartment,,
-4 floor Parkside Brownstone,,,"New York, NY",House,,
-Vacant Parking Garage for sale,,,"New York City, NY",House,,
-66 Key hotel in LIC,,,"New York, NY",Apartment,,
-"Taco business in E Harlem 800sf, 900sf bsmt",,,"New York, NY",Apartment,,
-Luxury Hotel investment opportunity,,,"New York, NY",Apartment,,
-PRIME investment 6 story 48 Unit Multifamily!,,,"New York, NY",Apartment,,
-Multi-Family Riverdale Townhouse with 2 Duplexes,,,"New York, NY",House,,
-"Taco business in E Harlem 800sf, 900sf bsmt",,,"New York, NY",Apartment,,
-"6 Story Elevator Brick apt Bldg, 32 apts",,,"New York, NY",Apartment,,
-11-UNIT PRE-WAR MULTIFAMILY,,,"New York, NY",Apartment,,
-Off Market Bk Multifamily,,,"New York, NY",Apartment,,
-Bronx Investment Property,,,"New York, NY",Apartment,,
-SI Mixed use Investment property,,,"New York, NY",Apartment,,
-Semi detached 6 Fam in Queens,,,"New York, NY",Apartment,,
-E Village Storefront Duplex Condo,,,"New York, NY",Apartment,,
-Charming Townhouse,,,"New York, NY",House,6.0,6.0
-30-UNIT PRE-WAR MULTIFAMILY BUILDING,,,"New York, NY",Apartment,,
-Grenada Caribbean get away,,,"New York, NY",Apartment,,
-"Condo 2 bedroom 2 bath $850,000",,,"New York, NY",Apartment,2.0,2.0
-"co-op studio for sale- cash buyer,",,,"Brooklyn, NY",Apartment,,1.0
-UPSCALE Central Florida 55+ Manufactured Home 2/2 1270 sf * LIKE NEW *,,,"Deland, FL",House,2.0,2.0
-**Boerum Hill – Fully Furnished 1-Bedroom + Office with All Utilities,,,"Brooklyn, NY",Apartment,1.0,1.0
-Huge Luxury oasis on the Hudson River,,,"Yonkers, NY",Apartment,2.0,2.0
-✅🟠 Brick Duplex for sale. Great investment!  - FINANCEABLE!,,,"Bronx, NY",Apartment,8.0,3.0
-10% CASH ON CASH 8 Family + 3 stores  Residental portion = 12 BEDS+,,,"Brooklyn, NY",Apartment,8.0,8.0
-No Broker fee 3 Bedroom 1 bath,,,"New York, NY",Apartment,3.0,1.0
-NO BROKER FEE 2 BEDROOMS 1 BATH FOR RENT,,,"New York, NY",Apartment,2.0,1.0
-✅🟠 Brick Duplex for sale. Great investment! - VACANT! - FINANCEABLE!,,,"Bronx, NY",Apartment,8.0,3.0
-Corner Long Island City 1B/1B with Manhattan Views,,,"Long Island City, NY",Apartment,,
-Long Island City 1B/1B with Manhattan Views,,,"Long Island City, NY",Apartment,,
-🏡 Steps to ATLAS PARK & PS/IS 87 -TWO FAMILY Gem! - FSBO,,,"Middle Village, NY",Apartment,5.0,2.0
-TWO FAMILY INVESTMENT PROPERTY!  - FSBO,,,"Middle Village, NY",House,5.0,2.0
-🏡 Steps to ATLAS PARK & PS/IS 87 -TWO FAMILY Gem! - FSBO,,,"Middle Village, NY",Apartment,5.0,2.0
-Steps to Atlas Park & PS/IS 87 – Middle Village TWO FAMILY Gem! - FSBO,,,"Middle Village, NY",Apartment,5.0,2.0
-Steps to Atlas Park & PS/IS 87 – TWO FAMILY Gem! - FSBO,,,"Middle Village, NY",Apartment,5.0,2.0
-TWO FAMILY HOME!  Great investment!  - FSBO,,,"Middle Village, NY",Apartment,5.0,2.0
-escape to Tennessee,,,"Heiskell, TN",Place,,
-Arden Heights entire house for rent 3 bedroom,,,"Staten Island, NY",House,3.0,3.0
-Catskill majestic views,,,"Lake Katrine, NY",Place,,
-Caskill majestic views,,,"Catskill, NY",House,4.0,3.0
-"COMMERCIAL LAND, for SALE, RONKONKOMA",,,"Ronkonkoma, NY",Place,,
-"260 COMMACK ROAD BUSINESS"" FOR SALE",,,"Commack, NY",Apartment,,
-AUTO REPAIR SHOP PROPERTY & BUSINESS FOR SALE,,,"Ronkonkoma, NY",Apartment,,
-Perfect Canvas for your DREAM HOME!! TH TREAT!!,,,"Brooklyn, NY",House,,
-Garden Level beauty with Fireplace too!  RARE FIND in Bklyn Heights,,,"Brooklyn, NY",Apartment,2.0,1.0
-Holy Cow! Landmark Bldg now lofty Co-Ops! Own a Spectacular 2BR,,,"New York, NY",Apartment,2.0,2.0
-"PH of your dreams- RENT IT, OR OWN IT! It's a win-win choice",,,"New York, NY",Apartment,2.0,2.0
-2000SF Authentic LOFT if you can wait til FEBRUARY!,,,"New York, NY",Apartment,1.0,2.0
-DREAM DUPLEX LOFT! 30' Ceilings and Breathtaking!,,,"New York, NY",Apartment,2.0,3.0
-Its your DREAM LOFT- Steps to Union Square- 2400SF of Perfect,,,"New York, NY",Apartment,3.0,3.0
-PERFECT 3BR ON PARK! RARE to find a RENTAL but here you are,,,"New York, NY",Apartment,3.0,4.0
-"NOT EVEN LISTED! 3000SF LOFT, Minimal Monthlies and Great Investment",,,"New York, NY",Apartment,,
-ELEGANCE in your CONVERTIBLE 3BR Beauty,,,"New York, NY",Apartment,,
-DIRECT PARK VIEWS! Sunset views too! 4BR ELEGANCE on CPW,,,"New York, NY",Apartment,4.0,4.0
-Reimagined GARDEN 2BR in Brownstone plus lots of outdoor space too,,,"Brooklyn, NY",House,2.0,2.0
-"Authentic LOFT, South Facing, 12' Ceilings, FLEXIBLE LAYOUT!",,,"New York, NY",Apartment,,
-Deal Fell Thru- RENT this MASSIVE 5 BR DUPLEX LOFT w/4200SF,,,"New York, NY",Apartment,5.0,3.0
-Key Lock Elevator to your DREAM LOFT! 2000SF and TONS OF LIGHT,,,"New York, NY",Apartment,2.0,2.0
-"Stunning 2-Bedroom, 1-Bathroom Apartment in Prime Bed-Stuy Location!",,,"Brooklyn, NY",Apartment,2.0,1.0
-2 bedroom available,,,"Brooklyn, NY",Apartment,3.0,1.0
-2 bedroom available- kitty not included,,,"Brooklyn, NY",Apartment,2.0,1.0
-- Make this NO FEE apartment your new home!,,,"Brooklyn, NY",Apartment,2.0,
-2 Bed Semibase apt St Albans Queens,,,"New York, NY",House,2.0,1.0
-Trade or sell 2 story beach club house in Central America,,,"New York, NY",Apartment,,
-A1A S Ocean Drive lots for sale or trade by owner 🏝,,,"New York, NY",Place,,
-1 Bed 1 Bath Coop,,,"Scarsdale, NY",Apartment,1.0,1.0
-Furnished or Not- Rent your own TRIBECA Authentic LOFT,,,"New York, NY",Apartment,2.0,2.0
-LOFT-LIKE 2BR DEAL with Income Restrictions,,,"New York, NY",Apartment,2.0,2.0
-Biggest and Best on West End! FIVE BR w.HUDSON VIEWS,,,"New York, NY",Apartment,5.0,3.0
-TOWNHOUSE LIVING! Triplex Treat w/indoor /outdoor lifestyle,,,"New York, NY",House,4.0,3.0
-TH Living PLUS Roof Rights in this historic home,,,"Brooklyn, NY",House,2.0,1.0
-Coolest of LOFTS and Priced just right!  A true Seaport Steal,,,"New York, NY",Apartment,1.0,1.0
-Noho LOFT with  17' Ceilings! Best LOFT VALUE OUT THERE!,,,"New York, NY",Apartment,,
-Magic on Murray!! Your dream loft awaits if you can wait til February?,,,"New York, NY",Apartment,2.0,2.0
-TH 5BR QUADRIPLEX you can now RENT! From 3 Months to a Year,,,"New York, NY",House,5.0,6.0
+title,price,area_sqft,location,bedrooms,bathrooms,url
+"large 1 br apt elevator building walk to park slope$2,100windsor terrace",2100,,windsor terrace,1,,https://newyork.craigslist.org/brk/reb/d/brooklyn-large-br-apt-elevator-building/7911287213.html
+"large 1br apt elevator building walk to park slope$2,061kensington / ditmes park",2061,,kensington / ditmes park,1,,https://newyork.craigslist.org/brk/reb/d/brooklyn-large-1br-apt-elevator/7911287179.html
+"For Sale 10,000 Sq Ft Commercial Building$400,000Nanticoke",400000,10000,Nanticoke,,,https://newyork.craigslist.org/que/reo/d/nanticoke-for-sale-sq-ft-commercial/7911284802.html
+Renovated open concept. Resort-style amenities.$0queens,0,,queens,,,https://newyork.craigslist.org/que/reb/d/bayside-renovated-open-concept-resort/7911267694.html
+"Beautiful Big Land for Sale (Ozone Park)$350,000queens",350000,,queens,,,https://newyork.craigslist.org/que/reo/d/ozone-park-beautiful-big-land-for-sale/7911267378.html
+Opportunity to sublet after two years of ownership.Windsor Oaks.$0queens,0,,queens,,,https://newyork.craigslist.org/que/reb/d/oakland-gardens-opportunity-to-sublet/7911266883.html
+Landlords: Do you have a vacant unit that you’re seeking to rent?$0Brooklyn,0,,Brooklyn,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-landlords-do-you-have-vacant/7910506656.html
+Landlords: Do you have a vacant unit that you’re seeking to rent?$0Manhattan,0,,Manhattan,,,https://newyork.craigslist.org/mnh/reb/d/new-york-landlords-do-you-have-vacant/7910508713.html
+"Leave while you still can !!!$1,375,000Upper West Side",1375000,,Upper West Side,,,https://newyork.craigslist.org/mnh/reb/d/littleton-leave-while-you-still-can/7906320871.html
+"Large 3 Family$1,250,000Gravesend",1250000,,Gravesend,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-large-family/7909561175.html
+"🔴🟢 Brick Duplex for sale. Great investment!$990,000MOTT HAVEN",990000,,MOTT HAVEN,,,https://newyork.craigslist.org/brx/reo/d/bronx-brick-duplex-for-sale-great/7911260435.html
+"🏡 TWO FAMILY INVESTMENT HOME - FSBO$990,000Middle Village",990000,,Middle Village,,,https://newyork.craigslist.org/que/reo/d/middle-village-two-family-investment/7905906546.html
+"3-5 apartments for rent (vouchers)$3,811bronx",3811,,bronx,,,https://newyork.craigslist.org/brx/reb/d/bronx-5-apartments-for-rent-vouchers/7906517306.html
+Apartments Wanted$0bronx,0,,bronx,,,https://newyork.craigslist.org/brx/reb/d/bronx-apartments-wanted/7908262357.html
+"City Fheps Vouchers (Bronx, NY)$0bronx",0,,bronx,,,https://newyork.craigslist.org/brx/reb/d/bronx-city-fheps-vouchers-bronx-ny/7908258941.html
+"huge one fam center hall for sale  32x100 lot great location $2.1$2,100,000Madison,  brooklyn",2100000,,"Madison,  brooklyn",,,https://newyork.craigslist.org/brk/reb/d/brooklyn-huge-one-fam-center-hall-for/7911259774.html
+"6 storefronts for sale fantastic Midwood location $5,800,000$5,800,000Avenue P",5800000,,Avenue P,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-storefronts-for-sale-fantastic/7907886049.html
+"Full Size Bed #OzonePark #ReadyNow #JFK$1,200Ozone Park",1200,,Ozone Park,,,https://newyork.craigslist.org/que/reo/d/ozone-park-full-size-bed-ozonepark/7911255857.html
+"Greenwich CT Townhouse 2 Bedrooms 4 Baths$1,500,000greenwich",1500000,,greenwich,2,4,https://newyork.craigslist.org/fct/reo/d/greenwich-greenwich-ct-townhouse/7906734093.html
+"Room Rental #TwinBed #OzonePark #ReadyNow$1,000Ozone Park / Howard Beach / Woodhaven / Crossbay",1000,,Ozone Park / Howard Beach / Woodhaven / Crossbay,,,https://newyork.craigslist.org/que/reb/d/ozone-park-room-rental-twinbed/7911254769.html
+"Clean, Room Rental #TwinBed #OzonePark #JFK$999Ozone Park / Howard Beach / Woodhaven / Crossbay",999,,Ozone Park / Howard Beach / Woodhaven / Crossbay,,,https://newyork.craigslist.org/que/reb/d/ozone-park-clean-room-rental-twinbed/7911254631.html
+"Ozone Park, Room Rental #TwinBed, Ready NOW !!$1,000Ozone Park / Howard Beach / Woodhaven / Crossbay",1000,,Ozone Park / Howard Beach / Woodhaven / Crossbay,,,https://newyork.craigslist.org/que/reb/d/ozone-park-ozone-park-room-rental/7911254484.html
+"Ozone Park, Room Rental #TwinBed$1,000Ozone Park / Howard Beach / Woodhaven / Crossbay",1000,,Ozone Park / Howard Beach / Woodhaven / Crossbay,,,https://newyork.craigslist.org/que/reb/d/ozone-park-ozone-park-room-rental/7911254347.html
+"🔴🟢 FSBO - 2 Family Brick Investment Property - LOW TAXES!$990,000BRONX",990000,,BRONX,,,https://newyork.craigslist.org/brx/reo/d/bronx-fsbo-family-brick-investment/7908510264.html
+"COMMERCIAL LAND, for SALE, RONKONKOMA$350,000long island",350000,,long island,,,https://newyork.craigslist.org/lgi/reo/d/ronkonkoma-commercial-land-for-sale/7910369327.html
+"260 COMMACK ROAD RETAIL FOOD ""PROPERTY & BUSINESS"" FOR SALE$0COMMACK",0,,COMMACK,,,https://newyork.craigslist.org/lgi/reo/d/commack-260-commack-road-retail-food/7910834418.html
+"AUTO REPAIR SHOP P & B FOR SALE at LONG ISLAND$1,500,000RONKONKOMA, NY",1500000,,"RONKONKOMA, NY",,,https://newyork.craigslist.org/que/reo/d/ronkonkoma-auto-repair-shop-for-sale-at/7910419827.html
+Grand 20-foot foyer. Spacious deck overlooking landscaped grounds.$0queens,0,,queens,,,https://newyork.craigslist.org/que/reb/d/little-neck-grand-20-foot-foyer/7911252951.html
+"Comfy Room #FullSizeBed #OzonePark #JFK$1,199Ozone Park",1199,,Ozone Park,,,https://newyork.craigslist.org/que/reb/d/ozone-park-comfy-room-fullsizebed/7911252485.html
+Gated community! Resort-style amenities and on-site conveniences$0queens,0,,queens,,,https://newyork.craigslist.org/que/reb/d/bayside-gated-community-resort-style/7911249058.html
+"🏡 New Construction Home - Move-In Ready! $274,990 (FLORIDA)$274,990Port Charlotte",274990,,Port Charlotte,,,https://newyork.craigslist.org/jsy/reb/d/port-charlotte-new-construction-home/7911248902.html
+"27-UNIT PRE-WAR MULTIFAMILY BUILDING FOR SALE$3,799,9952 BLOCKS FROM BRONX LEBANON HOSPITAL",3799995,,2 BLOCKS FROM BRONX LEBANON HOSPITAL,,,https://newyork.craigslist.org/brx/reo/d/bronx-27-unit-pre-war-multifamily/7907051384.html
+Updated detached home with a center island and hardwood floors$0queens,0,,queens,,,https://newyork.craigslist.org/que/reb/d/springfield-gardens-updated-detached/7911245768.html
+"2 Bedroom Apartment Available Near Ferry$2,000Staten Island",2000,,Staten Island,2,,https://newyork.craigslist.org/stn/reb/d/staten-island-bedroom-apartment/7911242991.html
+"Queens Hotel close to Airport$19,600,000New York",19600000,,New York,,,https://newyork.craigslist.org/que/reo/d/new-york-queens-hotel-close-to-airport/7911240867.html
+"727 Euclid Avenue$675,000Brooklyn. NY",675000,,Brooklyn. NY,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-727-euclid-avenue/7911240191.html
+"Unique mix-use property with garage$3,500,000New York",3500000,,New York,,,https://newyork.craigslist.org/mnh/reo/d/new-york-unique-mix-use-property-with/7911234733.html
+"387 Ashford Street$899,999Brooklyn. NY",899999,,Brooklyn. NY,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-387-ashford-street/7911236455.html
+"319 E 59th Street$655,000Brooklyn, NY",655000,,"Brooklyn, NY",,,https://newyork.craigslist.org/brk/reb/d/brooklyn-319-59th-street/7911235191.html
+"Grenada Caribbean get away$1,250Grenada",1250,,Grenada,,,https://newyork.craigslist.org/mnh/reo/d/new-york-grenada-caribbean-get-away/7911234795.html
+"Unique mix-use property with garage$3,500,000New York",3500000,,New York,,,https://newyork.craigslist.org/mnh/reo/d/new-york-unique-mix-use-property-with/7910267429.html
+"Manhattan hotel off market$40,000,000New York",40000000,,New York,,,https://newyork.craigslist.org/mnh/reo/d/new-york-manhattan-hotel-off-market/7910192294.html
+"30-UNIT PRE-WAR MULTIFAMILY BUILDING$5,500,000Bronx",5500000,,Bronx,,,https://newyork.craigslist.org/brx/reo/d/new-york-30-unit-pre-war-multifamily/7910147928.html
+"Semi detached 6 Fam in Queens$1,950,000New York",1950000,,New York,,,https://newyork.craigslist.org/que/reo/d/new-york-semi-detached-fam-in-queens/7909081666.html
+"Dream Wakefield 3 Bedroom$725,000Bronx",725000,,Bronx,3,,https://newyork.craigslist.org/brx/reo/d/new-york-dream-wakefield-bedroom/7909083069.html
+"For Sale: Off Market 67 Unit Mixed Use in 2 Contiguous Buildings$9,600,000Bronx",9600000,,Bronx,,,https://newyork.craigslist.org/brx/reo/d/new-york-for-sale-off-market-67-unit/7907347037.html
+"4 floor Parkside Brownstone$2,900,000New York",2900000,,New York,,,https://newyork.craigslist.org/mnh/reo/d/new-york-floor-parkside-brownstone/7907347231.html
+"Mixed Use development site for sale/Seller will hold paper$25,000,000New York",25000000,,New York,,,https://newyork.craigslist.org/mnh/reo/d/new-york-mixed-use-development-site-for/7907347144.html
+"11-UNIT PRE-WAR MULTIFAMILY$2,200,000New York",2200000,,New York,,,https://newyork.craigslist.org/brx/reo/d/new-york-11-unit-pre-war-multifamily/7906475193.html
+"66 Key hotel in LIC$25,000,000New York",25000000,,New York,,,https://newyork.craigslist.org/que/reo/d/new-york-66-key-hotel-in-lic/7907998712.html
+"Grand TH for sale** investor dream$2,600,000Harlem / Morningside",2600000,,Harlem / Morningside,,,https://newyork.craigslist.org/mnh/reo/d/new-york-city-grand-th-for-sale/7905120335.html
+"Stunning UES Prof Office$349,000New York",349000,,New York,,,https://newyork.craigslist.org/mnh/reo/d/new-york-stunning-ues-prof-office/7909688322.html
+"Commercial condo space , 22,000 sf$2,000,000New York",2000000,22000,New York,,,https://newyork.craigslist.org/mnh/reo/d/new-york-commercial-condo-space-sf/7907116035.html
+"Queens Hotel close to Airport$19,600,000New York",19600000,,New York,,,https://newyork.craigslist.org/que/reo/d/new-york-queens-hotel-close-to-airport/7906646424.html
+"Taco business in E Harlem 800sf, 900sf bsmt$240,000New York",240000,800,New York,,,https://newyork.craigslist.org/mnh/reo/d/new-york-taco-business-in-harlem-800sf/7910741174.html
+"E Village Storefront Duplex Condo$999,000New York",999000,,New York,,,https://newyork.craigslist.org/mnh/reo/d/new-york-village-storefront-duplex-condo/7908530724.html
+"6 Story Elevator Brick apt Bldg, 32 apts$16,000,000bronx",16000000,,bronx,,,https://newyork.craigslist.org/brx/reo/d/new-york-story-elevator-brick-apt-bldg/7910741222.html
+"Bronx Investment Property$4,700,000Bronx",4700000,,Bronx,,,https://newyork.craigslist.org/brx/reo/d/new-york-bronx-investment-property/7910741265.html
+"Amazing 48+ acres Minutes from Lake George$109,000Hague",109000,,Hague,,,https://newyork.craigslist.org/que/reo/d/hague-amazing-48-acres-minutes-from/7910519905.html
+"29 Garfield Place$1,699,999Roslyn Heights",1699999,,Roslyn Heights,,,https://newyork.craigslist.org/lgi/reb/d/roslyn-heights-29-garfield-place/7911229894.html
+"2BR 1,5 BATH, PARKING,SOLAR ,REDONE! BEST DEAL.BEST PRICE!$495,000Brooklyn   ( S.I)",495000,,Brooklyn   ( S.I,2,5,https://newyork.craigslist.org/brk/reb/d/staten-island-2br-15-bath-parkingsolar/7910756887.html
+"2 bedroom townhouse for sale! solar payoff! parking!$495,000Staten Island",495000,,Staten Island,2,,https://newyork.craigslist.org/brk/reb/d/staten-island-bedroom-townhouse-for/7909330880.html
+"2 bedroom townhouse for sale! solar payoff! parking!$495,000Staten Island",495000,,Staten Island,2,,https://newyork.craigslist.org/brk/reb/d/staten-island-bedroom-townhouse-for/7909329717.html
+"2 BR 1,5 BATH! TOWNHOUSE! 2 PARKING!SOLAR! REDONE!$495,000Staten Island/next to MALL,HIGHWAY.COLLEGE",495000,,"Staten Island/next to MALL,HIGHWAY.COLLEGE",2,5,https://newyork.craigslist.org/stn/reb/d/staten-island-br-15-bath-townhouse/7905967297.html
+"178-26 Zoller Road$775,000Jamaica, NY",775000,,"Jamaica, NY",,,https://newyork.craigslist.org/que/reb/d/jamaica-zoller-road/7911228611.html
+"5042 Kings Highway$749,999Brooklyn, NY",749999,,"Brooklyn, NY",,,https://newyork.craigslist.org/brk/reb/d/brooklyn-5042-kings-highway/7911227268.html
+"Renovated 4 bed/3 bath home for sale by owner$985,000Saint Albans",985000,,Saint Albans,4,3,https://newyork.craigslist.org/que/reo/d/saint-albans-renovated-bed-bath-home/7906751349.html
+"Fully renovated 4bed/3bath home for sale by owner$985,000Saint Albans",985000,,Saint Albans,4,3,https://newyork.craigslist.org/que/reo/d/saint-albans-fully-renovated-4bed-3bath/7906751235.html
+"109-46 174th Street$879,999Jamaica, NY",879999,,"Jamaica, NY",,,https://newyork.craigslist.org/que/reb/d/jamaica-th-street/7911225272.html
+"Renovated, spacious, and large backyard.$0queens",0,,queens,,,https://newyork.craigslist.org/que/reb/d/brooklyn-renovated-spacious-and-large/7911224264.html
+"Large 3 bedrooms in Astoria, near trains, shopping, highways and more$3,700Queens",3700,,Queens,3,,https://newyork.craigslist.org/que/reb/d/astoria-large-bedrooms-in-astoria-near/7911222059.html
+"109-46 174th Street$879,999Jamaica, NY",879999,,"Jamaica, NY",,,https://newyork.craigslist.org/que/reb/d/jamaica-th-street/7911220889.html
+APARTMENT REN-TALS$0NEW YORK,0,,NEW YORK,,,https://newyork.craigslist.org/que/reb/d/apartment-ren-tals/7906896296.html
+C0LLECTION SPECIALIST LOOKING TO WORK WITH PLUMBIMG COMPANIES$0MIDTOWN,0,,MIDTOWN,,,https://newyork.craigslist.org/que/reb/d/new-york-c0llection-specialist-looking/7906893254.html
+"STUDIO  APARTMENT  FOR RENT $1300$1,300JAMAICA /FULTON",1300,,JAMAICA /FULTON,,,https://newyork.craigslist.org/que/reb/d/woodhaven-studio-apartment-for-rent-1300/7906906196.html
+"STUDIO  APARTMENT  FOR RENT$1,300JAMAICA  AVENUE",1300,,JAMAICA  AVENUE,,,https://newyork.craigslist.org/que/reb/d/brooklyn-studio-apartment-for-rent/7906923334.html
+"STUDIO APARTMENT  FOR RENT$1,300FULTON",1300,,FULTON,,,https://newyork.craigslist.org/que/reb/d/woodhaven-studio-apartment-for-rent/7909876357.html
+"STUDIO APARTMENT  FOR RENT$1,300FULTON",1300,,FULTON,,,https://newyork.craigslist.org/que/reb/d/woodhaven-studio-apartment-for-rent/7909881635.html
+"STUDIO APARTMENT  FOR RENT$1,300FULTON",1300,,FULTON,,,https://newyork.craigslist.org/que/reb/d/woodhaven-studio-apartment-for-rent/7909899353.html
+"4 bedroom crazy deal immediately move , easy approval$3,800Brooklyn",3800,,Brooklyn,4,,https://newyork.craigslist.org/brk/reo/d/brooklyn-bedroom-crazy-deal-immediately/7909561439.html
+"Huge duplex 3 bed 3 bath 🛁$5,100Brooklyn",5100,,Brooklyn,3,3,https://newyork.craigslist.org/brk/reo/d/brooklyn-huge-duplex-bed-bath/7908733924.html
+"newly renovated two-bedroom apartment with an additional home office$2,750Brooklyn",2750,,Brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-newly-renovated-two-bedroom/7907568762.html
+"NO FEE | 2.5 BED / 1 BATH | RENOVATED$2,800Brooklyn",2800,,Brooklyn,5,1,https://newyork.craigslist.org/brk/reo/d/brooklyn-no-fee-25-bed-bath-renovated/7907567776.html
+"2 bedroom available- kitty not included$2,800Brooklyn",2800,,Brooklyn,2,,https://newyork.craigslist.org/brk/reo/d/brooklyn-bedroom-available-kitty-not/7910414903.html
+"Owner Financing Available - Amazing 48+ acres Minutes from Lake George$119,000Hague",119000,,Hague,,,https://newyork.craigslist.org/que/reo/d/hague-owner-financing-available-amazing/7910092904.html
+"Land of opportunity…affordable lease or purchase$999,999Major highway locations",999999,,Major highway locations,,,https://newyork.craigslist.org/jsy/reb/d/new-brunswick-land-of/7905664239.html
+"Industrial retail Lease//Sale//Build to suit$2,026Major highway",2026,,Major highway,,,https://newyork.craigslist.org/jsy/reb/d/lawrence-township-industrial-retail/7905483422.html
+Data center Land of opportunity$1Major highway locations,1,,Major highway locations,,,https://newyork.craigslist.org/jsy/reb/d/new-brunswick-data-center-land-of/7905453773.html
+"2 bedrooms College point$3,029Bronx",3029,,Bronx,2,,https://newyork.craigslist.org/brx/reo/d/mount-vernon-bedrooms-college-point/7911215139.html
+"Prime Investment Opportunity: Renovated 6-Family Brick Building in Gle$1,300,000Glendale",1300000,,Glendale,,,https://newyork.craigslist.org/que/reb/d/ridgewood-prime-investment-opportunity/7909287315.html
+"Prime Mixed-Use Property in Middle Village - A Rare Investment$2,400,000Middle Village",2400000,,Middle Village,,,https://newyork.craigslist.org/que/reb/d/middle-village-prime-mixed-use-property/7906673179.html
+GREENPOINT! Carpe Diem! FSBO! New Owner and R6B Opportunity!$0brooklyn,0,,brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-greenpoint-carpe-diem-fsbo-new/7910086804.html
+FSBO in Hottest Neighborhood in all of NYC - R6B Zoning$0Greenpoint Brooklyn,0,,Greenpoint Brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-fsbo-in-hottest-neighborhood/7905220856.html
+R6B Zoning - FSBO in Hottest Neighborhood in all of NYC$0Greenpoint Brooklyn,0,,Greenpoint Brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-r6b-zoning-fsbo-in-hottest/7907061499.html
+Your Canvas - R6B Zoning - FSBO in GREENPOINT! HOT HOT HOT$0Greenpoint Brooklyn,0,,Greenpoint Brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-your-canvas-r6b-zoning-fsbo-in/7908999725.html
+North Brooklyn! Carpe Diem! FSBO! New Owner and R6B Opportunity!$0Greenpoint,0,,Greenpoint,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-north-brooklyn-carpe-diem-fsbo/7910289610.html
+FSBO! Create your own Paradise with over 4500 sq ft!$0brooklyn,0,4500,brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-fsbo-create-your-own-paradise/7907420683.html
+Carpe Diem! FSBO! New Owner and R6B Opportunity!$0brooklyn,0,,brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-carpe-diem-fsbo-new-owner-and/7910289820.html
+Over 4500 Sq Ft Quadplex for Development in Greenpoint! R6B Zoning$0brooklyn,0,4500,brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-over-4500-sq-ft-quadplex-for/7910086976.html
+GREENPOINT! R6B Zoning - FSBO in Hottest Neighborhood in all of NYC$0Greenpoint Brooklyn,0,,Greenpoint Brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-greenpoint-r6b-zoning-fsbo-in/7910086919.html
+GREENPOINT! R6B Zoning - FSBO in BEST Neighborhood in all of NYC$0Greenpoint Brooklyn,0,,Greenpoint Brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-greenpoint-r6b-zoning-fsbo-in/7907718157.html
+Over 4500 Sq Feet Available for New Owner to develop in Greenpoint!$0brooklyn,0,,brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-over-4500-sq-feet-available/7908094932.html
+GREENPOINT! FSBO! Create your own Paradise with over 4500 sq ft!$0brooklyn,0,4500,brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-greenpoint-fsbo-create-your/7906839372.html
+Your Canvas - R6B Zoning - FSBO in GREENPOINT! HOT HOT HOT$0brooklyn,0,,brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-your-canvas-r6b-zoning-fsbo-in/7910086865.html
+"GORGEOUS 3 BEDROOM BI-LEVEL ALL NEW RENOVATED-2 FULL LEGAL KITCHENS$500,00065 MIN TRAIN RIDE FROM NYC",500000,,65 MIN TRAIN RIDE FROM NYC,3,,https://newyork.craigslist.org/mnh/reb/d/marlboro-gorgeous-bedroom-bi-level-all/7908240355.html
+"GORGEOUS 3 BEDROOM BI-LEVEL ALL NEW RENOVATED-2 FULL LEGAL KITCHENS$500,000MARLBORO-1 HOUR DRIVE FROM UPPER BRONX",500000,,MARLBORO-1 HOUR DRIVE FROM UPPER BRONX,3,,https://newyork.craigslist.org/brx/reb/d/marlboro-gorgeous-bedroom-bi-level-all/7906589003.html
+"GORGEOUS 3 BEDROOM BI-LEVEL ALL NEW RENOVATED-2 FULL LEGAL KITCHENS$500,000MARLBORO, NY-BY OWNER-ALSO AGENT OWNED",500000,,"MARLBORO, NY-BY OWNER-ALSO AGENT OWNED",3,,https://newyork.craigslist.org/wch/reb/d/marlboro-gorgeous-bedroom-bi-level-all/7908016007.html
+"Prime Development Opportunity - 11,905 Sq Ft$3,000,000Brooklyn",3000000,11905,Brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-prime-development-opportunity/7909455785.html
+"Prime Development Opportunity - 11,905 Sq Ft$3,000,000Brooklyn",3000000,11905,Brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-prime-development-opportunity/7909455818.html
+"Prime Vacant Lot for Sale - 17,600 Sq Ft Buildable - Ocean Ave, Brookl$4,250,000Brooklyn",4250000,17600,Brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-prime-vacant-lot-for-sale-sq/7911200399.html
+"Apartment for Rent$2,800Flushing",2800,,Flushing,,,https://newyork.craigslist.org/que/reb/d/flushing-apartment-for-rent/7911196260.html
+Douglaston Home For Sale$0Douglaston,0,,Douglaston,,,https://newyork.craigslist.org/que/reo/d/little-neck-douglaston-home-for-sale/7906723081.html
+"Douglaston Co-op For Sale  2 Bed, 1 Bath  Wellesley Gardens$0Douglaston",0,,Douglaston,2,1,https://newyork.craigslist.org/que/reo/d/little-neck-douglaston-co-op-for-sale/7906719542.html
+"INVESTORS - Strong Cash Flow – Newly Renovated 3/2 Turnkey & Occupied$145,000brooklyn",145000,,brooklyn,,,https://newyork.craigslist.org/brk/reo/d/baltimore-investors-strong-cash-flow/7907305811.html
+"Studio for rent$1,400staten island",1400,,staten island,,,https://newyork.craigslist.org/stn/reo/d/staten-island-studio-for-rent/7911190335.html
+"Awesome meticulously maintained Richmond Town colonial home!!!$748,000Richmond Town",748000,,Richmond Town,,,https://newyork.craigslist.org/stn/reb/d/staten-island-awesome-meticulously/7905110535.html
+"Wonderful Port Richmond location, Convenient to transportation...$599,900STATEN ISLAND",599900,,STATEN ISLAND,,,https://newyork.craigslist.org/stn/reb/d/staten-island-wonderful-port-richmond/7905110365.html
+"This affordable gem is ideal for investors seeking a solid return!!$349,900Staten Island",349900,,Staten Island,,,https://newyork.craigslist.org/stn/reb/d/staten-island-this-affordable-gem-is/7905110493.html
+"Charming and spacious two-family end-unit townhouse!!!$629,900Staten Island",629900,,Staten Island,,,https://newyork.craigslist.org/stn/reb/d/staten-island-charming-and-spacious-two/7910614996.html
+"2 family house used as a one family with private garage$1,750,000Bay Ridge",1750000,,Bay Ridge,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-family-house-used-as-one/7907147944.html
+"Discover this meticulously updated, expansive Two-Family residence!!$750,000Graniteville",750000,,Graniteville,,,https://newyork.craigslist.org/stn/reb/d/staten-island-discover-this/7905110441.html
+"Lovely fully detached colonial style home, in the heart of Westerleigh$599,999Westerleigh",599999,,Westerleigh,,,https://newyork.craigslist.org/stn/reb/d/staten-island-lovely-fully-detached/7905110757.html
+"Oversized 3 bedrooms, 3 baths, beautiful engineered hardwood floors!!$489,900Staten Island",489900,,Staten Island,3,3,https://newyork.craigslist.org/stn/reb/d/staten-island-oversized-bedrooms-baths/7910615094.html
+"The uniquely customized single-family home you have been waiting for!$479,900Staten Island",479900,,Staten Island,,,https://newyork.craigslist.org/stn/reb/d/staten-island-the-uniquely-customized/7905110411.html
+Williamsburg$0Northside,0,,Northside,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-williamsburg/7907151301.html
+"THE HOLIDAY INN HOTEL IN LONG ISLAND CITY, NY FOR SALE$65,000,000LONG ISLAND CITY, NY",65000000,,"LONG ISLAND CITY, NY",,,https://newyork.craigslist.org/que/reb/d/long-island-city-the-holiday-inn-hotel/7905104719.html
+"CHARMING 2 BEDROOM SIDE HALL COLONIAL WITH PARKLIKE BACKYARD!!!$427,040Staten Island",427040,,Staten Island,2,,https://newyork.craigslist.org/stn/reb/d/staten-island-charming-bedroom-side/7905110791.html
+"Well-Maintained home! Perfect for 1st time buyers. Nice-sized bedrooms$549,900STATEN ISLAND",549900,,STATEN ISLAND,,,https://newyork.craigslist.org/stn/reb/d/staten-island-well-maintained-home/7905110623.html
+"PRICED RIGHT! Great starter home for 1st time homeowner, needs tlc.$499,900Staten Island",499900,,Staten Island,,,https://newyork.craigslist.org/stn/reb/d/staten-island-priced-right-great/7905110573.html
+"Large 3 Bedroom/2 Bathroom Fleetwood Mt Vernon Apartment$3,500Fleetwood",3500,,Fleetwood,3,2,https://newyork.craigslist.org/wch/reo/d/mount-vernon-large-bedroom-bathroom/7906785027.html
+"Apartment Rentals.$2,400Yonkers",2400,,Yonkers,,,https://newyork.craigslist.org/wch/reo/d/yonkers-apartment-rentals/7906293364.html
+"Bright 2 Bedroom 1 Bath - /Laundry .w148. ONLY $2825$2,825Harlem / Morningside",2825,,Harlem / Morningside,2,1,https://newyork.craigslist.org/mnh/reo/d/new-york-bright-bedroom-bath-laundry/7909804938.html
+"Wonderful 1 bedroom for sale , like a CONDO$229,000Midwood",229000,,Midwood,1,,https://newyork.craigslist.org/brk/reb/d/brooklyn-wonderful-bedroom-for-sale/7909760076.html
+"Real 2 Bedroom , 1 Bath - 2nd floor only $2850 !!$2,850Harlem / Morningside",2850,,Harlem / Morningside,2,1,https://newyork.craigslist.org/mnh/reo/d/new-york-real-bedroom-bath-2nd-floor/7909760722.html
+"Basement 1 bedroom+ private house - 2, 5 trains !$1,795Avenue J and E 32nd st",1795,,Avenue J and E 32nd st,1,,https://newyork.craigslist.org/brk/reo/d/brooklyn-basement-bedroom-private-house/7909804711.html
+"Sunny private studio in Brighton beach. laundry NO FEE$1,775Brighton 14th Street",1775,,Brighton 14th Street,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-sunny-private-studio-in/7908187421.html
+"Basement 1 bedroom+ private house - 2, 5 trains !$1,795Avenue J and E 32nd st",1795,,Avenue J and E 32nd st,1,,https://newyork.craigslist.org/brk/reo/d/brooklyn-basement-bedroom-private-house/7908187086.html
+"Large studio in Brighton beach+ laundry ONLY $1695$1,695Brighton 14th Street",1695,,Brighton 14th Street,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-large-studio-in-brighton-beach/7909759969.html
+"BEST WESTERN BOWERY HOTEL$80,000,000Chinatown / Lit Italy",80000000,,Chinatown / Lit Italy,,,https://newyork.craigslist.org/mnh/reb/d/new-york-best-western-bowery-hotel/7905104777.html
+"Apartment Rentals.  2 - 3. Bedroom$1,900NE Yonkers",1900,,NE Yonkers,,,https://newyork.craigslist.org/wch/reo/d/yonkers-apartment-rentals-bedroom/7911174836.html
+"OFF MARKET HOTELS, RESORTS, APARTMENT COMPLEXES AVAILABLE FOR SALE$1,000,000Downtown",1000000,,Downtown,,,https://newyork.craigslist.org/mnh/reb/d/new-york-off-market-hotels-resorts/7905104822.html
+"Apt/House Rentals. Affordable$1,900Yonkers",1900,,Yonkers,,,https://newyork.craigslist.org/wch/reo/d/yonkers-apt-house-rentals-affordable/7911174150.html
+"Arden Heights entire house for rent 3 bedroom$3,500South Shore Annandale",3500,,South Shore Annandale,3,,https://newyork.craigslist.org/stn/reo/d/staten-island-arden-heights-entire/7908027798.html
+"Arden Heights entire house for rent 3 bedroom$3,500Staten Island",3500,,Staten Island,3,,https://newyork.craigslist.org/stn/reo/d/staten-island-arden-heights-entire/7908026812.html
+"Arden Heights entire house for rent 3 bedroom$3,500Staten Island",3500,,Staten Island,3,,https://newyork.craigslist.org/stn/reo/d/staten-island-arden-heights-entire/7908025748.html
+"Park Block Beauty! TRIPLEX, SKYLIT, 4BR, best of brownstone life$2,400,000Upper West Side",2400000,,Upper West Side,4,,https://newyork.craigslist.org/mnh/reb/d/new-york-park-block-beauty-triplex/7907158364.html
+"Perfection on Prince! TRIPLEX LOFT PH with 1000 SF PRIVATE ROOFDECK$21,999SoHo",21999,1000,SoHo,,,https://newyork.craigslist.org/mnh/reb/d/new-york-perfection-on-prince-triplex/7906242801.html
+"Can you wait til March?? LOFTY FIND with 3BR coming soon$6,495Williamsburg",6495,,Williamsburg,3,,https://newyork.craigslist.org/brk/reb/d/brooklyn-can-you-wait-til-march-lofty/7910337147.html
+"LUXE LOFT-Rent it FURNISHED OR UNFURNISHED!$9,500Red Hook",9500,,Red Hook,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-luxe-loft-rent-it-furnished-or/7907527791.html
+"Best 2BR Deal around! Gracious, Elegant, and amazingly Priced$925,000Gramercy",925000,,Gramercy,2,,https://newyork.craigslist.org/mnh/reb/d/new-york-best-2br-deal-around-gracious/7909894298.html
+"It's a loft, It's a Condo, It' s a WINNER. 1800SF, 2BR/2BA$2,850,000Greenwich Village",2850000,1800,Greenwich Village,2,2,https://newyork.craigslist.org/mnh/reb/d/new-york-its-loft-its-condo-it-a-winner/7910338623.html
+"Unreal Deal! Lofty 3BR in NOMAD priced below where you'd think$1,295,000Flatiron",1295000,,Flatiron,3,,https://newyork.craigslist.org/mnh/reb/d/new-york-unreal-deal-lofty-3br-in-nomad/7909906863.html
+"Authentic Live/Work LOFT- Reno Opportunity for this wonderful PH LOFT$1,995,000SoHo",1995000,,SoHo,,,https://newyork.craigslist.org/mnh/reb/d/new-york-authentic-live-work-loft-reno/7909906597.html
+"The ESSENCE of Loft Life in Tribeca! Floor thru, 2000SF, FIND of FINDs$3,650,000TriBeCa",3650000,2000,TriBeCa,,,https://newyork.craigslist.org/mnh/reb/d/new-york-the-essence-of-loft-life-in/7909906762.html
+"2700SF Sprawling LOFT in the HEART of Tribeca! Spread out and Relax!$14,950TriBeCa",14950,2700,TriBeCa,,,https://newyork.craigslist.org/mnh/reb/d/new-york-2700sf-sprawling-loft-in-the/7906241639.html
+"Stunning LOFT PH to OWN or to RENT! It's  your call.$10,999Chelsea",10999,,Chelsea,,,https://newyork.craigslist.org/mnh/reb/d/new-york-stunning-loft-ph-to-own-or-to/7906249417.html
+"Direct Park Views and ON CPW too! Unique, Tudor-Style Co-op$1,395,000Upper West Side",1395000,,Upper West Side,,,https://newyork.craigslist.org/mnh/reb/d/new-york-direct-park-views-and-on-cpw/7906260751.html
+"Walkup to your Urban Loft Oasis! Coming for FEBRUARY START$9,000TriBeCa",9000,,TriBeCa,,,https://newyork.craigslist.org/mnh/reb/d/new-york-walkup-to-your-urban-loft/7906258131.html
+"3800SF, FIVE BR MAJESTY!  Once in a blue moon chance to RENT THIS$45,999Greenwich Village",45999,3800,Greenwich Village,,,https://newyork.craigslist.org/mnh/reb/d/new-york-3800sf-five-br-majesty-once-in/7906632890.html
+"LOFTY SURPRISE in NOHO- MASSIVE and RENTABLE$8,900East Village",8900,,East Village,,,https://newyork.craigslist.org/mnh/reb/d/new-york-lofty-surprise-in-noho-massive/7909021353.html
+"Impeccably Renovated 3BR Move in Ready!! The Best of Carnegie Hill$1,650,000Upper East Side",1650000,,Upper East Side,3,,https://newyork.craigslist.org/mnh/reb/d/new-york-impeccably-renovated-3br-move/7909024764.html
+"1000SF Convertible 2BR for UNDER $800K? Yes, Indeed!$775,000Upper East Side",775000,1000,Upper East Side,2,,https://newyork.craigslist.org/mnh/reb/d/new-york-1000sf-convertible-2br-for/7907531216.html
+"Bring that Architect and Create your Dream! Classic, Prewar 2BR Gem$975,000Greenwich Village",975000,,Greenwich Village,2,,https://newyork.craigslist.org/mnh/reb/d/new-york-bring-that-architect-and/7907119008.html
+"GRAND and CLASSIC on Park Avenue! Create your DREAM 4BR$2,995,000Upper East Side",2995000,,Upper East Side,4,,https://newyork.craigslist.org/mnh/reb/d/new-york-grand-and-classic-on-park/7909023502.html
+"Breathtaking DUPLEX in Classic TH just off FIFTH AVENUE! One of a Kind$38,000Upper East Side",38000,,Upper East Side,,,https://newyork.craigslist.org/mnh/reo/d/new-york-breathtaking-duplex-in-classic/7907133093.html
+"Extraordinary CLASSIC 6 Elegance right on Central Park West!  WOW$3,250,000Upper West Side",3250000,,Upper West Side,,,https://newyork.craigslist.org/mnh/reb/d/new-york-extraordinary-classic-elegance/7906632977.html
+"NOW redone, OWN THIS OPEN PREWAR LOFT in a LOFT BLDG$1,650,000TriBeCa",1650000,,TriBeCa,,,https://newyork.craigslist.org/mnh/reb/d/new-york-now-redone-own-this-open/7907158602.html
+"One of a Kind LOFT w/15' Ceilings!!! Gothic Charm and Character$895,000Clinton Hill",895000,,Clinton Hill,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-one-of-kind-loft-15-ceilings/7907535282.html
+"One of the coolest lofts in Flatiron! 11' Barrel Ceilinged 1BR Beauty$1,515,000Flatiron",1515000,,Flatiron,1,,https://newyork.craigslist.org/mnh/reb/d/new-york-one-of-the-coolest-lofts-in/7908408480.html
+"Mixed Use Bldg for SALE! Keep as is or CONVERT TO RESIDENTIAL-INVEST!!$4,600,000TriBeCa",4600000,,TriBeCa,,,https://newyork.craigslist.org/mnh/reb/d/new-york-mixed-use-bldg-for-sale-keep/7907158447.html
+"No Cookie Cutter here! Lovely, Prewar 2BR/2BA find coming FEBRUARY$9,500Chelsea",9500,,Chelsea,2,2,https://newyork.craigslist.org/mnh/reb/d/new-york-no-cookie-cutter-here-lovely/7907129596.html
+"PREWAR Majesty! PH unlike any other, with massive Outdoors too$17,999TriBeCa",17999,,TriBeCa,,,https://newyork.craigslist.org/mnh/reb/d/new-york-prewar-majesty-ph-unlike-any/7908431080.html
+"Drama! Space! Duplex PH plus outdoors in Classic BROWNSTONE$12,750Upper West Side",12750,,Upper West Side,,,https://newyork.craigslist.org/mnh/reb/d/new-york-drama-space-duplex-ph-plus/7907529863.html
+"Lofts under $7K? They DO exist- Once in a While$6,950Flatiron",6950,,Flatiron,,,https://newyork.craigslist.org/mnh/reb/d/new-york-lofts-under-7k-they-do-exist/7910335575.html
+"LOFT STUDIO for Sale! Best of Bleecker for Way Less$850,000Greenwich Village",850000,,Greenwich Village,,,https://newyork.craigslist.org/mnh/reb/d/new-york-loft-studio-for-sale-best-of/7909870443.html
+"Southwest CORNER Prewar LOFT!  Convertible to a 3BR if you need$2,850,000Nolita / Bowery",2850000,,Nolita / Bowery,3,,https://newyork.craigslist.org/mnh/reb/d/new-york-southwest-corner-prewar-loft/7909871936.html
+"Come to KIPS BAY for unlimited potential in a 2 Family TH$3,750,000Gramercy",3750000,,Gramercy,,,https://newyork.craigslist.org/mnh/reb/d/new-york-come-to-kips-bay-for-unlimited/7909872028.html
+"TOWNHOUSE TIME- Turnkey and Special$2,600,000Park Slope",2600000,,Park Slope,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-townhouse-time-turnkey-and/7909876091.html
+"WOW! TH living off Park Ave- 3BR DUPLEX - Dare to Compare!$12,000Upper East Side",12000,,Upper East Side,3,,https://newyork.craigslist.org/mnh/reb/d/new-york-wow-th-living-off-park-ave-3br/7909871839.html
+"Historic, Loft you can OWN! And it's a CONDO too$1,100,000Bed Stuy",1100000,,Bed Stuy,000,,https://newyork.craigslist.org/brk/reb/d/brooklyn-historic-loft-you-can-own-and/7906262929.html
+"3 FAMILY BROWNSTONE with Development Potential too! UNUSED FAR.$6,495,000Upper West Side",6495000,,Upper West Side,,,https://newyork.craigslist.org/mnh/reb/d/new-york-family-brownstone-with/7907120381.html
+"4BR 2BA WHOLE HOUSE rental$4,000Far Rockaway",4000,,Far Rockaway,4,2,https://newyork.craigslist.org/que/reo/d/far-rockaway-4br-2ba-whole-house-rental/7907199435.html
+"Medical or Professional Office for Sale$1,295,000Bronxville, NY",1295000,,"Bronxville, NY",,,https://newyork.craigslist.org/wch/reb/d/bronxville-medical-or-professional/7906554321.html
+"Building Sale-Or Lease*Vacant*3 Floors+Lower Level*W181$9,500,000Inwood / Wash Hts",9500000,,Inwood / Wash Hts,,,https://newyork.craigslist.org/mnh/reb/d/new-york-building-sale-or-leasevacant3/7909548593.html
+"Warehouse*Developement*Investment Property*Parking*Can Deliver Vacant$10,900,000Scholes St, Williamsburg, Brooklyn",10900000,,"Scholes St, Williamsburg, Brooklyn",,,https://newyork.craigslist.org/brk/reb/d/brooklyn/7909548387.html
+"Retail*Store*Discount*Basement*Lots Of Foot Traffic*10th Ave*W50th St$6,995Midtown West",6995,,Midtown West,,,https://newyork.craigslist.org/mnh/reb/d/new-york/7905505395.html
+rEADY FOR YOU ROOM FOR RENT IN THER BRONX$300bronx,300,,bronx,,,https://newyork.craigslist.org/brx/reo/d/bronx-ready-for-you-room-for-rent-in/7911165014.html
+"3BR PREWAR CONDO and NOW you can RENT IT!$9,800Upper West Side",9800,,Upper West Side,3,,https://newyork.craigslist.org/mnh/reb/d/new-york-3br-prewar-condo-and-now-you/7911168766.html
+"Oasis In Chelsea: Mix-Use duplex with Private Roof Deck Plus Air Right$3,200,000Chelsea",3200000,,Chelsea,,,https://newyork.craigslist.org/mnh/reb/d/new-york-oasis-in-chelsea-mix-use/7911162827.html
+"***Large 3 Bedroom North Riverdale***$3,800Bronx",3800,,Bronx,3,,https://newyork.craigslist.org/brx/reb/d/bronx-large-bedroom-north-riverdale/7911167574.html
+"Huge Luxury oasis on the Hudson River$3,888Yonkers",3888,,Yonkers,,,https://newyork.craigslist.org/wch/reb/d/yonkers-huge-luxury-oasis-on-the-hudson/7911165682.html
+"***Spacious Sun-Filled 2 Bedroom near Husdson River***$2,500Glenwood Avenue",2500,,Glenwood Avenue,2,,https://newyork.craigslist.org/wch/reb/d/yonkers-spacious-sun-filled-bedroom/7911165530.html
+"Water front property with two homes$1,200,000manhattan",1200000,,manhattan,,,https://newyork.craigslist.org/mnh/reo/d/jacksonville-water-front-property-with/7909705203.html
+"BRING THE CONTRACTOR! Already Gutted and ready to REDO$3,500,000Park Slope",3500000,,Park Slope,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-bring-the-contractor-already/7911157720.html
+"Historic LOFT w/Modern Comfort! And it's a 3BR And it's a CONDO$15,999TriBeCa",15999,,TriBeCa,3,,https://newyork.craigslist.org/mnh/reb/d/new-york-historic-loft-modern-comfort/7911157484.html
+"Step off keyed elevator to your 2100SF LOFT!$2,800,000TriBeCa",2800000,2100,TriBeCa,,,https://newyork.craigslist.org/mnh/reb/d/new-york-step-off-keyed-elevator-to/7911157381.html
+"Motivated Owner lowers ASK! Prewar CHARM but Modernized$1,699,000Cobble Hill",1699000,,Cobble Hill,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-motivated-owner-lowers-ask/7911156587.html
+"Its an Artist Loft. Its Furnished. Its in Soho. Its FLEXIBLE LEASE$14,500SoHo",14500,,SoHo,,,https://newyork.craigslist.org/mnh/reb/d/new-york-its-an-artist-loft-its/7911153358.html
+"Architectural Beauty! DUPLEXED 1BR with Drama, Priced to Sell$1,900,000Flatiron",1900000,,Flatiron,1,,https://newyork.craigslist.org/mnh/reb/d/new-york-architectural-beauty-duplexed/7911153241.html
+"One of Kind 2 FAMILY w Industrial Vibes intact! Extra Wide and Skylit$4,000,000Cobble Hill",4000000,,Cobble Hill,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-one-of-kind-family-industrial/7911153120.html
+"Vacation Home/Air BnB/1-2 family housing/in home business/rental units$525,000Paradise (Lancaster), PA",525000,,"Paradise (Lancaster), PA",,,https://newyork.craigslist.org/mnh/reo/d/bart-vacation-home-air-bnb-2-family/7908047634.html
+"Garden Duplex coming MARCH- SO WORTH THE WAIT$8,000Brookyn Heights",8000,,Brookyn Heights,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-garden-duplex-coming-march-so/7911152517.html
+"LARGE 3 BEDROOMS 1 BATH$3,000forest hills",3000,,forest hills,3,1,https://newyork.craigslist.org/que/reo/d/forest-hills-large-bedrooms-bath/7907826712.html
+STORAGE FOR RENT HILLSIDE AVE$500RICHMOND HILLS,500,,RICHMOND HILLS,,,https://newyork.craigslist.org/que/reo/d/richmond-hill-storage-for-rent-hillside/7908964730.html
+"GREAT DEAL -Heart of Harlem$1,200,000Harlem / Morningside",1200000,,Harlem / Morningside,,,https://newyork.craigslist.org/mnh/reb/d/new-york-great-deal-heart-of-harlem/7910512049.html
+"LEGAL 4 FAMILY TURN KEY!! SELLER FINANCE OPTIONAL$1,800,000Harlem / Morningside",1800000,,Harlem / Morningside,,,https://newyork.craigslist.org/mnh/reb/d/new-york-legal-family-turn-key-seller/7906944467.html
+"FULL FLOOR, CLASSIC LOFT! 11' Ceilings,  Exposed Brick, The Works$2,250,000TriBeCa",2250000,,TriBeCa,,,https://newyork.craigslist.org/mnh/reb/d/new-york-full-floor-classic-loft-11/7911140673.html
+"Wonderful house for rent in Adirondack setting on babbling brook$8,500Eastchester/New Rochelle",8500,,Eastchester/New Rochelle,,,https://newyork.craigslist.org/wch/reo/d/new-rochelle-wonderful-house-for-rent/7910256900.html
+"Room for rent!! Great location/ Prime Astoria!$1,100Astoria",1100,,Astoria,,,https://newyork.craigslist.org/que/reb/d/astoria-room-for-rent-great-location/7908368026.html
+"Amazing Deal!The house is immaculate!$1,700,000Astoria",1700000,,Astoria,,,https://newyork.craigslist.org/que/reb/d/east-elmhurst-amazing-dealthe-house-is/7908124360.html
+"NEW EAST VILLAGE RETAIL AVAILABLE$5,400East Village",5400,,East Village,,,https://newyork.craigslist.org/mnh/reb/d/new-york-new-east-village-retail/7911137749.html
+"2ND FLOOR OFFICE / RETAIL FOR RENT!$5,000Murray Hill",5000,,Murray Hill,,,https://newyork.craigslist.org/mnh/reb/d/new-york-2nd-floor-office-retail-for/7911137683.html
+11% Cap Bronx$0bronx,0,,bronx,,,https://newyork.craigslist.org/brx/reo/d/bronx-11-cap-bronx/7909682408.html
+"2 bed rental great cap rate$155,000bronx",155000,,bronx,2,,https://newyork.craigslist.org/brx/reb/d/bronx-bed-rental-great-cap-rate/7909686857.html
+"Huge Luxury oasis on the Hudson River$3,688Yonkers",3688,,Yonkers,,,https://newyork.craigslist.org/wch/reb/d/yonkers-huge-luxury-oasis-on-the-hudson/7909849807.html
+"Huge Luxury oasis on the Hudson River$3,688Yonkers",3688,,Yonkers,,,https://newyork.craigslist.org/wch/reb/d/yonkers-huge-luxury-oasis-on-the-hudson/7909776922.html
+"large 1 br apt elevator building walk to park slope$2,100windsor terrace",2100,,windsor terrace,1,,https://newyork.craigslist.org/brk/reb/d/brooklyn-large-br-apt-elevator-building/7911287213.html
+"large 1br apt elevator building walk to park slope$2,061kensington / ditmes park",2061,,kensington / ditmes park,1,,https://newyork.craigslist.org/brk/reb/d/brooklyn-large-1br-apt-elevator/7911287179.html
+"For Sale 10,000 Sq Ft Commercial Building$400,000Nanticoke",400000,10000,Nanticoke,,,https://newyork.craigslist.org/que/reo/d/nanticoke-for-sale-sq-ft-commercial/7911284802.html
+Renovated open concept. Resort-style amenities.$0queens,0,,queens,,,https://newyork.craigslist.org/que/reb/d/bayside-renovated-open-concept-resort/7911267694.html
+"Beautiful Big Land for Sale (Ozone Park)$350,000queens",350000,,queens,,,https://newyork.craigslist.org/que/reo/d/ozone-park-beautiful-big-land-for-sale/7911267378.html
+Opportunity to sublet after two years of ownership.Windsor Oaks.$0queens,0,,queens,,,https://newyork.craigslist.org/que/reb/d/oakland-gardens-opportunity-to-sublet/7911266883.html
+Landlords: Do you have a vacant unit that you’re seeking to rent?$0Brooklyn,0,,Brooklyn,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-landlords-do-you-have-vacant/7910506656.html
+Landlords: Do you have a vacant unit that you’re seeking to rent?$0Manhattan,0,,Manhattan,,,https://newyork.craigslist.org/mnh/reb/d/new-york-landlords-do-you-have-vacant/7910508713.html
+"Leave while you still can !!!$1,375,000Upper West Side",1375000,,Upper West Side,,,https://newyork.craigslist.org/mnh/reb/d/littleton-leave-while-you-still-can/7906320871.html
+"Large 3 Family$1,250,000Gravesend",1250000,,Gravesend,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-large-family/7909561175.html
+"🔴🟢 Brick Duplex for sale. Great investment!$990,000MOTT HAVEN",990000,,MOTT HAVEN,,,https://newyork.craigslist.org/brx/reo/d/bronx-brick-duplex-for-sale-great/7911260435.html
+"🏡 TWO FAMILY INVESTMENT HOME - FSBO$990,000Middle Village",990000,,Middle Village,,,https://newyork.craigslist.org/que/reo/d/middle-village-two-family-investment/7905906546.html
+"3-5 apartments for rent (vouchers)$3,811bronx",3811,,bronx,,,https://newyork.craigslist.org/brx/reb/d/bronx-5-apartments-for-rent-vouchers/7906517306.html
+Apartments Wanted$0bronx,0,,bronx,,,https://newyork.craigslist.org/brx/reb/d/bronx-apartments-wanted/7908262357.html
+"City Fheps Vouchers (Bronx, NY)$0bronx",0,,bronx,,,https://newyork.craigslist.org/brx/reb/d/bronx-city-fheps-vouchers-bronx-ny/7908258941.html
+"huge one fam center hall for sale  32x100 lot great location $2.1$2,100,000Madison,  brooklyn",2100000,,"Madison,  brooklyn",,,https://newyork.craigslist.org/brk/reb/d/brooklyn-huge-one-fam-center-hall-for/7911259774.html
+"6 storefronts for sale fantastic Midwood location $5,800,000$5,800,000Avenue P",5800000,,Avenue P,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-storefronts-for-sale-fantastic/7907886049.html
+"Full Size Bed #OzonePark #ReadyNow #JFK$1,200Ozone Park",1200,,Ozone Park,,,https://newyork.craigslist.org/que/reo/d/ozone-park-full-size-bed-ozonepark/7911255857.html
+"Greenwich CT Townhouse 2 Bedrooms 4 Baths$1,500,000greenwich",1500000,,greenwich,2,4,https://newyork.craigslist.org/fct/reo/d/greenwich-greenwich-ct-townhouse/7906734093.html
+"Room Rental #TwinBed #OzonePark #ReadyNow$1,000Ozone Park / Howard Beach / Woodhaven / Crossbay",1000,,Ozone Park / Howard Beach / Woodhaven / Crossbay,,,https://newyork.craigslist.org/que/reb/d/ozone-park-room-rental-twinbed/7911254769.html
+"Clean, Room Rental #TwinBed #OzonePark #JFK$999Ozone Park / Howard Beach / Woodhaven / Crossbay",999,,Ozone Park / Howard Beach / Woodhaven / Crossbay,,,https://newyork.craigslist.org/que/reb/d/ozone-park-clean-room-rental-twinbed/7911254631.html
+"Ozone Park, Room Rental #TwinBed, Ready NOW !!$1,000Ozone Park / Howard Beach / Woodhaven / Crossbay",1000,,Ozone Park / Howard Beach / Woodhaven / Crossbay,,,https://newyork.craigslist.org/que/reb/d/ozone-park-ozone-park-room-rental/7911254484.html
+"Ozone Park, Room Rental #TwinBed$1,000Ozone Park / Howard Beach / Woodhaven / Crossbay",1000,,Ozone Park / Howard Beach / Woodhaven / Crossbay,,,https://newyork.craigslist.org/que/reb/d/ozone-park-ozone-park-room-rental/7911254347.html
+"🔴🟢 FSBO - 2 Family Brick Investment Property - LOW TAXES!$990,000BRONX",990000,,BRONX,,,https://newyork.craigslist.org/brx/reo/d/bronx-fsbo-family-brick-investment/7908510264.html
+"COMMERCIAL LAND, for SALE, RONKONKOMA$350,000long island",350000,,long island,,,https://newyork.craigslist.org/lgi/reo/d/ronkonkoma-commercial-land-for-sale/7910369327.html
+"260 COMMACK ROAD RETAIL FOOD ""PROPERTY & BUSINESS"" FOR SALE$0COMMACK",0,,COMMACK,,,https://newyork.craigslist.org/lgi/reo/d/commack-260-commack-road-retail-food/7910834418.html
+"AUTO REPAIR SHOP P & B FOR SALE at LONG ISLAND$1,500,000RONKONKOMA, NY",1500000,,"RONKONKOMA, NY",,,https://newyork.craigslist.org/que/reo/d/ronkonkoma-auto-repair-shop-for-sale-at/7910419827.html
+Grand 20-foot foyer. Spacious deck overlooking landscaped grounds.$0queens,0,,queens,,,https://newyork.craigslist.org/que/reb/d/little-neck-grand-20-foot-foyer/7911252951.html
+"Comfy Room #FullSizeBed #OzonePark #JFK$1,199Ozone Park",1199,,Ozone Park,,,https://newyork.craigslist.org/que/reb/d/ozone-park-comfy-room-fullsizebed/7911252485.html
+Gated community! Resort-style amenities and on-site conveniences$0queens,0,,queens,,,https://newyork.craigslist.org/que/reb/d/bayside-gated-community-resort-style/7911249058.html
+"🏡 New Construction Home - Move-In Ready! $274,990 (FLORIDA)$274,990Port Charlotte",274990,,Port Charlotte,,,https://newyork.craigslist.org/jsy/reb/d/port-charlotte-new-construction-home/7911248902.html
+"27-UNIT PRE-WAR MULTIFAMILY BUILDING FOR SALE$3,799,9952 BLOCKS FROM BRONX LEBANON HOSPITAL",3799995,,2 BLOCKS FROM BRONX LEBANON HOSPITAL,,,https://newyork.craigslist.org/brx/reo/d/bronx-27-unit-pre-war-multifamily/7907051384.html
+Updated detached home with a center island and hardwood floors$0queens,0,,queens,,,https://newyork.craigslist.org/que/reb/d/springfield-gardens-updated-detached/7911245768.html
+"2 Bedroom Apartment Available Near Ferry$2,000Staten Island",2000,,Staten Island,2,,https://newyork.craigslist.org/stn/reb/d/staten-island-bedroom-apartment/7911242991.html
+"Queens Hotel close to Airport$19,600,000New York",19600000,,New York,,,https://newyork.craigslist.org/que/reo/d/new-york-queens-hotel-close-to-airport/7911240867.html
+"727 Euclid Avenue$675,000Brooklyn. NY",675000,,Brooklyn. NY,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-727-euclid-avenue/7911240191.html
+"Unique mix-use property with garage$3,500,000New York",3500000,,New York,,,https://newyork.craigslist.org/mnh/reo/d/new-york-unique-mix-use-property-with/7911234733.html
+"387 Ashford Street$899,999Brooklyn. NY",899999,,Brooklyn. NY,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-387-ashford-street/7911236455.html
+"319 E 59th Street$655,000Brooklyn, NY",655000,,"Brooklyn, NY",,,https://newyork.craigslist.org/brk/reb/d/brooklyn-319-59th-street/7911235191.html
+"Grenada Caribbean get away$1,250Grenada",1250,,Grenada,,,https://newyork.craigslist.org/mnh/reo/d/new-york-grenada-caribbean-get-away/7911234795.html
+"Unique mix-use property with garage$3,500,000New York",3500000,,New York,,,https://newyork.craigslist.org/mnh/reo/d/new-york-unique-mix-use-property-with/7910267429.html
+"Manhattan hotel off market$40,000,000New York",40000000,,New York,,,https://newyork.craigslist.org/mnh/reo/d/new-york-manhattan-hotel-off-market/7910192294.html
+"30-UNIT PRE-WAR MULTIFAMILY BUILDING$5,500,000Bronx",5500000,,Bronx,,,https://newyork.craigslist.org/brx/reo/d/new-york-30-unit-pre-war-multifamily/7910147928.html
+"Semi detached 6 Fam in Queens$1,950,000New York",1950000,,New York,,,https://newyork.craigslist.org/que/reo/d/new-york-semi-detached-fam-in-queens/7909081666.html
+"Dream Wakefield 3 Bedroom$725,000Bronx",725000,,Bronx,3,,https://newyork.craigslist.org/brx/reo/d/new-york-dream-wakefield-bedroom/7909083069.html
+"For Sale: Off Market 67 Unit Mixed Use in 2 Contiguous Buildings$9,600,000Bronx",9600000,,Bronx,,,https://newyork.craigslist.org/brx/reo/d/new-york-for-sale-off-market-67-unit/7907347037.html
+"4 floor Parkside Brownstone$2,900,000New York",2900000,,New York,,,https://newyork.craigslist.org/mnh/reo/d/new-york-floor-parkside-brownstone/7907347231.html
+"Mixed Use development site for sale/Seller will hold paper$25,000,000New York",25000000,,New York,,,https://newyork.craigslist.org/mnh/reo/d/new-york-mixed-use-development-site-for/7907347144.html
+"11-UNIT PRE-WAR MULTIFAMILY$2,200,000New York",2200000,,New York,,,https://newyork.craigslist.org/brx/reo/d/new-york-11-unit-pre-war-multifamily/7906475193.html
+"66 Key hotel in LIC$25,000,000New York",25000000,,New York,,,https://newyork.craigslist.org/que/reo/d/new-york-66-key-hotel-in-lic/7907998712.html
+"Grand TH for sale** investor dream$2,600,000Harlem / Morningside",2600000,,Harlem / Morningside,,,https://newyork.craigslist.org/mnh/reo/d/new-york-city-grand-th-for-sale/7905120335.html
+"Stunning UES Prof Office$349,000New York",349000,,New York,,,https://newyork.craigslist.org/mnh/reo/d/new-york-stunning-ues-prof-office/7909688322.html
+"Commercial condo space , 22,000 sf$2,000,000New York",2000000,22000,New York,,,https://newyork.craigslist.org/mnh/reo/d/new-york-commercial-condo-space-sf/7907116035.html
+"Queens Hotel close to Airport$19,600,000New York",19600000,,New York,,,https://newyork.craigslist.org/que/reo/d/new-york-queens-hotel-close-to-airport/7906646424.html
+"Taco business in E Harlem 800sf, 900sf bsmt$240,000New York",240000,800,New York,,,https://newyork.craigslist.org/mnh/reo/d/new-york-taco-business-in-harlem-800sf/7910741174.html
+"E Village Storefront Duplex Condo$999,000New York",999000,,New York,,,https://newyork.craigslist.org/mnh/reo/d/new-york-village-storefront-duplex-condo/7908530724.html
+"6 Story Elevator Brick apt Bldg, 32 apts$16,000,000bronx",16000000,,bronx,,,https://newyork.craigslist.org/brx/reo/d/new-york-story-elevator-brick-apt-bldg/7910741222.html
+"Bronx Investment Property$4,700,000Bronx",4700000,,Bronx,,,https://newyork.craigslist.org/brx/reo/d/new-york-bronx-investment-property/7910741265.html
+"Amazing 48+ acres Minutes from Lake George$109,000Hague",109000,,Hague,,,https://newyork.craigslist.org/que/reo/d/hague-amazing-48-acres-minutes-from/7910519905.html
+"29 Garfield Place$1,699,999Roslyn Heights",1699999,,Roslyn Heights,,,https://newyork.craigslist.org/lgi/reb/d/roslyn-heights-29-garfield-place/7911229894.html
+"2BR 1,5 BATH, PARKING,SOLAR ,REDONE! BEST DEAL.BEST PRICE!$495,000Brooklyn   ( S.I)",495000,,Brooklyn   ( S.I,2,5,https://newyork.craigslist.org/brk/reb/d/staten-island-2br-15-bath-parkingsolar/7910756887.html
+"2 bedroom townhouse for sale! solar payoff! parking!$495,000Staten Island",495000,,Staten Island,2,,https://newyork.craigslist.org/brk/reb/d/staten-island-bedroom-townhouse-for/7909330880.html
+"2 bedroom townhouse for sale! solar payoff! parking!$495,000Staten Island",495000,,Staten Island,2,,https://newyork.craigslist.org/brk/reb/d/staten-island-bedroom-townhouse-for/7909329717.html
+"2 BR 1,5 BATH! TOWNHOUSE! 2 PARKING!SOLAR! REDONE!$495,000Staten Island/next to MALL,HIGHWAY.COLLEGE",495000,,"Staten Island/next to MALL,HIGHWAY.COLLEGE",2,5,https://newyork.craigslist.org/stn/reb/d/staten-island-br-15-bath-townhouse/7905967297.html
+"178-26 Zoller Road$775,000Jamaica, NY",775000,,"Jamaica, NY",,,https://newyork.craigslist.org/que/reb/d/jamaica-zoller-road/7911228611.html
+"5042 Kings Highway$749,999Brooklyn, NY",749999,,"Brooklyn, NY",,,https://newyork.craigslist.org/brk/reb/d/brooklyn-5042-kings-highway/7911227268.html
+"Renovated 4 bed/3 bath home for sale by owner$985,000Saint Albans",985000,,Saint Albans,4,3,https://newyork.craigslist.org/que/reo/d/saint-albans-renovated-bed-bath-home/7906751349.html
+"Fully renovated 4bed/3bath home for sale by owner$985,000Saint Albans",985000,,Saint Albans,4,3,https://newyork.craigslist.org/que/reo/d/saint-albans-fully-renovated-4bed-3bath/7906751235.html
+"109-46 174th Street$879,999Jamaica, NY",879999,,"Jamaica, NY",,,https://newyork.craigslist.org/que/reb/d/jamaica-th-street/7911225272.html
+"Renovated, spacious, and large backyard.$0queens",0,,queens,,,https://newyork.craigslist.org/que/reb/d/brooklyn-renovated-spacious-and-large/7911224264.html
+"Large 3 bedrooms in Astoria, near trains, shopping, highways and more$3,700Queens",3700,,Queens,3,,https://newyork.craigslist.org/que/reb/d/astoria-large-bedrooms-in-astoria-near/7911222059.html
+"109-46 174th Street$879,999Jamaica, NY",879999,,"Jamaica, NY",,,https://newyork.craigslist.org/que/reb/d/jamaica-th-street/7911220889.html
+APARTMENT REN-TALS$0NEW YORK,0,,NEW YORK,,,https://newyork.craigslist.org/que/reb/d/apartment-ren-tals/7906896296.html
+C0LLECTION SPECIALIST LOOKING TO WORK WITH PLUMBIMG COMPANIES$0MIDTOWN,0,,MIDTOWN,,,https://newyork.craigslist.org/que/reb/d/new-york-c0llection-specialist-looking/7906893254.html
+"STUDIO  APARTMENT  FOR RENT $1300$1,300JAMAICA /FULTON",1300,,JAMAICA /FULTON,,,https://newyork.craigslist.org/que/reb/d/woodhaven-studio-apartment-for-rent-1300/7906906196.html
+"STUDIO  APARTMENT  FOR RENT$1,300JAMAICA  AVENUE",1300,,JAMAICA  AVENUE,,,https://newyork.craigslist.org/que/reb/d/brooklyn-studio-apartment-for-rent/7906923334.html
+"STUDIO APARTMENT  FOR RENT$1,300FULTON",1300,,FULTON,,,https://newyork.craigslist.org/que/reb/d/woodhaven-studio-apartment-for-rent/7909876357.html
+"STUDIO APARTMENT  FOR RENT$1,300FULTON",1300,,FULTON,,,https://newyork.craigslist.org/que/reb/d/woodhaven-studio-apartment-for-rent/7909881635.html
+"STUDIO APARTMENT  FOR RENT$1,300FULTON",1300,,FULTON,,,https://newyork.craigslist.org/que/reb/d/woodhaven-studio-apartment-for-rent/7909899353.html
+"4 bedroom crazy deal immediately move , easy approval$3,800Brooklyn",3800,,Brooklyn,4,,https://newyork.craigslist.org/brk/reo/d/brooklyn-bedroom-crazy-deal-immediately/7909561439.html
+"Huge duplex 3 bed 3 bath 🛁$5,100Brooklyn",5100,,Brooklyn,3,3,https://newyork.craigslist.org/brk/reo/d/brooklyn-huge-duplex-bed-bath/7908733924.html
+"newly renovated two-bedroom apartment with an additional home office$2,750Brooklyn",2750,,Brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-newly-renovated-two-bedroom/7907568762.html
+"NO FEE | 2.5 BED / 1 BATH | RENOVATED$2,800Brooklyn",2800,,Brooklyn,5,1,https://newyork.craigslist.org/brk/reo/d/brooklyn-no-fee-25-bed-bath-renovated/7907567776.html
+"2 bedroom available- kitty not included$2,800Brooklyn",2800,,Brooklyn,2,,https://newyork.craigslist.org/brk/reo/d/brooklyn-bedroom-available-kitty-not/7910414903.html
+"Owner Financing Available - Amazing 48+ acres Minutes from Lake George$119,000Hague",119000,,Hague,,,https://newyork.craigslist.org/que/reo/d/hague-owner-financing-available-amazing/7910092904.html
+"Land of opportunity…affordable lease or purchase$999,999Major highway locations",999999,,Major highway locations,,,https://newyork.craigslist.org/jsy/reb/d/new-brunswick-land-of/7905664239.html
+"Industrial retail Lease//Sale//Build to suit$2,026Major highway",2026,,Major highway,,,https://newyork.craigslist.org/jsy/reb/d/lawrence-township-industrial-retail/7905483422.html
+Data center Land of opportunity$1Major highway locations,1,,Major highway locations,,,https://newyork.craigslist.org/jsy/reb/d/new-brunswick-data-center-land-of/7905453773.html
+"2 bedrooms College point$3,029Bronx",3029,,Bronx,2,,https://newyork.craigslist.org/brx/reo/d/mount-vernon-bedrooms-college-point/7911215139.html
+"Prime Investment Opportunity: Renovated 6-Family Brick Building in Gle$1,300,000Glendale",1300000,,Glendale,,,https://newyork.craigslist.org/que/reb/d/ridgewood-prime-investment-opportunity/7909287315.html
+"Prime Mixed-Use Property in Middle Village - A Rare Investment$2,400,000Middle Village",2400000,,Middle Village,,,https://newyork.craigslist.org/que/reb/d/middle-village-prime-mixed-use-property/7906673179.html
+GREENPOINT! Carpe Diem! FSBO! New Owner and R6B Opportunity!$0brooklyn,0,,brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-greenpoint-carpe-diem-fsbo-new/7910086804.html
+FSBO in Hottest Neighborhood in all of NYC - R6B Zoning$0Greenpoint Brooklyn,0,,Greenpoint Brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-fsbo-in-hottest-neighborhood/7905220856.html
+R6B Zoning - FSBO in Hottest Neighborhood in all of NYC$0Greenpoint Brooklyn,0,,Greenpoint Brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-r6b-zoning-fsbo-in-hottest/7907061499.html
+Your Canvas - R6B Zoning - FSBO in GREENPOINT! HOT HOT HOT$0Greenpoint Brooklyn,0,,Greenpoint Brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-your-canvas-r6b-zoning-fsbo-in/7908999725.html
+North Brooklyn! Carpe Diem! FSBO! New Owner and R6B Opportunity!$0Greenpoint,0,,Greenpoint,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-north-brooklyn-carpe-diem-fsbo/7910289610.html
+FSBO! Create your own Paradise with over 4500 sq ft!$0brooklyn,0,4500,brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-fsbo-create-your-own-paradise/7907420683.html
+Carpe Diem! FSBO! New Owner and R6B Opportunity!$0brooklyn,0,,brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-carpe-diem-fsbo-new-owner-and/7910289820.html
+Over 4500 Sq Ft Quadplex for Development in Greenpoint! R6B Zoning$0brooklyn,0,4500,brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-over-4500-sq-ft-quadplex-for/7910086976.html
+GREENPOINT! R6B Zoning - FSBO in Hottest Neighborhood in all of NYC$0Greenpoint Brooklyn,0,,Greenpoint Brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-greenpoint-r6b-zoning-fsbo-in/7910086919.html
+GREENPOINT! R6B Zoning - FSBO in BEST Neighborhood in all of NYC$0Greenpoint Brooklyn,0,,Greenpoint Brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-greenpoint-r6b-zoning-fsbo-in/7907718157.html
+Over 4500 Sq Feet Available for New Owner to develop in Greenpoint!$0brooklyn,0,,brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-over-4500-sq-feet-available/7908094932.html
+GREENPOINT! FSBO! Create your own Paradise with over 4500 sq ft!$0brooklyn,0,4500,brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-greenpoint-fsbo-create-your/7906839372.html
+Your Canvas - R6B Zoning - FSBO in GREENPOINT! HOT HOT HOT$0brooklyn,0,,brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-your-canvas-r6b-zoning-fsbo-in/7910086865.html
+"GORGEOUS 3 BEDROOM BI-LEVEL ALL NEW RENOVATED-2 FULL LEGAL KITCHENS$500,00065 MIN TRAIN RIDE FROM NYC",500000,,65 MIN TRAIN RIDE FROM NYC,3,,https://newyork.craigslist.org/mnh/reb/d/marlboro-gorgeous-bedroom-bi-level-all/7908240355.html
+"GORGEOUS 3 BEDROOM BI-LEVEL ALL NEW RENOVATED-2 FULL LEGAL KITCHENS$500,000MARLBORO-1 HOUR DRIVE FROM UPPER BRONX",500000,,MARLBORO-1 HOUR DRIVE FROM UPPER BRONX,3,,https://newyork.craigslist.org/brx/reb/d/marlboro-gorgeous-bedroom-bi-level-all/7906589003.html
+"GORGEOUS 3 BEDROOM BI-LEVEL ALL NEW RENOVATED-2 FULL LEGAL KITCHENS$500,000MARLBORO, NY-BY OWNER-ALSO AGENT OWNED",500000,,"MARLBORO, NY-BY OWNER-ALSO AGENT OWNED",3,,https://newyork.craigslist.org/wch/reb/d/marlboro-gorgeous-bedroom-bi-level-all/7908016007.html
+"Prime Development Opportunity - 11,905 Sq Ft$3,000,000Brooklyn",3000000,11905,Brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-prime-development-opportunity/7909455785.html
+"Prime Development Opportunity - 11,905 Sq Ft$3,000,000Brooklyn",3000000,11905,Brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-prime-development-opportunity/7909455818.html
+"Prime Vacant Lot for Sale - 17,600 Sq Ft Buildable - Ocean Ave, Brookl$4,250,000Brooklyn",4250000,17600,Brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-prime-vacant-lot-for-sale-sq/7911200399.html
+"Apartment for Rent$2,800Flushing",2800,,Flushing,,,https://newyork.craigslist.org/que/reb/d/flushing-apartment-for-rent/7911196260.html
+Douglaston Home For Sale$0Douglaston,0,,Douglaston,,,https://newyork.craigslist.org/que/reo/d/little-neck-douglaston-home-for-sale/7906723081.html
+"Douglaston Co-op For Sale  2 Bed, 1 Bath  Wellesley Gardens$0Douglaston",0,,Douglaston,2,1,https://newyork.craigslist.org/que/reo/d/little-neck-douglaston-co-op-for-sale/7906719542.html
+"INVESTORS - Strong Cash Flow – Newly Renovated 3/2 Turnkey & Occupied$145,000brooklyn",145000,,brooklyn,,,https://newyork.craigslist.org/brk/reo/d/baltimore-investors-strong-cash-flow/7907305811.html
+"Studio for rent$1,400staten island",1400,,staten island,,,https://newyork.craigslist.org/stn/reo/d/staten-island-studio-for-rent/7911190335.html
+"Awesome meticulously maintained Richmond Town colonial home!!!$748,000Richmond Town",748000,,Richmond Town,,,https://newyork.craigslist.org/stn/reb/d/staten-island-awesome-meticulously/7905110535.html
+"Wonderful Port Richmond location, Convenient to transportation...$599,900STATEN ISLAND",599900,,STATEN ISLAND,,,https://newyork.craigslist.org/stn/reb/d/staten-island-wonderful-port-richmond/7905110365.html
+"This affordable gem is ideal for investors seeking a solid return!!$349,900Staten Island",349900,,Staten Island,,,https://newyork.craigslist.org/stn/reb/d/staten-island-this-affordable-gem-is/7905110493.html
+"Charming and spacious two-family end-unit townhouse!!!$629,900Staten Island",629900,,Staten Island,,,https://newyork.craigslist.org/stn/reb/d/staten-island-charming-and-spacious-two/7910614996.html
+"2 family house used as a one family with private garage$1,750,000Bay Ridge",1750000,,Bay Ridge,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-family-house-used-as-one/7907147944.html
+"Discover this meticulously updated, expansive Two-Family residence!!$750,000Graniteville",750000,,Graniteville,,,https://newyork.craigslist.org/stn/reb/d/staten-island-discover-this/7905110441.html
+"Lovely fully detached colonial style home, in the heart of Westerleigh$599,999Westerleigh",599999,,Westerleigh,,,https://newyork.craigslist.org/stn/reb/d/staten-island-lovely-fully-detached/7905110757.html
+"Oversized 3 bedrooms, 3 baths, beautiful engineered hardwood floors!!$489,900Staten Island",489900,,Staten Island,3,3,https://newyork.craigslist.org/stn/reb/d/staten-island-oversized-bedrooms-baths/7910615094.html
+"The uniquely customized single-family home you have been waiting for!$479,900Staten Island",479900,,Staten Island,,,https://newyork.craigslist.org/stn/reb/d/staten-island-the-uniquely-customized/7905110411.html
+Williamsburg$0Northside,0,,Northside,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-williamsburg/7907151301.html
+"THE HOLIDAY INN HOTEL IN LONG ISLAND CITY, NY FOR SALE$65,000,000LONG ISLAND CITY, NY",65000000,,"LONG ISLAND CITY, NY",,,https://newyork.craigslist.org/que/reb/d/long-island-city-the-holiday-inn-hotel/7905104719.html
+"CHARMING 2 BEDROOM SIDE HALL COLONIAL WITH PARKLIKE BACKYARD!!!$427,040Staten Island",427040,,Staten Island,2,,https://newyork.craigslist.org/stn/reb/d/staten-island-charming-bedroom-side/7905110791.html
+"Well-Maintained home! Perfect for 1st time buyers. Nice-sized bedrooms$549,900STATEN ISLAND",549900,,STATEN ISLAND,,,https://newyork.craigslist.org/stn/reb/d/staten-island-well-maintained-home/7905110623.html
+"PRICED RIGHT! Great starter home for 1st time homeowner, needs tlc.$499,900Staten Island",499900,,Staten Island,,,https://newyork.craigslist.org/stn/reb/d/staten-island-priced-right-great/7905110573.html
+"Large 3 Bedroom/2 Bathroom Fleetwood Mt Vernon Apartment$3,500Fleetwood",3500,,Fleetwood,3,2,https://newyork.craigslist.org/wch/reo/d/mount-vernon-large-bedroom-bathroom/7906785027.html
+"Apartment Rentals.$2,400Yonkers",2400,,Yonkers,,,https://newyork.craigslist.org/wch/reo/d/yonkers-apartment-rentals/7906293364.html
+"Bright 2 Bedroom 1 Bath - /Laundry .w148. ONLY $2825$2,825Harlem / Morningside",2825,,Harlem / Morningside,2,1,https://newyork.craigslist.org/mnh/reo/d/new-york-bright-bedroom-bath-laundry/7909804938.html
+"Wonderful 1 bedroom for sale , like a CONDO$229,000Midwood",229000,,Midwood,1,,https://newyork.craigslist.org/brk/reb/d/brooklyn-wonderful-bedroom-for-sale/7909760076.html
+"Real 2 Bedroom , 1 Bath - 2nd floor only $2850 !!$2,850Harlem / Morningside",2850,,Harlem / Morningside,2,1,https://newyork.craigslist.org/mnh/reo/d/new-york-real-bedroom-bath-2nd-floor/7909760722.html
+"Basement 1 bedroom+ private house - 2, 5 trains !$1,795Avenue J and E 32nd st",1795,,Avenue J and E 32nd st,1,,https://newyork.craigslist.org/brk/reo/d/brooklyn-basement-bedroom-private-house/7909804711.html
+"Sunny private studio in Brighton beach. laundry NO FEE$1,775Brighton 14th Street",1775,,Brighton 14th Street,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-sunny-private-studio-in/7908187421.html
+"Basement 1 bedroom+ private house - 2, 5 trains !$1,795Avenue J and E 32nd st",1795,,Avenue J and E 32nd st,1,,https://newyork.craigslist.org/brk/reo/d/brooklyn-basement-bedroom-private-house/7908187086.html
+"Large studio in Brighton beach+ laundry ONLY $1695$1,695Brighton 14th Street",1695,,Brighton 14th Street,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-large-studio-in-brighton-beach/7909759969.html
+"BEST WESTERN BOWERY HOTEL$80,000,000Chinatown / Lit Italy",80000000,,Chinatown / Lit Italy,,,https://newyork.craigslist.org/mnh/reb/d/new-york-best-western-bowery-hotel/7905104777.html
+"Apartment Rentals.  2 - 3. Bedroom$1,900NE Yonkers",1900,,NE Yonkers,,,https://newyork.craigslist.org/wch/reo/d/yonkers-apartment-rentals-bedroom/7911174836.html
+"OFF MARKET HOTELS, RESORTS, APARTMENT COMPLEXES AVAILABLE FOR SALE$1,000,000Downtown",1000000,,Downtown,,,https://newyork.craigslist.org/mnh/reb/d/new-york-off-market-hotels-resorts/7905104822.html
+"Apt/House Rentals. Affordable$1,900Yonkers",1900,,Yonkers,,,https://newyork.craigslist.org/wch/reo/d/yonkers-apt-house-rentals-affordable/7911174150.html
+"Arden Heights entire house for rent 3 bedroom$3,500South Shore Annandale",3500,,South Shore Annandale,3,,https://newyork.craigslist.org/stn/reo/d/staten-island-arden-heights-entire/7908027798.html
+"Arden Heights entire house for rent 3 bedroom$3,500Staten Island",3500,,Staten Island,3,,https://newyork.craigslist.org/stn/reo/d/staten-island-arden-heights-entire/7908026812.html
+"Arden Heights entire house for rent 3 bedroom$3,500Staten Island",3500,,Staten Island,3,,https://newyork.craigslist.org/stn/reo/d/staten-island-arden-heights-entire/7908025748.html
+"Park Block Beauty! TRIPLEX, SKYLIT, 4BR, best of brownstone life$2,400,000Upper West Side",2400000,,Upper West Side,4,,https://newyork.craigslist.org/mnh/reb/d/new-york-park-block-beauty-triplex/7907158364.html
+"Perfection on Prince! TRIPLEX LOFT PH with 1000 SF PRIVATE ROOFDECK$21,999SoHo",21999,1000,SoHo,,,https://newyork.craigslist.org/mnh/reb/d/new-york-perfection-on-prince-triplex/7906242801.html
+"Can you wait til March?? LOFTY FIND with 3BR coming soon$6,495Williamsburg",6495,,Williamsburg,3,,https://newyork.craigslist.org/brk/reb/d/brooklyn-can-you-wait-til-march-lofty/7910337147.html
+"LUXE LOFT-Rent it FURNISHED OR UNFURNISHED!$9,500Red Hook",9500,,Red Hook,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-luxe-loft-rent-it-furnished-or/7907527791.html
+"Best 2BR Deal around! Gracious, Elegant, and amazingly Priced$925,000Gramercy",925000,,Gramercy,2,,https://newyork.craigslist.org/mnh/reb/d/new-york-best-2br-deal-around-gracious/7909894298.html
+"It's a loft, It's a Condo, It' s a WINNER. 1800SF, 2BR/2BA$2,850,000Greenwich Village",2850000,1800,Greenwich Village,2,2,https://newyork.craigslist.org/mnh/reb/d/new-york-its-loft-its-condo-it-a-winner/7910338623.html
+"Unreal Deal! Lofty 3BR in NOMAD priced below where you'd think$1,295,000Flatiron",1295000,,Flatiron,3,,https://newyork.craigslist.org/mnh/reb/d/new-york-unreal-deal-lofty-3br-in-nomad/7909906863.html
+"Authentic Live/Work LOFT- Reno Opportunity for this wonderful PH LOFT$1,995,000SoHo",1995000,,SoHo,,,https://newyork.craigslist.org/mnh/reb/d/new-york-authentic-live-work-loft-reno/7909906597.html
+"The ESSENCE of Loft Life in Tribeca! Floor thru, 2000SF, FIND of FINDs$3,650,000TriBeCa",3650000,2000,TriBeCa,,,https://newyork.craigslist.org/mnh/reb/d/new-york-the-essence-of-loft-life-in/7909906762.html
+"2700SF Sprawling LOFT in the HEART of Tribeca! Spread out and Relax!$14,950TriBeCa",14950,2700,TriBeCa,,,https://newyork.craigslist.org/mnh/reb/d/new-york-2700sf-sprawling-loft-in-the/7906241639.html
+"Stunning LOFT PH to OWN or to RENT! It's  your call.$10,999Chelsea",10999,,Chelsea,,,https://newyork.craigslist.org/mnh/reb/d/new-york-stunning-loft-ph-to-own-or-to/7906249417.html
+"Direct Park Views and ON CPW too! Unique, Tudor-Style Co-op$1,395,000Upper West Side",1395000,,Upper West Side,,,https://newyork.craigslist.org/mnh/reb/d/new-york-direct-park-views-and-on-cpw/7906260751.html
+"Walkup to your Urban Loft Oasis! Coming for FEBRUARY START$9,000TriBeCa",9000,,TriBeCa,,,https://newyork.craigslist.org/mnh/reb/d/new-york-walkup-to-your-urban-loft/7906258131.html
+"3800SF, FIVE BR MAJESTY!  Once in a blue moon chance to RENT THIS$45,999Greenwich Village",45999,3800,Greenwich Village,,,https://newyork.craigslist.org/mnh/reb/d/new-york-3800sf-five-br-majesty-once-in/7906632890.html
+"LOFTY SURPRISE in NOHO- MASSIVE and RENTABLE$8,900East Village",8900,,East Village,,,https://newyork.craigslist.org/mnh/reb/d/new-york-lofty-surprise-in-noho-massive/7909021353.html
+"Impeccably Renovated 3BR Move in Ready!! The Best of Carnegie Hill$1,650,000Upper East Side",1650000,,Upper East Side,3,,https://newyork.craigslist.org/mnh/reb/d/new-york-impeccably-renovated-3br-move/7909024764.html
+"1000SF Convertible 2BR for UNDER $800K? Yes, Indeed!$775,000Upper East Side",775000,1000,Upper East Side,2,,https://newyork.craigslist.org/mnh/reb/d/new-york-1000sf-convertible-2br-for/7907531216.html
+"Bring that Architect and Create your Dream! Classic, Prewar 2BR Gem$975,000Greenwich Village",975000,,Greenwich Village,2,,https://newyork.craigslist.org/mnh/reb/d/new-york-bring-that-architect-and/7907119008.html
+"GRAND and CLASSIC on Park Avenue! Create your DREAM 4BR$2,995,000Upper East Side",2995000,,Upper East Side,4,,https://newyork.craigslist.org/mnh/reb/d/new-york-grand-and-classic-on-park/7909023502.html
+"Breathtaking DUPLEX in Classic TH just off FIFTH AVENUE! One of a Kind$38,000Upper East Side",38000,,Upper East Side,,,https://newyork.craigslist.org/mnh/reo/d/new-york-breathtaking-duplex-in-classic/7907133093.html
+"Extraordinary CLASSIC 6 Elegance right on Central Park West!  WOW$3,250,000Upper West Side",3250000,,Upper West Side,,,https://newyork.craigslist.org/mnh/reb/d/new-york-extraordinary-classic-elegance/7906632977.html
+"NOW redone, OWN THIS OPEN PREWAR LOFT in a LOFT BLDG$1,650,000TriBeCa",1650000,,TriBeCa,,,https://newyork.craigslist.org/mnh/reb/d/new-york-now-redone-own-this-open/7907158602.html
+"One of a Kind LOFT w/15' Ceilings!!! Gothic Charm and Character$895,000Clinton Hill",895000,,Clinton Hill,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-one-of-kind-loft-15-ceilings/7907535282.html
+"One of the coolest lofts in Flatiron! 11' Barrel Ceilinged 1BR Beauty$1,515,000Flatiron",1515000,,Flatiron,1,,https://newyork.craigslist.org/mnh/reb/d/new-york-one-of-the-coolest-lofts-in/7908408480.html
+"Mixed Use Bldg for SALE! Keep as is or CONVERT TO RESIDENTIAL-INVEST!!$4,600,000TriBeCa",4600000,,TriBeCa,,,https://newyork.craigslist.org/mnh/reb/d/new-york-mixed-use-bldg-for-sale-keep/7907158447.html
+"No Cookie Cutter here! Lovely, Prewar 2BR/2BA find coming FEBRUARY$9,500Chelsea",9500,,Chelsea,2,2,https://newyork.craigslist.org/mnh/reb/d/new-york-no-cookie-cutter-here-lovely/7907129596.html
+"PREWAR Majesty! PH unlike any other, with massive Outdoors too$17,999TriBeCa",17999,,TriBeCa,,,https://newyork.craigslist.org/mnh/reb/d/new-york-prewar-majesty-ph-unlike-any/7908431080.html
+"Drama! Space! Duplex PH plus outdoors in Classic BROWNSTONE$12,750Upper West Side",12750,,Upper West Side,,,https://newyork.craigslist.org/mnh/reb/d/new-york-drama-space-duplex-ph-plus/7907529863.html
+"Lofts under $7K? They DO exist- Once in a While$6,950Flatiron",6950,,Flatiron,,,https://newyork.craigslist.org/mnh/reb/d/new-york-lofts-under-7k-they-do-exist/7910335575.html
+"LOFT STUDIO for Sale! Best of Bleecker for Way Less$850,000Greenwich Village",850000,,Greenwich Village,,,https://newyork.craigslist.org/mnh/reb/d/new-york-loft-studio-for-sale-best-of/7909870443.html
+"Southwest CORNER Prewar LOFT!  Convertible to a 3BR if you need$2,850,000Nolita / Bowery",2850000,,Nolita / Bowery,3,,https://newyork.craigslist.org/mnh/reb/d/new-york-southwest-corner-prewar-loft/7909871936.html
+"Come to KIPS BAY for unlimited potential in a 2 Family TH$3,750,000Gramercy",3750000,,Gramercy,,,https://newyork.craigslist.org/mnh/reb/d/new-york-come-to-kips-bay-for-unlimited/7909872028.html
+"TOWNHOUSE TIME- Turnkey and Special$2,600,000Park Slope",2600000,,Park Slope,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-townhouse-time-turnkey-and/7909876091.html
+"WOW! TH living off Park Ave- 3BR DUPLEX - Dare to Compare!$12,000Upper East Side",12000,,Upper East Side,3,,https://newyork.craigslist.org/mnh/reb/d/new-york-wow-th-living-off-park-ave-3br/7909871839.html
+"Historic, Loft you can OWN! And it's a CONDO too$1,100,000Bed Stuy",1100000,,Bed Stuy,000,,https://newyork.craigslist.org/brk/reb/d/brooklyn-historic-loft-you-can-own-and/7906262929.html
+"3 FAMILY BROWNSTONE with Development Potential too! UNUSED FAR.$6,495,000Upper West Side",6495000,,Upper West Side,,,https://newyork.craigslist.org/mnh/reb/d/new-york-family-brownstone-with/7907120381.html
+"4BR 2BA WHOLE HOUSE rental$4,000Far Rockaway",4000,,Far Rockaway,4,2,https://newyork.craigslist.org/que/reo/d/far-rockaway-4br-2ba-whole-house-rental/7907199435.html
+"Medical or Professional Office for Sale$1,295,000Bronxville, NY",1295000,,"Bronxville, NY",,,https://newyork.craigslist.org/wch/reb/d/bronxville-medical-or-professional/7906554321.html
+"Building Sale-Or Lease*Vacant*3 Floors+Lower Level*W181$9,500,000Inwood / Wash Hts",9500000,,Inwood / Wash Hts,,,https://newyork.craigslist.org/mnh/reb/d/new-york-building-sale-or-leasevacant3/7909548593.html
+"Warehouse*Developement*Investment Property*Parking*Can Deliver Vacant$10,900,000Scholes St, Williamsburg, Brooklyn",10900000,,"Scholes St, Williamsburg, Brooklyn",,,https://newyork.craigslist.org/brk/reb/d/brooklyn/7909548387.html
+"Retail*Store*Discount*Basement*Lots Of Foot Traffic*10th Ave*W50th St$6,995Midtown West",6995,,Midtown West,,,https://newyork.craigslist.org/mnh/reb/d/new-york/7905505395.html
+rEADY FOR YOU ROOM FOR RENT IN THER BRONX$300bronx,300,,bronx,,,https://newyork.craigslist.org/brx/reo/d/bronx-ready-for-you-room-for-rent-in/7911165014.html
+"3BR PREWAR CONDO and NOW you can RENT IT!$9,800Upper West Side",9800,,Upper West Side,3,,https://newyork.craigslist.org/mnh/reb/d/new-york-3br-prewar-condo-and-now-you/7911168766.html
+"Oasis In Chelsea: Mix-Use duplex with Private Roof Deck Plus Air Right$3,200,000Chelsea",3200000,,Chelsea,,,https://newyork.craigslist.org/mnh/reb/d/new-york-oasis-in-chelsea-mix-use/7911162827.html
+"***Large 3 Bedroom North Riverdale***$3,800Bronx",3800,,Bronx,3,,https://newyork.craigslist.org/brx/reb/d/bronx-large-bedroom-north-riverdale/7911167574.html
+"Huge Luxury oasis on the Hudson River$3,888Yonkers",3888,,Yonkers,,,https://newyork.craigslist.org/wch/reb/d/yonkers-huge-luxury-oasis-on-the-hudson/7911165682.html
+"***Spacious Sun-Filled 2 Bedroom near Husdson River***$2,500Glenwood Avenue",2500,,Glenwood Avenue,2,,https://newyork.craigslist.org/wch/reb/d/yonkers-spacious-sun-filled-bedroom/7911165530.html
+"Water front property with two homes$1,200,000manhattan",1200000,,manhattan,,,https://newyork.craigslist.org/mnh/reo/d/jacksonville-water-front-property-with/7909705203.html
+"BRING THE CONTRACTOR! Already Gutted and ready to REDO$3,500,000Park Slope",3500000,,Park Slope,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-bring-the-contractor-already/7911157720.html
+"Historic LOFT w/Modern Comfort! And it's a 3BR And it's a CONDO$15,999TriBeCa",15999,,TriBeCa,3,,https://newyork.craigslist.org/mnh/reb/d/new-york-historic-loft-modern-comfort/7911157484.html
+"Step off keyed elevator to your 2100SF LOFT!$2,800,000TriBeCa",2800000,2100,TriBeCa,,,https://newyork.craigslist.org/mnh/reb/d/new-york-step-off-keyed-elevator-to/7911157381.html
+"Motivated Owner lowers ASK! Prewar CHARM but Modernized$1,699,000Cobble Hill",1699000,,Cobble Hill,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-motivated-owner-lowers-ask/7911156587.html
+"Its an Artist Loft. Its Furnished. Its in Soho. Its FLEXIBLE LEASE$14,500SoHo",14500,,SoHo,,,https://newyork.craigslist.org/mnh/reb/d/new-york-its-an-artist-loft-its/7911153358.html
+"Architectural Beauty! DUPLEXED 1BR with Drama, Priced to Sell$1,900,000Flatiron",1900000,,Flatiron,1,,https://newyork.craigslist.org/mnh/reb/d/new-york-architectural-beauty-duplexed/7911153241.html
+"One of Kind 2 FAMILY w Industrial Vibes intact! Extra Wide and Skylit$4,000,000Cobble Hill",4000000,,Cobble Hill,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-one-of-kind-family-industrial/7911153120.html
+"Vacation Home/Air BnB/1-2 family housing/in home business/rental units$525,000Paradise (Lancaster), PA",525000,,"Paradise (Lancaster), PA",,,https://newyork.craigslist.org/mnh/reo/d/bart-vacation-home-air-bnb-2-family/7908047634.html
+"Garden Duplex coming MARCH- SO WORTH THE WAIT$8,000Brookyn Heights",8000,,Brookyn Heights,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-garden-duplex-coming-march-so/7911152517.html
+"LARGE 3 BEDROOMS 1 BATH$3,000forest hills",3000,,forest hills,3,1,https://newyork.craigslist.org/que/reo/d/forest-hills-large-bedrooms-bath/7907826712.html
+STORAGE FOR RENT HILLSIDE AVE$500RICHMOND HILLS,500,,RICHMOND HILLS,,,https://newyork.craigslist.org/que/reo/d/richmond-hill-storage-for-rent-hillside/7908964730.html
+"GREAT DEAL -Heart of Harlem$1,200,000Harlem / Morningside",1200000,,Harlem / Morningside,,,https://newyork.craigslist.org/mnh/reb/d/new-york-great-deal-heart-of-harlem/7910512049.html
+"LEGAL 4 FAMILY TURN KEY!! SELLER FINANCE OPTIONAL$1,800,000Harlem / Morningside",1800000,,Harlem / Morningside,,,https://newyork.craigslist.org/mnh/reb/d/new-york-legal-family-turn-key-seller/7906944467.html
+"FULL FLOOR, CLASSIC LOFT! 11' Ceilings,  Exposed Brick, The Works$2,250,000TriBeCa",2250000,,TriBeCa,,,https://newyork.craigslist.org/mnh/reb/d/new-york-full-floor-classic-loft-11/7911140673.html
+"Wonderful house for rent in Adirondack setting on babbling brook$8,500Eastchester/New Rochelle",8500,,Eastchester/New Rochelle,,,https://newyork.craigslist.org/wch/reo/d/new-rochelle-wonderful-house-for-rent/7910256900.html
+"Room for rent!! Great location/ Prime Astoria!$1,100Astoria",1100,,Astoria,,,https://newyork.craigslist.org/que/reb/d/astoria-room-for-rent-great-location/7908368026.html
+"Amazing Deal!The house is immaculate!$1,700,000Astoria",1700000,,Astoria,,,https://newyork.craigslist.org/que/reb/d/east-elmhurst-amazing-dealthe-house-is/7908124360.html
+"NEW EAST VILLAGE RETAIL AVAILABLE$5,400East Village",5400,,East Village,,,https://newyork.craigslist.org/mnh/reb/d/new-york-new-east-village-retail/7911137749.html
+"2ND FLOOR OFFICE / RETAIL FOR RENT!$5,000Murray Hill",5000,,Murray Hill,,,https://newyork.craigslist.org/mnh/reb/d/new-york-2nd-floor-office-retail-for/7911137683.html
+11% Cap Bronx$0bronx,0,,bronx,,,https://newyork.craigslist.org/brx/reo/d/bronx-11-cap-bronx/7909682408.html
+"2 bed rental great cap rate$155,000bronx",155000,,bronx,2,,https://newyork.craigslist.org/brx/reb/d/bronx-bed-rental-great-cap-rate/7909686857.html
+"Huge Luxury oasis on the Hudson River$3,688Yonkers",3688,,Yonkers,,,https://newyork.craigslist.org/wch/reb/d/yonkers-huge-luxury-oasis-on-the-hudson/7909849807.html
+"Huge Luxury oasis on the Hudson River$3,688Yonkers",3688,,Yonkers,,,https://newyork.craigslist.org/wch/reb/d/yonkers-huge-luxury-oasis-on-the-hudson/7909776922.html
+"large 1 br apt elevator building walk to park slope$2,100windsor terrace",2100,,windsor terrace,1,,https://newyork.craigslist.org/brk/reb/d/brooklyn-large-br-apt-elevator-building/7911287213.html
+"large 1br apt elevator building walk to park slope$2,061kensington / ditmes park",2061,,kensington / ditmes park,1,,https://newyork.craigslist.org/brk/reb/d/brooklyn-large-1br-apt-elevator/7911287179.html
+"For Sale 10,000 Sq Ft Commercial Building$400,000Nanticoke",400000,10000,Nanticoke,,,https://newyork.craigslist.org/que/reo/d/nanticoke-for-sale-sq-ft-commercial/7911284802.html
+Renovated open concept. Resort-style amenities.$0queens,0,,queens,,,https://newyork.craigslist.org/que/reb/d/bayside-renovated-open-concept-resort/7911267694.html
+"Beautiful Big Land for Sale (Ozone Park)$350,000queens",350000,,queens,,,https://newyork.craigslist.org/que/reo/d/ozone-park-beautiful-big-land-for-sale/7911267378.html
+Opportunity to sublet after two years of ownership.Windsor Oaks.$0queens,0,,queens,,,https://newyork.craigslist.org/que/reb/d/oakland-gardens-opportunity-to-sublet/7911266883.html
+Landlords: Do you have a vacant unit that you’re seeking to rent?$0Brooklyn,0,,Brooklyn,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-landlords-do-you-have-vacant/7910506656.html
+Landlords: Do you have a vacant unit that you’re seeking to rent?$0Manhattan,0,,Manhattan,,,https://newyork.craigslist.org/mnh/reb/d/new-york-landlords-do-you-have-vacant/7910508713.html
+"Leave while you still can !!!$1,375,000Upper West Side",1375000,,Upper West Side,,,https://newyork.craigslist.org/mnh/reb/d/littleton-leave-while-you-still-can/7906320871.html
+"Large 3 Family$1,250,000Gravesend",1250000,,Gravesend,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-large-family/7909561175.html
+"🔴🟢 Brick Duplex for sale. Great investment!$990,000MOTT HAVEN",990000,,MOTT HAVEN,,,https://newyork.craigslist.org/brx/reo/d/bronx-brick-duplex-for-sale-great/7911260435.html
+"🏡 TWO FAMILY INVESTMENT HOME - FSBO$990,000Middle Village",990000,,Middle Village,,,https://newyork.craigslist.org/que/reo/d/middle-village-two-family-investment/7905906546.html
+"3-5 apartments for rent (vouchers)$3,811bronx",3811,,bronx,,,https://newyork.craigslist.org/brx/reb/d/bronx-5-apartments-for-rent-vouchers/7906517306.html
+Apartments Wanted$0bronx,0,,bronx,,,https://newyork.craigslist.org/brx/reb/d/bronx-apartments-wanted/7908262357.html
+"City Fheps Vouchers (Bronx, NY)$0bronx",0,,bronx,,,https://newyork.craigslist.org/brx/reb/d/bronx-city-fheps-vouchers-bronx-ny/7908258941.html
+"huge one fam center hall for sale  32x100 lot great location $2.1$2,100,000Madison,  brooklyn",2100000,,"Madison,  brooklyn",,,https://newyork.craigslist.org/brk/reb/d/brooklyn-huge-one-fam-center-hall-for/7911259774.html
+"6 storefronts for sale fantastic Midwood location $5,800,000$5,800,000Avenue P",5800000,,Avenue P,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-storefronts-for-sale-fantastic/7907886049.html
+"Full Size Bed #OzonePark #ReadyNow #JFK$1,200Ozone Park",1200,,Ozone Park,,,https://newyork.craigslist.org/que/reo/d/ozone-park-full-size-bed-ozonepark/7911255857.html
+"Greenwich CT Townhouse 2 Bedrooms 4 Baths$1,500,000greenwich",1500000,,greenwich,2,4,https://newyork.craigslist.org/fct/reo/d/greenwich-greenwich-ct-townhouse/7906734093.html
+"Room Rental #TwinBed #OzonePark #ReadyNow$1,000Ozone Park / Howard Beach / Woodhaven / Crossbay",1000,,Ozone Park / Howard Beach / Woodhaven / Crossbay,,,https://newyork.craigslist.org/que/reb/d/ozone-park-room-rental-twinbed/7911254769.html
+"Clean, Room Rental #TwinBed #OzonePark #JFK$999Ozone Park / Howard Beach / Woodhaven / Crossbay",999,,Ozone Park / Howard Beach / Woodhaven / Crossbay,,,https://newyork.craigslist.org/que/reb/d/ozone-park-clean-room-rental-twinbed/7911254631.html
+"Ozone Park, Room Rental #TwinBed, Ready NOW !!$1,000Ozone Park / Howard Beach / Woodhaven / Crossbay",1000,,Ozone Park / Howard Beach / Woodhaven / Crossbay,,,https://newyork.craigslist.org/que/reb/d/ozone-park-ozone-park-room-rental/7911254484.html
+"Ozone Park, Room Rental #TwinBed$1,000Ozone Park / Howard Beach / Woodhaven / Crossbay",1000,,Ozone Park / Howard Beach / Woodhaven / Crossbay,,,https://newyork.craigslist.org/que/reb/d/ozone-park-ozone-park-room-rental/7911254347.html
+"🔴🟢 FSBO - 2 Family Brick Investment Property - LOW TAXES!$990,000BRONX",990000,,BRONX,,,https://newyork.craigslist.org/brx/reo/d/bronx-fsbo-family-brick-investment/7908510264.html
+"COMMERCIAL LAND, for SALE, RONKONKOMA$350,000long island",350000,,long island,,,https://newyork.craigslist.org/lgi/reo/d/ronkonkoma-commercial-land-for-sale/7910369327.html
+"260 COMMACK ROAD RETAIL FOOD ""PROPERTY & BUSINESS"" FOR SALE$0COMMACK",0,,COMMACK,,,https://newyork.craigslist.org/lgi/reo/d/commack-260-commack-road-retail-food/7910834418.html
+"AUTO REPAIR SHOP P & B FOR SALE at LONG ISLAND$1,500,000RONKONKOMA, NY",1500000,,"RONKONKOMA, NY",,,https://newyork.craigslist.org/que/reo/d/ronkonkoma-auto-repair-shop-for-sale-at/7910419827.html
+Grand 20-foot foyer. Spacious deck overlooking landscaped grounds.$0queens,0,,queens,,,https://newyork.craigslist.org/que/reb/d/little-neck-grand-20-foot-foyer/7911252951.html
+"Comfy Room #FullSizeBed #OzonePark #JFK$1,199Ozone Park",1199,,Ozone Park,,,https://newyork.craigslist.org/que/reb/d/ozone-park-comfy-room-fullsizebed/7911252485.html
+Gated community! Resort-style amenities and on-site conveniences$0queens,0,,queens,,,https://newyork.craigslist.org/que/reb/d/bayside-gated-community-resort-style/7911249058.html
+"🏡 New Construction Home - Move-In Ready! $274,990 (FLORIDA)$274,990Port Charlotte",274990,,Port Charlotte,,,https://newyork.craigslist.org/jsy/reb/d/port-charlotte-new-construction-home/7911248902.html
+"27-UNIT PRE-WAR MULTIFAMILY BUILDING FOR SALE$3,799,9952 BLOCKS FROM BRONX LEBANON HOSPITAL",3799995,,2 BLOCKS FROM BRONX LEBANON HOSPITAL,,,https://newyork.craigslist.org/brx/reo/d/bronx-27-unit-pre-war-multifamily/7907051384.html
+Updated detached home with a center island and hardwood floors$0queens,0,,queens,,,https://newyork.craigslist.org/que/reb/d/springfield-gardens-updated-detached/7911245768.html
+"2 Bedroom Apartment Available Near Ferry$2,000Staten Island",2000,,Staten Island,2,,https://newyork.craigslist.org/stn/reb/d/staten-island-bedroom-apartment/7911242991.html
+"Queens Hotel close to Airport$19,600,000New York",19600000,,New York,,,https://newyork.craigslist.org/que/reo/d/new-york-queens-hotel-close-to-airport/7911240867.html
+"727 Euclid Avenue$675,000Brooklyn. NY",675000,,Brooklyn. NY,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-727-euclid-avenue/7911240191.html
+"Unique mix-use property with garage$3,500,000New York",3500000,,New York,,,https://newyork.craigslist.org/mnh/reo/d/new-york-unique-mix-use-property-with/7911234733.html
+"387 Ashford Street$899,999Brooklyn. NY",899999,,Brooklyn. NY,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-387-ashford-street/7911236455.html
+"319 E 59th Street$655,000Brooklyn, NY",655000,,"Brooklyn, NY",,,https://newyork.craigslist.org/brk/reb/d/brooklyn-319-59th-street/7911235191.html
+"Grenada Caribbean get away$1,250Grenada",1250,,Grenada,,,https://newyork.craigslist.org/mnh/reo/d/new-york-grenada-caribbean-get-away/7911234795.html
+"Unique mix-use property with garage$3,500,000New York",3500000,,New York,,,https://newyork.craigslist.org/mnh/reo/d/new-york-unique-mix-use-property-with/7910267429.html
+"Manhattan hotel off market$40,000,000New York",40000000,,New York,,,https://newyork.craigslist.org/mnh/reo/d/new-york-manhattan-hotel-off-market/7910192294.html
+"30-UNIT PRE-WAR MULTIFAMILY BUILDING$5,500,000Bronx",5500000,,Bronx,,,https://newyork.craigslist.org/brx/reo/d/new-york-30-unit-pre-war-multifamily/7910147928.html
+"Semi detached 6 Fam in Queens$1,950,000New York",1950000,,New York,,,https://newyork.craigslist.org/que/reo/d/new-york-semi-detached-fam-in-queens/7909081666.html
+"Dream Wakefield 3 Bedroom$725,000Bronx",725000,,Bronx,3,,https://newyork.craigslist.org/brx/reo/d/new-york-dream-wakefield-bedroom/7909083069.html
+"For Sale: Off Market 67 Unit Mixed Use in 2 Contiguous Buildings$9,600,000Bronx",9600000,,Bronx,,,https://newyork.craigslist.org/brx/reo/d/new-york-for-sale-off-market-67-unit/7907347037.html
+"4 floor Parkside Brownstone$2,900,000New York",2900000,,New York,,,https://newyork.craigslist.org/mnh/reo/d/new-york-floor-parkside-brownstone/7907347231.html
+"Mixed Use development site for sale/Seller will hold paper$25,000,000New York",25000000,,New York,,,https://newyork.craigslist.org/mnh/reo/d/new-york-mixed-use-development-site-for/7907347144.html
+"11-UNIT PRE-WAR MULTIFAMILY$2,200,000New York",2200000,,New York,,,https://newyork.craigslist.org/brx/reo/d/new-york-11-unit-pre-war-multifamily/7906475193.html
+"66 Key hotel in LIC$25,000,000New York",25000000,,New York,,,https://newyork.craigslist.org/que/reo/d/new-york-66-key-hotel-in-lic/7907998712.html
+"Grand TH for sale** investor dream$2,600,000Harlem / Morningside",2600000,,Harlem / Morningside,,,https://newyork.craigslist.org/mnh/reo/d/new-york-city-grand-th-for-sale/7905120335.html
+"Stunning UES Prof Office$349,000New York",349000,,New York,,,https://newyork.craigslist.org/mnh/reo/d/new-york-stunning-ues-prof-office/7909688322.html
+"Commercial condo space , 22,000 sf$2,000,000New York",2000000,22000,New York,,,https://newyork.craigslist.org/mnh/reo/d/new-york-commercial-condo-space-sf/7907116035.html
+"Queens Hotel close to Airport$19,600,000New York",19600000,,New York,,,https://newyork.craigslist.org/que/reo/d/new-york-queens-hotel-close-to-airport/7906646424.html
+"Taco business in E Harlem 800sf, 900sf bsmt$240,000New York",240000,800,New York,,,https://newyork.craigslist.org/mnh/reo/d/new-york-taco-business-in-harlem-800sf/7910741174.html
+"E Village Storefront Duplex Condo$999,000New York",999000,,New York,,,https://newyork.craigslist.org/mnh/reo/d/new-york-village-storefront-duplex-condo/7908530724.html
+"6 Story Elevator Brick apt Bldg, 32 apts$16,000,000bronx",16000000,,bronx,,,https://newyork.craigslist.org/brx/reo/d/new-york-story-elevator-brick-apt-bldg/7910741222.html
+"Bronx Investment Property$4,700,000Bronx",4700000,,Bronx,,,https://newyork.craigslist.org/brx/reo/d/new-york-bronx-investment-property/7910741265.html
+"Amazing 48+ acres Minutes from Lake George$109,000Hague",109000,,Hague,,,https://newyork.craigslist.org/que/reo/d/hague-amazing-48-acres-minutes-from/7910519905.html
+"29 Garfield Place$1,699,999Roslyn Heights",1699999,,Roslyn Heights,,,https://newyork.craigslist.org/lgi/reb/d/roslyn-heights-29-garfield-place/7911229894.html
+"2BR 1,5 BATH, PARKING,SOLAR ,REDONE! BEST DEAL.BEST PRICE!$495,000Brooklyn   ( S.I)",495000,,Brooklyn   ( S.I,2,5,https://newyork.craigslist.org/brk/reb/d/staten-island-2br-15-bath-parkingsolar/7910756887.html
+"2 bedroom townhouse for sale! solar payoff! parking!$495,000Staten Island",495000,,Staten Island,2,,https://newyork.craigslist.org/brk/reb/d/staten-island-bedroom-townhouse-for/7909330880.html
+"2 bedroom townhouse for sale! solar payoff! parking!$495,000Staten Island",495000,,Staten Island,2,,https://newyork.craigslist.org/brk/reb/d/staten-island-bedroom-townhouse-for/7909329717.html
+"2 BR 1,5 BATH! TOWNHOUSE! 2 PARKING!SOLAR! REDONE!$495,000Staten Island/next to MALL,HIGHWAY.COLLEGE",495000,,"Staten Island/next to MALL,HIGHWAY.COLLEGE",2,5,https://newyork.craigslist.org/stn/reb/d/staten-island-br-15-bath-townhouse/7905967297.html
+"178-26 Zoller Road$775,000Jamaica, NY",775000,,"Jamaica, NY",,,https://newyork.craigslist.org/que/reb/d/jamaica-zoller-road/7911228611.html
+"5042 Kings Highway$749,999Brooklyn, NY",749999,,"Brooklyn, NY",,,https://newyork.craigslist.org/brk/reb/d/brooklyn-5042-kings-highway/7911227268.html
+"Renovated 4 bed/3 bath home for sale by owner$985,000Saint Albans",985000,,Saint Albans,4,3,https://newyork.craigslist.org/que/reo/d/saint-albans-renovated-bed-bath-home/7906751349.html
+"Fully renovated 4bed/3bath home for sale by owner$985,000Saint Albans",985000,,Saint Albans,4,3,https://newyork.craigslist.org/que/reo/d/saint-albans-fully-renovated-4bed-3bath/7906751235.html
+"109-46 174th Street$879,999Jamaica, NY",879999,,"Jamaica, NY",,,https://newyork.craigslist.org/que/reb/d/jamaica-th-street/7911225272.html
+"Renovated, spacious, and large backyard.$0queens",0,,queens,,,https://newyork.craigslist.org/que/reb/d/brooklyn-renovated-spacious-and-large/7911224264.html
+"Large 3 bedrooms in Astoria, near trains, shopping, highways and more$3,700Queens",3700,,Queens,3,,https://newyork.craigslist.org/que/reb/d/astoria-large-bedrooms-in-astoria-near/7911222059.html
+"109-46 174th Street$879,999Jamaica, NY",879999,,"Jamaica, NY",,,https://newyork.craigslist.org/que/reb/d/jamaica-th-street/7911220889.html
+APARTMENT REN-TALS$0NEW YORK,0,,NEW YORK,,,https://newyork.craigslist.org/que/reb/d/apartment-ren-tals/7906896296.html
+C0LLECTION SPECIALIST LOOKING TO WORK WITH PLUMBIMG COMPANIES$0MIDTOWN,0,,MIDTOWN,,,https://newyork.craigslist.org/que/reb/d/new-york-c0llection-specialist-looking/7906893254.html
+"STUDIO  APARTMENT  FOR RENT $1300$1,300JAMAICA /FULTON",1300,,JAMAICA /FULTON,,,https://newyork.craigslist.org/que/reb/d/woodhaven-studio-apartment-for-rent-1300/7906906196.html
+"STUDIO  APARTMENT  FOR RENT$1,300JAMAICA  AVENUE",1300,,JAMAICA  AVENUE,,,https://newyork.craigslist.org/que/reb/d/brooklyn-studio-apartment-for-rent/7906923334.html
+"STUDIO APARTMENT  FOR RENT$1,300FULTON",1300,,FULTON,,,https://newyork.craigslist.org/que/reb/d/woodhaven-studio-apartment-for-rent/7909876357.html
+"STUDIO APARTMENT  FOR RENT$1,300FULTON",1300,,FULTON,,,https://newyork.craigslist.org/que/reb/d/woodhaven-studio-apartment-for-rent/7909881635.html
+"STUDIO APARTMENT  FOR RENT$1,300FULTON",1300,,FULTON,,,https://newyork.craigslist.org/que/reb/d/woodhaven-studio-apartment-for-rent/7909899353.html
+"4 bedroom crazy deal immediately move , easy approval$3,800Brooklyn",3800,,Brooklyn,4,,https://newyork.craigslist.org/brk/reo/d/brooklyn-bedroom-crazy-deal-immediately/7909561439.html
+"Huge duplex 3 bed 3 bath 🛁$5,100Brooklyn",5100,,Brooklyn,3,3,https://newyork.craigslist.org/brk/reo/d/brooklyn-huge-duplex-bed-bath/7908733924.html
+"newly renovated two-bedroom apartment with an additional home office$2,750Brooklyn",2750,,Brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-newly-renovated-two-bedroom/7907568762.html
+"NO FEE | 2.5 BED / 1 BATH | RENOVATED$2,800Brooklyn",2800,,Brooklyn,5,1,https://newyork.craigslist.org/brk/reo/d/brooklyn-no-fee-25-bed-bath-renovated/7907567776.html
+"2 bedroom available- kitty not included$2,800Brooklyn",2800,,Brooklyn,2,,https://newyork.craigslist.org/brk/reo/d/brooklyn-bedroom-available-kitty-not/7910414903.html
+"Owner Financing Available - Amazing 48+ acres Minutes from Lake George$119,000Hague",119000,,Hague,,,https://newyork.craigslist.org/que/reo/d/hague-owner-financing-available-amazing/7910092904.html
+"Land of opportunity…affordable lease or purchase$999,999Major highway locations",999999,,Major highway locations,,,https://newyork.craigslist.org/jsy/reb/d/new-brunswick-land-of/7905664239.html
+"Industrial retail Lease//Sale//Build to suit$2,026Major highway",2026,,Major highway,,,https://newyork.craigslist.org/jsy/reb/d/lawrence-township-industrial-retail/7905483422.html
+Data center Land of opportunity$1Major highway locations,1,,Major highway locations,,,https://newyork.craigslist.org/jsy/reb/d/new-brunswick-data-center-land-of/7905453773.html
+"2 bedrooms College point$3,029Bronx",3029,,Bronx,2,,https://newyork.craigslist.org/brx/reo/d/mount-vernon-bedrooms-college-point/7911215139.html
+"Prime Investment Opportunity: Renovated 6-Family Brick Building in Gle$1,300,000Glendale",1300000,,Glendale,,,https://newyork.craigslist.org/que/reb/d/ridgewood-prime-investment-opportunity/7909287315.html
+"Prime Mixed-Use Property in Middle Village - A Rare Investment$2,400,000Middle Village",2400000,,Middle Village,,,https://newyork.craigslist.org/que/reb/d/middle-village-prime-mixed-use-property/7906673179.html
+GREENPOINT! Carpe Diem! FSBO! New Owner and R6B Opportunity!$0brooklyn,0,,brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-greenpoint-carpe-diem-fsbo-new/7910086804.html
+FSBO in Hottest Neighborhood in all of NYC - R6B Zoning$0Greenpoint Brooklyn,0,,Greenpoint Brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-fsbo-in-hottest-neighborhood/7905220856.html
+R6B Zoning - FSBO in Hottest Neighborhood in all of NYC$0Greenpoint Brooklyn,0,,Greenpoint Brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-r6b-zoning-fsbo-in-hottest/7907061499.html
+Your Canvas - R6B Zoning - FSBO in GREENPOINT! HOT HOT HOT$0Greenpoint Brooklyn,0,,Greenpoint Brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-your-canvas-r6b-zoning-fsbo-in/7908999725.html
+North Brooklyn! Carpe Diem! FSBO! New Owner and R6B Opportunity!$0Greenpoint,0,,Greenpoint,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-north-brooklyn-carpe-diem-fsbo/7910289610.html
+FSBO! Create your own Paradise with over 4500 sq ft!$0brooklyn,0,4500,brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-fsbo-create-your-own-paradise/7907420683.html
+Carpe Diem! FSBO! New Owner and R6B Opportunity!$0brooklyn,0,,brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-carpe-diem-fsbo-new-owner-and/7910289820.html
+Over 4500 Sq Ft Quadplex for Development in Greenpoint! R6B Zoning$0brooklyn,0,4500,brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-over-4500-sq-ft-quadplex-for/7910086976.html
+GREENPOINT! R6B Zoning - FSBO in Hottest Neighborhood in all of NYC$0Greenpoint Brooklyn,0,,Greenpoint Brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-greenpoint-r6b-zoning-fsbo-in/7910086919.html
+GREENPOINT! R6B Zoning - FSBO in BEST Neighborhood in all of NYC$0Greenpoint Brooklyn,0,,Greenpoint Brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-greenpoint-r6b-zoning-fsbo-in/7907718157.html
+Over 4500 Sq Feet Available for New Owner to develop in Greenpoint!$0brooklyn,0,,brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-over-4500-sq-feet-available/7908094932.html
+GREENPOINT! FSBO! Create your own Paradise with over 4500 sq ft!$0brooklyn,0,4500,brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-greenpoint-fsbo-create-your/7906839372.html
+Your Canvas - R6B Zoning - FSBO in GREENPOINT! HOT HOT HOT$0brooklyn,0,,brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-your-canvas-r6b-zoning-fsbo-in/7910086865.html
+"GORGEOUS 3 BEDROOM BI-LEVEL ALL NEW RENOVATED-2 FULL LEGAL KITCHENS$500,00065 MIN TRAIN RIDE FROM NYC",500000,,65 MIN TRAIN RIDE FROM NYC,3,,https://newyork.craigslist.org/mnh/reb/d/marlboro-gorgeous-bedroom-bi-level-all/7908240355.html
+"GORGEOUS 3 BEDROOM BI-LEVEL ALL NEW RENOVATED-2 FULL LEGAL KITCHENS$500,000MARLBORO-1 HOUR DRIVE FROM UPPER BRONX",500000,,MARLBORO-1 HOUR DRIVE FROM UPPER BRONX,3,,https://newyork.craigslist.org/brx/reb/d/marlboro-gorgeous-bedroom-bi-level-all/7906589003.html
+"GORGEOUS 3 BEDROOM BI-LEVEL ALL NEW RENOVATED-2 FULL LEGAL KITCHENS$500,000MARLBORO, NY-BY OWNER-ALSO AGENT OWNED",500000,,"MARLBORO, NY-BY OWNER-ALSO AGENT OWNED",3,,https://newyork.craigslist.org/wch/reb/d/marlboro-gorgeous-bedroom-bi-level-all/7908016007.html
+"Prime Development Opportunity - 11,905 Sq Ft$3,000,000Brooklyn",3000000,11905,Brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-prime-development-opportunity/7909455785.html
+"Prime Development Opportunity - 11,905 Sq Ft$3,000,000Brooklyn",3000000,11905,Brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-prime-development-opportunity/7909455818.html
+"Prime Vacant Lot for Sale - 17,600 Sq Ft Buildable - Ocean Ave, Brookl$4,250,000Brooklyn",4250000,17600,Brooklyn,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-prime-vacant-lot-for-sale-sq/7911200399.html
+"Apartment for Rent$2,800Flushing",2800,,Flushing,,,https://newyork.craigslist.org/que/reb/d/flushing-apartment-for-rent/7911196260.html
+Douglaston Home For Sale$0Douglaston,0,,Douglaston,,,https://newyork.craigslist.org/que/reo/d/little-neck-douglaston-home-for-sale/7906723081.html
+"Douglaston Co-op For Sale  2 Bed, 1 Bath  Wellesley Gardens$0Douglaston",0,,Douglaston,2,1,https://newyork.craigslist.org/que/reo/d/little-neck-douglaston-co-op-for-sale/7906719542.html
+"INVESTORS - Strong Cash Flow – Newly Renovated 3/2 Turnkey & Occupied$145,000brooklyn",145000,,brooklyn,,,https://newyork.craigslist.org/brk/reo/d/baltimore-investors-strong-cash-flow/7907305811.html
+"Studio for rent$1,400staten island",1400,,staten island,,,https://newyork.craigslist.org/stn/reo/d/staten-island-studio-for-rent/7911190335.html
+"Awesome meticulously maintained Richmond Town colonial home!!!$748,000Richmond Town",748000,,Richmond Town,,,https://newyork.craigslist.org/stn/reb/d/staten-island-awesome-meticulously/7905110535.html
+"Wonderful Port Richmond location, Convenient to transportation...$599,900STATEN ISLAND",599900,,STATEN ISLAND,,,https://newyork.craigslist.org/stn/reb/d/staten-island-wonderful-port-richmond/7905110365.html
+"This affordable gem is ideal for investors seeking a solid return!!$349,900Staten Island",349900,,Staten Island,,,https://newyork.craigslist.org/stn/reb/d/staten-island-this-affordable-gem-is/7905110493.html
+"Charming and spacious two-family end-unit townhouse!!!$629,900Staten Island",629900,,Staten Island,,,https://newyork.craigslist.org/stn/reb/d/staten-island-charming-and-spacious-two/7910614996.html
+"2 family house used as a one family with private garage$1,750,000Bay Ridge",1750000,,Bay Ridge,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-family-house-used-as-one/7907147944.html
+"Discover this meticulously updated, expansive Two-Family residence!!$750,000Graniteville",750000,,Graniteville,,,https://newyork.craigslist.org/stn/reb/d/staten-island-discover-this/7905110441.html
+"Lovely fully detached colonial style home, in the heart of Westerleigh$599,999Westerleigh",599999,,Westerleigh,,,https://newyork.craigslist.org/stn/reb/d/staten-island-lovely-fully-detached/7905110757.html
+"Oversized 3 bedrooms, 3 baths, beautiful engineered hardwood floors!!$489,900Staten Island",489900,,Staten Island,3,3,https://newyork.craigslist.org/stn/reb/d/staten-island-oversized-bedrooms-baths/7910615094.html
+"The uniquely customized single-family home you have been waiting for!$479,900Staten Island",479900,,Staten Island,,,https://newyork.craigslist.org/stn/reb/d/staten-island-the-uniquely-customized/7905110411.html
+Williamsburg$0Northside,0,,Northside,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-williamsburg/7907151301.html
+"THE HOLIDAY INN HOTEL IN LONG ISLAND CITY, NY FOR SALE$65,000,000LONG ISLAND CITY, NY",65000000,,"LONG ISLAND CITY, NY",,,https://newyork.craigslist.org/que/reb/d/long-island-city-the-holiday-inn-hotel/7905104719.html
+"CHARMING 2 BEDROOM SIDE HALL COLONIAL WITH PARKLIKE BACKYARD!!!$427,040Staten Island",427040,,Staten Island,2,,https://newyork.craigslist.org/stn/reb/d/staten-island-charming-bedroom-side/7905110791.html
+"Well-Maintained home! Perfect for 1st time buyers. Nice-sized bedrooms$549,900STATEN ISLAND",549900,,STATEN ISLAND,,,https://newyork.craigslist.org/stn/reb/d/staten-island-well-maintained-home/7905110623.html
+"PRICED RIGHT! Great starter home for 1st time homeowner, needs tlc.$499,900Staten Island",499900,,Staten Island,,,https://newyork.craigslist.org/stn/reb/d/staten-island-priced-right-great/7905110573.html
+"Large 3 Bedroom/2 Bathroom Fleetwood Mt Vernon Apartment$3,500Fleetwood",3500,,Fleetwood,3,2,https://newyork.craigslist.org/wch/reo/d/mount-vernon-large-bedroom-bathroom/7906785027.html
+"Apartment Rentals.$2,400Yonkers",2400,,Yonkers,,,https://newyork.craigslist.org/wch/reo/d/yonkers-apartment-rentals/7906293364.html
+"Bright 2 Bedroom 1 Bath - /Laundry .w148. ONLY $2825$2,825Harlem / Morningside",2825,,Harlem / Morningside,2,1,https://newyork.craigslist.org/mnh/reo/d/new-york-bright-bedroom-bath-laundry/7909804938.html
+"Wonderful 1 bedroom for sale , like a CONDO$229,000Midwood",229000,,Midwood,1,,https://newyork.craigslist.org/brk/reb/d/brooklyn-wonderful-bedroom-for-sale/7909760076.html
+"Real 2 Bedroom , 1 Bath - 2nd floor only $2850 !!$2,850Harlem / Morningside",2850,,Harlem / Morningside,2,1,https://newyork.craigslist.org/mnh/reo/d/new-york-real-bedroom-bath-2nd-floor/7909760722.html
+"Basement 1 bedroom+ private house - 2, 5 trains !$1,795Avenue J and E 32nd st",1795,,Avenue J and E 32nd st,1,,https://newyork.craigslist.org/brk/reo/d/brooklyn-basement-bedroom-private-house/7909804711.html
+"Sunny private studio in Brighton beach. laundry NO FEE$1,775Brighton 14th Street",1775,,Brighton 14th Street,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-sunny-private-studio-in/7908187421.html
+"Basement 1 bedroom+ private house - 2, 5 trains !$1,795Avenue J and E 32nd st",1795,,Avenue J and E 32nd st,1,,https://newyork.craigslist.org/brk/reo/d/brooklyn-basement-bedroom-private-house/7908187086.html
+"Large studio in Brighton beach+ laundry ONLY $1695$1,695Brighton 14th Street",1695,,Brighton 14th Street,,,https://newyork.craigslist.org/brk/reo/d/brooklyn-large-studio-in-brighton-beach/7909759969.html
+"BEST WESTERN BOWERY HOTEL$80,000,000Chinatown / Lit Italy",80000000,,Chinatown / Lit Italy,,,https://newyork.craigslist.org/mnh/reb/d/new-york-best-western-bowery-hotel/7905104777.html
+"Apartment Rentals.  2 - 3. Bedroom$1,900NE Yonkers",1900,,NE Yonkers,,,https://newyork.craigslist.org/wch/reo/d/yonkers-apartment-rentals-bedroom/7911174836.html
+"OFF MARKET HOTELS, RESORTS, APARTMENT COMPLEXES AVAILABLE FOR SALE$1,000,000Downtown",1000000,,Downtown,,,https://newyork.craigslist.org/mnh/reb/d/new-york-off-market-hotels-resorts/7905104822.html
+"Apt/House Rentals. Affordable$1,900Yonkers",1900,,Yonkers,,,https://newyork.craigslist.org/wch/reo/d/yonkers-apt-house-rentals-affordable/7911174150.html
+"Arden Heights entire house for rent 3 bedroom$3,500South Shore Annandale",3500,,South Shore Annandale,3,,https://newyork.craigslist.org/stn/reo/d/staten-island-arden-heights-entire/7908027798.html
+"Arden Heights entire house for rent 3 bedroom$3,500Staten Island",3500,,Staten Island,3,,https://newyork.craigslist.org/stn/reo/d/staten-island-arden-heights-entire/7908026812.html
+"Arden Heights entire house for rent 3 bedroom$3,500Staten Island",3500,,Staten Island,3,,https://newyork.craigslist.org/stn/reo/d/staten-island-arden-heights-entire/7908025748.html
+"Park Block Beauty! TRIPLEX, SKYLIT, 4BR, best of brownstone life$2,400,000Upper West Side",2400000,,Upper West Side,4,,https://newyork.craigslist.org/mnh/reb/d/new-york-park-block-beauty-triplex/7907158364.html
+"Perfection on Prince! TRIPLEX LOFT PH with 1000 SF PRIVATE ROOFDECK$21,999SoHo",21999,1000,SoHo,,,https://newyork.craigslist.org/mnh/reb/d/new-york-perfection-on-prince-triplex/7906242801.html
+"Can you wait til March?? LOFTY FIND with 3BR coming soon$6,495Williamsburg",6495,,Williamsburg,3,,https://newyork.craigslist.org/brk/reb/d/brooklyn-can-you-wait-til-march-lofty/7910337147.html
+"LUXE LOFT-Rent it FURNISHED OR UNFURNISHED!$9,500Red Hook",9500,,Red Hook,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-luxe-loft-rent-it-furnished-or/7907527791.html
+"Best 2BR Deal around! Gracious, Elegant, and amazingly Priced$925,000Gramercy",925000,,Gramercy,2,,https://newyork.craigslist.org/mnh/reb/d/new-york-best-2br-deal-around-gracious/7909894298.html
+"It's a loft, It's a Condo, It' s a WINNER. 1800SF, 2BR/2BA$2,850,000Greenwich Village",2850000,1800,Greenwich Village,2,2,https://newyork.craigslist.org/mnh/reb/d/new-york-its-loft-its-condo-it-a-winner/7910338623.html
+"Unreal Deal! Lofty 3BR in NOMAD priced below where you'd think$1,295,000Flatiron",1295000,,Flatiron,3,,https://newyork.craigslist.org/mnh/reb/d/new-york-unreal-deal-lofty-3br-in-nomad/7909906863.html
+"Authentic Live/Work LOFT- Reno Opportunity for this wonderful PH LOFT$1,995,000SoHo",1995000,,SoHo,,,https://newyork.craigslist.org/mnh/reb/d/new-york-authentic-live-work-loft-reno/7909906597.html
+"The ESSENCE of Loft Life in Tribeca! Floor thru, 2000SF, FIND of FINDs$3,650,000TriBeCa",3650000,2000,TriBeCa,,,https://newyork.craigslist.org/mnh/reb/d/new-york-the-essence-of-loft-life-in/7909906762.html
+"2700SF Sprawling LOFT in the HEART of Tribeca! Spread out and Relax!$14,950TriBeCa",14950,2700,TriBeCa,,,https://newyork.craigslist.org/mnh/reb/d/new-york-2700sf-sprawling-loft-in-the/7906241639.html
+"Stunning LOFT PH to OWN or to RENT! It's  your call.$10,999Chelsea",10999,,Chelsea,,,https://newyork.craigslist.org/mnh/reb/d/new-york-stunning-loft-ph-to-own-or-to/7906249417.html
+"Direct Park Views and ON CPW too! Unique, Tudor-Style Co-op$1,395,000Upper West Side",1395000,,Upper West Side,,,https://newyork.craigslist.org/mnh/reb/d/new-york-direct-park-views-and-on-cpw/7906260751.html
+"Walkup to your Urban Loft Oasis! Coming for FEBRUARY START$9,000TriBeCa",9000,,TriBeCa,,,https://newyork.craigslist.org/mnh/reb/d/new-york-walkup-to-your-urban-loft/7906258131.html
+"3800SF, FIVE BR MAJESTY!  Once in a blue moon chance to RENT THIS$45,999Greenwich Village",45999,3800,Greenwich Village,,,https://newyork.craigslist.org/mnh/reb/d/new-york-3800sf-five-br-majesty-once-in/7906632890.html
+"LOFTY SURPRISE in NOHO- MASSIVE and RENTABLE$8,900East Village",8900,,East Village,,,https://newyork.craigslist.org/mnh/reb/d/new-york-lofty-surprise-in-noho-massive/7909021353.html
+"Impeccably Renovated 3BR Move in Ready!! The Best of Carnegie Hill$1,650,000Upper East Side",1650000,,Upper East Side,3,,https://newyork.craigslist.org/mnh/reb/d/new-york-impeccably-renovated-3br-move/7909024764.html
+"1000SF Convertible 2BR for UNDER $800K? Yes, Indeed!$775,000Upper East Side",775000,1000,Upper East Side,2,,https://newyork.craigslist.org/mnh/reb/d/new-york-1000sf-convertible-2br-for/7907531216.html
+"Bring that Architect and Create your Dream! Classic, Prewar 2BR Gem$975,000Greenwich Village",975000,,Greenwich Village,2,,https://newyork.craigslist.org/mnh/reb/d/new-york-bring-that-architect-and/7907119008.html
+"GRAND and CLASSIC on Park Avenue! Create your DREAM 4BR$2,995,000Upper East Side",2995000,,Upper East Side,4,,https://newyork.craigslist.org/mnh/reb/d/new-york-grand-and-classic-on-park/7909023502.html
+"Breathtaking DUPLEX in Classic TH just off FIFTH AVENUE! One of a Kind$38,000Upper East Side",38000,,Upper East Side,,,https://newyork.craigslist.org/mnh/reo/d/new-york-breathtaking-duplex-in-classic/7907133093.html
+"Extraordinary CLASSIC 6 Elegance right on Central Park West!  WOW$3,250,000Upper West Side",3250000,,Upper West Side,,,https://newyork.craigslist.org/mnh/reb/d/new-york-extraordinary-classic-elegance/7906632977.html
+"NOW redone, OWN THIS OPEN PREWAR LOFT in a LOFT BLDG$1,650,000TriBeCa",1650000,,TriBeCa,,,https://newyork.craigslist.org/mnh/reb/d/new-york-now-redone-own-this-open/7907158602.html
+"One of a Kind LOFT w/15' Ceilings!!! Gothic Charm and Character$895,000Clinton Hill",895000,,Clinton Hill,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-one-of-kind-loft-15-ceilings/7907535282.html
+"One of the coolest lofts in Flatiron! 11' Barrel Ceilinged 1BR Beauty$1,515,000Flatiron",1515000,,Flatiron,1,,https://newyork.craigslist.org/mnh/reb/d/new-york-one-of-the-coolest-lofts-in/7908408480.html
+"Mixed Use Bldg for SALE! Keep as is or CONVERT TO RESIDENTIAL-INVEST!!$4,600,000TriBeCa",4600000,,TriBeCa,,,https://newyork.craigslist.org/mnh/reb/d/new-york-mixed-use-bldg-for-sale-keep/7907158447.html
+"No Cookie Cutter here! Lovely, Prewar 2BR/2BA find coming FEBRUARY$9,500Chelsea",9500,,Chelsea,2,2,https://newyork.craigslist.org/mnh/reb/d/new-york-no-cookie-cutter-here-lovely/7907129596.html
+"PREWAR Majesty! PH unlike any other, with massive Outdoors too$17,999TriBeCa",17999,,TriBeCa,,,https://newyork.craigslist.org/mnh/reb/d/new-york-prewar-majesty-ph-unlike-any/7908431080.html
+"Drama! Space! Duplex PH plus outdoors in Classic BROWNSTONE$12,750Upper West Side",12750,,Upper West Side,,,https://newyork.craigslist.org/mnh/reb/d/new-york-drama-space-duplex-ph-plus/7907529863.html
+"Lofts under $7K? They DO exist- Once in a While$6,950Flatiron",6950,,Flatiron,,,https://newyork.craigslist.org/mnh/reb/d/new-york-lofts-under-7k-they-do-exist/7910335575.html
+"LOFT STUDIO for Sale! Best of Bleecker for Way Less$850,000Greenwich Village",850000,,Greenwich Village,,,https://newyork.craigslist.org/mnh/reb/d/new-york-loft-studio-for-sale-best-of/7909870443.html
+"Southwest CORNER Prewar LOFT!  Convertible to a 3BR if you need$2,850,000Nolita / Bowery",2850000,,Nolita / Bowery,3,,https://newyork.craigslist.org/mnh/reb/d/new-york-southwest-corner-prewar-loft/7909871936.html
+"Come to KIPS BAY for unlimited potential in a 2 Family TH$3,750,000Gramercy",3750000,,Gramercy,,,https://newyork.craigslist.org/mnh/reb/d/new-york-come-to-kips-bay-for-unlimited/7909872028.html
+"TOWNHOUSE TIME- Turnkey and Special$2,600,000Park Slope",2600000,,Park Slope,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-townhouse-time-turnkey-and/7909876091.html
+"WOW! TH living off Park Ave- 3BR DUPLEX - Dare to Compare!$12,000Upper East Side",12000,,Upper East Side,3,,https://newyork.craigslist.org/mnh/reb/d/new-york-wow-th-living-off-park-ave-3br/7909871839.html
+"Historic, Loft you can OWN! And it's a CONDO too$1,100,000Bed Stuy",1100000,,Bed Stuy,000,,https://newyork.craigslist.org/brk/reb/d/brooklyn-historic-loft-you-can-own-and/7906262929.html
+"3 FAMILY BROWNSTONE with Development Potential too! UNUSED FAR.$6,495,000Upper West Side",6495000,,Upper West Side,,,https://newyork.craigslist.org/mnh/reb/d/new-york-family-brownstone-with/7907120381.html
+"4BR 2BA WHOLE HOUSE rental$4,000Far Rockaway",4000,,Far Rockaway,4,2,https://newyork.craigslist.org/que/reo/d/far-rockaway-4br-2ba-whole-house-rental/7907199435.html
+"Medical or Professional Office for Sale$1,295,000Bronxville, NY",1295000,,"Bronxville, NY",,,https://newyork.craigslist.org/wch/reb/d/bronxville-medical-or-professional/7906554321.html
+"Building Sale-Or Lease*Vacant*3 Floors+Lower Level*W181$9,500,000Inwood / Wash Hts",9500000,,Inwood / Wash Hts,,,https://newyork.craigslist.org/mnh/reb/d/new-york-building-sale-or-leasevacant3/7909548593.html
+"Warehouse*Developement*Investment Property*Parking*Can Deliver Vacant$10,900,000Scholes St, Williamsburg, Brooklyn",10900000,,"Scholes St, Williamsburg, Brooklyn",,,https://newyork.craigslist.org/brk/reb/d/brooklyn/7909548387.html
+"Retail*Store*Discount*Basement*Lots Of Foot Traffic*10th Ave*W50th St$6,995Midtown West",6995,,Midtown West,,,https://newyork.craigslist.org/mnh/reb/d/new-york/7905505395.html
+rEADY FOR YOU ROOM FOR RENT IN THER BRONX$300bronx,300,,bronx,,,https://newyork.craigslist.org/brx/reo/d/bronx-ready-for-you-room-for-rent-in/7911165014.html
+"3BR PREWAR CONDO and NOW you can RENT IT!$9,800Upper West Side",9800,,Upper West Side,3,,https://newyork.craigslist.org/mnh/reb/d/new-york-3br-prewar-condo-and-now-you/7911168766.html
+"Oasis In Chelsea: Mix-Use duplex with Private Roof Deck Plus Air Right$3,200,000Chelsea",3200000,,Chelsea,,,https://newyork.craigslist.org/mnh/reb/d/new-york-oasis-in-chelsea-mix-use/7911162827.html
+"***Large 3 Bedroom North Riverdale***$3,800Bronx",3800,,Bronx,3,,https://newyork.craigslist.org/brx/reb/d/bronx-large-bedroom-north-riverdale/7911167574.html
+"Huge Luxury oasis on the Hudson River$3,888Yonkers",3888,,Yonkers,,,https://newyork.craigslist.org/wch/reb/d/yonkers-huge-luxury-oasis-on-the-hudson/7911165682.html
+"***Spacious Sun-Filled 2 Bedroom near Husdson River***$2,500Glenwood Avenue",2500,,Glenwood Avenue,2,,https://newyork.craigslist.org/wch/reb/d/yonkers-spacious-sun-filled-bedroom/7911165530.html
+"Water front property with two homes$1,200,000manhattan",1200000,,manhattan,,,https://newyork.craigslist.org/mnh/reo/d/jacksonville-water-front-property-with/7909705203.html
+"BRING THE CONTRACTOR! Already Gutted and ready to REDO$3,500,000Park Slope",3500000,,Park Slope,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-bring-the-contractor-already/7911157720.html
+"Historic LOFT w/Modern Comfort! And it's a 3BR And it's a CONDO$15,999TriBeCa",15999,,TriBeCa,3,,https://newyork.craigslist.org/mnh/reb/d/new-york-historic-loft-modern-comfort/7911157484.html
+"Step off keyed elevator to your 2100SF LOFT!$2,800,000TriBeCa",2800000,2100,TriBeCa,,,https://newyork.craigslist.org/mnh/reb/d/new-york-step-off-keyed-elevator-to/7911157381.html
+"Motivated Owner lowers ASK! Prewar CHARM but Modernized$1,699,000Cobble Hill",1699000,,Cobble Hill,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-motivated-owner-lowers-ask/7911156587.html
+"Its an Artist Loft. Its Furnished. Its in Soho. Its FLEXIBLE LEASE$14,500SoHo",14500,,SoHo,,,https://newyork.craigslist.org/mnh/reb/d/new-york-its-an-artist-loft-its/7911153358.html
+"Architectural Beauty! DUPLEXED 1BR with Drama, Priced to Sell$1,900,000Flatiron",1900000,,Flatiron,1,,https://newyork.craigslist.org/mnh/reb/d/new-york-architectural-beauty-duplexed/7911153241.html
+"One of Kind 2 FAMILY w Industrial Vibes intact! Extra Wide and Skylit$4,000,000Cobble Hill",4000000,,Cobble Hill,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-one-of-kind-family-industrial/7911153120.html
+"Vacation Home/Air BnB/1-2 family housing/in home business/rental units$525,000Paradise (Lancaster), PA",525000,,"Paradise (Lancaster), PA",,,https://newyork.craigslist.org/mnh/reo/d/bart-vacation-home-air-bnb-2-family/7908047634.html
+"Garden Duplex coming MARCH- SO WORTH THE WAIT$8,000Brookyn Heights",8000,,Brookyn Heights,,,https://newyork.craigslist.org/brk/reb/d/brooklyn-garden-duplex-coming-march-so/7911152517.html
+"LARGE 3 BEDROOMS 1 BATH$3,000forest hills",3000,,forest hills,3,1,https://newyork.craigslist.org/que/reo/d/forest-hills-large-bedrooms-bath/7907826712.html
+STORAGE FOR RENT HILLSIDE AVE$500RICHMOND HILLS,500,,RICHMOND HILLS,,,https://newyork.craigslist.org/que/reo/d/richmond-hill-storage-for-rent-hillside/7908964730.html
+"GREAT DEAL -Heart of Harlem$1,200,000Harlem / Morningside",1200000,,Harlem / Morningside,,,https://newyork.craigslist.org/mnh/reb/d/new-york-great-deal-heart-of-harlem/7910512049.html
+"LEGAL 4 FAMILY TURN KEY!! SELLER FINANCE OPTIONAL$1,800,000Harlem / Morningside",1800000,,Harlem / Morningside,,,https://newyork.craigslist.org/mnh/reb/d/new-york-legal-family-turn-key-seller/7906944467.html
+"FULL FLOOR, CLASSIC LOFT! 11' Ceilings,  Exposed Brick, The Works$2,250,000TriBeCa",2250000,,TriBeCa,,,https://newyork.craigslist.org/mnh/reb/d/new-york-full-floor-classic-loft-11/7911140673.html
+"Wonderful house for rent in Adirondack setting on babbling brook$8,500Eastchester/New Rochelle",8500,,Eastchester/New Rochelle,,,https://newyork.craigslist.org/wch/reo/d/new-rochelle-wonderful-house-for-rent/7910256900.html
+"Room for rent!! Great location/ Prime Astoria!$1,100Astoria",1100,,Astoria,,,https://newyork.craigslist.org/que/reb/d/astoria-room-for-rent-great-location/7908368026.html
+"Amazing Deal!The house is immaculate!$1,700,000Astoria",1700000,,Astoria,,,https://newyork.craigslist.org/que/reb/d/east-elmhurst-amazing-dealthe-house-is/7908124360.html
+"NEW EAST VILLAGE RETAIL AVAILABLE$5,400East Village",5400,,East Village,,,https://newyork.craigslist.org/mnh/reb/d/new-york-new-east-village-retail/7911137749.html
+"2ND FLOOR OFFICE / RETAIL FOR RENT!$5,000Murray Hill",5000,,Murray Hill,,,https://newyork.craigslist.org/mnh/reb/d/new-york-2nd-floor-office-retail-for/7911137683.html
+11% Cap Bronx$0bronx,0,,bronx,,,https://newyork.craigslist.org/brx/reo/d/bronx-11-cap-bronx/7909682408.html
+"2 bed rental great cap rate$155,000bronx",155000,,bronx,2,,https://newyork.craigslist.org/brx/reb/d/bronx-bed-rental-great-cap-rate/7909686857.html
+"Huge Luxury oasis on the Hudson River$3,688Yonkers",3688,,Yonkers,,,https://newyork.craigslist.org/wch/reb/d/yonkers-huge-luxury-oasis-on-the-hudson/7909849807.html
+"Huge Luxury oasis on the Hudson River$3,688Yonkers",3688,,Yonkers,,,https://newyork.craigslist.org/wch/reb/d/yonkers-huge-luxury-oasis-on-the-hudson/7909776922.html
