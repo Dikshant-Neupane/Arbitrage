@@ -50,29 +50,30 @@ That is it. Results go into the database.
    ## Repository Layout
 
    ```
-   main.py                  # Orchestrates the full pipeline
-   requirements.txt         # Project dependencies
-   wrok_done.txt           # Progress log / changelog
+   main.py                      # Orchestrates the full pipeline (scrape → clean → DB → analyze)
+   README.md                    # Project documentation
+   requirements.txt             # Pinned Python dependencies
+   wrok_done.txt                # Progress notes / changelog
 
    config/
-      db_config.py          # SQLite database path configuration
+     db_config.py               # SQLite path (DB_PATH)
 
    data/
-      raw/
-         raw_properties.csv  # Scraped listings (as-is)
-      cleaned/
-         cleaned_properties.csv  # Cleaned listings (ready for analysis)
+     raw/
+       raw_properties.csv       # Scraped listings (as-is)
+     cleaned/
+       cleaned_properties.csv   # Cleaned listings with metrics
 
    modules/
-      scraper.py            # Scrapes listings (price, sqft, beds, baths, location, URL)
-      cleaner.py            # Cleans, dedupes, categorizes, computes metrics & flags undervalued
-      database.py           # Persists cleaned data into SQLite
-      analyzer.py           # Loads DB, runs analysis, saves arbitrage opportunities
+     scraper.py                 # Scrapes Craigslist NY (price, sqft, beds, baths, location, URL)
+     cleaner.py                 # Cleans & filters (dedupe, rentals, types, price_per_sqft, undervalued)
+     database.py                # Writes cleaned data to SQLite (`properties` table)
+     analyzer.py                # Loads DB, runs analysis, saves `arbitrage_opportunities`
 
    scripts/
-      run_scraper.py        # Optional: run only the scraper
-      run_cleaner.py        # Optional: run only the cleaner
-      run_db_updates.py     # Optional: run only DB updates
+     run_scraper.py             # Run only scraper
+     run_cleaner.py             # Run only cleaner
+     run_db_updates.py          # Run only DB updates
    ```
 
    ## Setup
@@ -185,6 +186,6 @@ That is it. Results go into the database.
    For educational and research purposes.
 
    ## Author
-   Built to learn and apply Python, data engineering, and real estate analytics.
+  Dikshant Neupane 
 
 
