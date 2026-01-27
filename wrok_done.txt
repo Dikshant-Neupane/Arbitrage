@@ -62,17 +62,23 @@ SQLite Database (data/properties.db)
 
 | Module | Responsibility |
 |------|---------------|
-| `scraper.py` | Scrapes data from a website and saves raw CSV |
-| `cleaner.py` | Cleans data and calculates price per square foot |
+| `scraper.py` | Scrapes data from Craigslist and saves raw CSV. Extracts price, sqft, bedrooms, bathrooms from titles. |
+| `cleaner.py` | Cleans data, filters out rentals/spam, calculates price per sqft, categorizes property types |
 | `database.py` | Stores cleaned data into SQLite database |
+| `analyzer.py` | Detects undervalued properties and saves arbitrage opportunities |
 | `main.py` | Runs the entire pipeline in one command |
 
 ---
 
 ## Current Capabilities
 
-- Automated scraping  
-- Automated data cleaning  
+- Automated scraping from Craigslist real estate  
+- Smart extraction of sqft/bedrooms/bathrooms from listing titles
+- Rental filtering (removes monthly rentals, keeps only sales)
+- Automated data cleaning and deduplication
+- Property type categorization (Commercial, Land, Multi-Family, etc.)
+- Price per sqft calculation  
+- Undervalued property detection (arbitrage opportunities)
 - SQLite database storage  
 - One-command execution of full pipeline  
 
@@ -81,5 +87,13 @@ SQLite Database (data/properties.db)
 
 Phase 2 :
 The system now detects undervalued real estate opportunities using market-based pricing logic and stores them as structured intelligence in the database.
+
+Updates made on Jan 27, 2026:
+- Fixed scraper to work with new Craigslist HTML structure
+- Added regex extraction for sqft, bedrooms, bathrooms from titles
+- Improved cleaner to filter out rental listings (under $50k or /reb/ URLs)
+- Fixed analyzer column mismatch (area vs area_sqft)
+- Added property type categorization
+- Better formatted output with summary statistics
 
 ---
